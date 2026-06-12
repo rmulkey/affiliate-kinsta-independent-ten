@@ -6,6 +6,8 @@
   "scripts": {
     "kinsta:build": "node scripts/generate-kinsta-independent-ten.mjs",
     "kinsta:audit": "node scripts/audit-kinsta-independent-ten.mjs",
+    "premium:build": "node scripts/generate-kinsta-premium-ten.mjs",
+    "premium:audit": "node scripts/audit-kinsta-premium-ten.mjs",
     "build": "npm run kinsta:build"
   }
 }

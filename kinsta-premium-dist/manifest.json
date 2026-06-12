@@ -1,0 +1,79 @@
+{
+  "affiliateTag": "kinsta-sites-20",
+  "indexNowKey": "d0d7459d522cb7137ce2f9513ec0b6072076e3732352c802",
+  "lastUpdated": "2026-06-12",
+  "baseDomain": "kinsta.page",
+  "siteCount": 10,
+  "sites": [
+    {
+      "slug": "aroma-room-edit",
+      "brand": "Aroma Room Edit",
+      "projectName": "aroma-room-edit",
+      "baseUrl": "https://aroma-room-edit.kinsta.page",
+      "productCount": 60
+    },
+    {
+      "slug": "patio-pool-host",
+      "brand": "Patio Pool Host",
+      "projectName": "patio-pool-host",
+      "baseUrl": "https://patio-pool-host.kinsta.page",
+      "productCount": 54
+    },
+    {
+      "slug": "paper-creator-studio",
+      "brand": "Paper Creator Studio",
+      "projectName": "paper-creator-studio",
+      "baseUrl": "https://paper-creator-studio.kinsta.page",
+      "productCount": 56
+    },
+    {
+      "slug": "bake-bar-studio",
+      "brand": "Bake Bar Studio",
+      "projectName": "bake-bar-studio",
+      "baseUrl": "https://bake-bar-studio.kinsta.page",
+      "productCount": 56
+    },
+    {
+      "slug": "closet-weekend-edit",
+      "brand": "Closet Weekend Edit",
+      "projectName": "closet-weekend-edit",
+      "baseUrl": "https://closet-weekend-edit.kinsta.page",
+      "productCount": 58
+    },
+    {
+      "slug": "phone-ready-loop",
+      "brand": "Phone Ready Loop",
+      "projectName": "phone-ready-loop",
+      "baseUrl": "https://phone-ready-loop.kinsta.page",
+      "productCount": 56
+    },
+    {
+      "slug": "dog-calm-kit",
+      "brand": "Dog Calm Kit",
+      "projectName": "dog-calm-kit",
+      "baseUrl": "https://dog-calm-kit.kinsta.page",
+      "productCount": 60
+    },
+    {
+      "slug": "golf-court-locker",
+      "brand": "Golf Court Locker",
+      "projectName": "golf-court-locker",
+      "baseUrl": "https://golf-court-locker.kinsta.page",
+      "productCount": 56
+    },
+    {
+      "slug": "nail-gloss-table",
+      "brand": "Nail Gloss Table",
+      "projectName": "nail-gloss-table",
+      "baseUrl": "https://nail-gloss-table.kinsta.page",
+      "productCount": 56
+    },
+    {
+      "slug": "garage-bike-tools",
+      "brand": "Garage Bike Tools",
+      "projectName": "garage-bike-tools",
+      "baseUrl": "https://garage-bike-tools.kinsta.page",
+      "productCount": 56
+    }
+  ]
+}

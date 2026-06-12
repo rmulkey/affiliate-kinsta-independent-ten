@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patio-pool-host.kinsta.page/sitemap.xml

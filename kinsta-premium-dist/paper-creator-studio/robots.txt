@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paper-creator-studio.kinsta.page/sitemap.xml

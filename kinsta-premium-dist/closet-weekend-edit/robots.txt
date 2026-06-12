@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://closet-weekend-edit.kinsta.page/sitemap.xml
