@@ -1,5 +1,5 @@
 import { cp, mkdir, rm, writeFile } from "node:fs/promises";
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
 
 const affiliateTag = "kinsta-sites-20";
@@ -337,6 +337,14 @@ function shortCategory(site) {
   return site.category.replace(/\s+And\s+/g, " + ");
 }
 
+function logoHref(site) {
+  return site.slug === "morning-counter" ? "/assets/logo.png" : "/assets/icon.svg";
+}
+
+function absoluteLogoUrl(site) {
+  return `${site.baseUrl}${logoHref(site)}`;
+}
+
 function iconSvg(site) {
   const [, ink, accent, strong, soft] = site.palette;
   const id = slugify(site.slug);
@@ -360,7 +368,8 @@ function iconSvg(site) {
 
 function shell(site, { title, description, canonical, body, schema }) {
   const [bg, ink, accent, strong, soft] = site.palette;
-  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escapeHtml(title)}</title><meta name="description" content="${escapeHtml(description)}"><meta name="google-site-verification" content="${googleMetaVerification}"><meta name="msvalidate.01" content="${bingVerificationToken}"><link rel="canonical" href="${canonical}"><meta name="robots" content="index,follow,max-image-preview:large"><meta property="og:title" content="${escapeHtml(title)}"><meta property="og:description" content="${escapeHtml(description)}"><meta property="og:url" content="${canonical}"><meta property="og:type" content="website"><meta property="og:image" content="${site.baseUrl}/assets/icon.svg"><meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="${accent}"><link rel="icon" href="/assets/icon.svg"><link rel="stylesheet" href="/assets/styles.css"><style>:root{--bg:${bg};--ink:${ink};--accent:${accent};--strong:${strong};--soft:${soft}}</style><script type="application/ld+json">${JSON.stringify(schema)}</script></head><body><a class="skip-link" href="#main">Skip to content</a><header class="topbar"><a class="brand" href="/"><img src="/assets/icon.svg" alt="" width="40" height="40"><span>${escapeHtml(site.brand)}</span></a><nav aria-label="Primary"><a href="/top-50/">Top Picks</a><a href="/products/">Compare</a><a href="/editorial-policy/">How We Choose</a><a class="trust-link" href="/affiliate-disclosure/">Disclosure</a></nav></header>${body}<footer><strong>${escapeHtml(site.brand)}</strong><span>${escapeHtml(shortCategory(site))}. Updated ${lastUpdated}.</span><a href="/sitemap.xml">Sitemap</a></footer></body></html>`;
+  const logo = logoHref(site);
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escapeHtml(title)}</title><meta name="description" content="${escapeHtml(description)}"><meta name="google-site-verification" content="${googleMetaVerification}"><meta name="msvalidate.01" content="${bingVerificationToken}"><link rel="canonical" href="${canonical}"><meta name="robots" content="index,follow,max-image-preview:large"><meta property="og:title" content="${escapeHtml(title)}"><meta property="og:description" content="${escapeHtml(description)}"><meta property="og:url" content="${canonical}"><meta property="og:type" content="website"><meta property="og:image" content="${absoluteLogoUrl(site)}"><meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="${accent}"><link rel="icon" href="${logo}"><link rel="apple-touch-icon" href="${logo}"><link rel="stylesheet" href="/assets/styles.css"><style>:root{--bg:${bg};--ink:${ink};--accent:${accent};--strong:${strong};--soft:${soft}}</style><script type="application/ld+json">${JSON.stringify(schema)}</script></head><body><a class="skip-link" href="#main">Skip to content</a><header class="topbar"><a class="brand" href="/"><img src="${logo}" alt="" width="40" height="40"><span>${escapeHtml(site.brand)}</span></a><nav aria-label="Primary"><a href="/top-50/">Top Picks</a><a href="/products/">Compare</a><a href="/editorial-policy/">How We Choose</a><a class="trust-link" href="/affiliate-disclosure/">Disclosure</a></nav></header>${body}<footer><strong>${escapeHtml(site.brand)}</strong><span>${escapeHtml(shortCategory(site))}. Updated ${lastUpdated}.</span><a href="/sitemap.xml">Sitemap</a></footer></body></html>`;
 }
 
 function disclosure(site) {
@@ -457,6 +466,10 @@ async function buildSite(site) {
   for (const page of site.guidePages) await writeFile(path.join(outDir, "best", page[0], "index.html"), guidePage(site, products, page));
   for (const support of ["affiliate-disclosure", "editorial-policy", "contact"]) await writeFile(path.join(outDir, support, "index.html"), supportPage(site, support));
   await writeFile(path.join(outDir, "assets", "icon.svg"), iconSvg(site));
+  const customLogo = path.join("public", "brand-assets", site.slug, "logo.png");
+  if (existsSync(customLogo)) {
+    await cp(customLogo, path.join(outDir, "assets", "logo.png"));
+  }
   await writeFile(path.join(outDir, "assets", "styles.css"), styles());
   await writeFile(path.join(outDir, `${indexNowKey}.txt`), indexNowKey);
   await writeFile(path.join(outDir, googleVerificationFile), googleVerificationBody);
