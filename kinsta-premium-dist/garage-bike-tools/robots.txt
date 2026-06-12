@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://garage-bike-tools-public-2duox.kinsta.page/sitemap.xml
+Sitemap: https://garage-bike-tools.kinsta.page/sitemap.xml

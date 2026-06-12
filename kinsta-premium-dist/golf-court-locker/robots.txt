@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://golf-court-locker-public-tj0u4.kinsta.page/sitemap.xml
+Sitemap: https://golf-court-locker.kinsta.page/sitemap.xml
