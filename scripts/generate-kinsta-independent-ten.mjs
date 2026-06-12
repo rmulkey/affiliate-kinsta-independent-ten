@@ -5,7 +5,7 @@ import path from "node:path";
 const affiliateTag = "kinsta-sites-20";
 const rootOutDir = "kinsta-independent-dist";
 const lastUpdated = new Date().toLocaleDateString("sv-SE", { timeZone: "America/New_York" });
-const baseDomain = process.env.KINSTA_BASE_DOMAIN ?? "sevalla.page";
+const baseDomain = process.env.KINSTA_BASE_DOMAIN ?? "kinsta.page";
 const indexNowKey = "d0d7459d522cb7137ce2f9513ec0b6072076e3732352c802";
 const googleVerificationFile = "googleb6f86f0478c29141.html";
 const googleVerificationBody = "google-site-verification: googleb6f86f0478c29141.html";

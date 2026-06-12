@@ -2,77 +2,77 @@
   "affiliateTag": "kinsta-sites-20",
   "indexNowKey": "d0d7459d522cb7137ce2f9513ec0b6072076e3732352c802",
   "lastUpdated": "2026-06-12",
-  "baseDomain": "sevalla.page",
+  "baseDomain": "kinsta.page",
   "siteCount": 10,
   "sites": [
     {
       "slug": "deskflow-edit",
       "brand": "DeskFlow Edit",
       "projectName": "deskflow-edit",
-      "baseUrl": "https://deskflow-edit.sevalla.page",
+      "baseUrl": "https://deskflow-edit.kinsta.page",
       "productCount": 51
     },
     {
       "slug": "morning-counter",
       "brand": "Morning Counter",
       "projectName": "morning-counter",
-      "baseUrl": "https://morning-counter.sevalla.page",
+      "baseUrl": "https://morning-counter.kinsta.page",
       "productCount": 55
     },
     {
       "slug": "trail-cabin-kit",
       "brand": "Trail Cabin Kit",
       "projectName": "trail-cabin-kit",
-      "baseUrl": "https://trail-cabin-kit.sevalla.page",
+      "baseUrl": "https://trail-cabin-kit.kinsta.page",
       "productCount": 56
     },
     {
       "slug": "classroom-maker",
       "brand": "Classroom Maker",
       "projectName": "classroom-maker",
-      "baseUrl": "https://classroom-maker.sevalla.page",
+      "baseUrl": "https://classroom-maker.kinsta.page",
       "productCount": 54
     },
     {
       "slug": "dorm-study-stack",
       "brand": "Dorm Study Stack",
       "projectName": "dorm-study-stack",
-      "baseUrl": "https://dorm-study-stack.sevalla.page",
+      "baseUrl": "https://dorm-study-stack.kinsta.page",
       "productCount": 55
     },
     {
       "slug": "table-party-play",
       "brand": "Table Party Play",
       "projectName": "table-party-play",
-      "baseUrl": "https://table-party-play.sevalla.page",
+      "baseUrl": "https://table-party-play.kinsta.page",
       "productCount": 56
     },
     {
       "slug": "garden-plant-studio",
       "brand": "Garden Plant Studio",
       "projectName": "garden-plant-studio",
-      "baseUrl": "https://garden-plant-studio.sevalla.page",
+      "baseUrl": "https://garden-plant-studio.kinsta.page",
       "productCount": 56
     },
     {
       "slug": "active-daily-kit",
       "brand": "Active Daily Kit",
       "projectName": "active-daily-kit",
-      "baseUrl": "https://active-daily-kit.sevalla.page",
+      "baseUrl": "https://active-daily-kit.kinsta.page",
       "productCount": 60
     },
     {
       "slug": "beauty-bath-edit",
       "brand": "Beauty Bath Edit",
       "projectName": "beauty-bath-edit",
-      "baseUrl": "https://beauty-bath-edit.sevalla.page",
+      "baseUrl": "https://beauty-bath-edit.kinsta.page",
       "productCount": 60
     },
     {
       "slug": "home-reset-lab",
       "brand": "Home Reset Lab",
       "projectName": "home-reset-lab",
-      "baseUrl": "https://home-reset-lab.sevalla.page",
+      "baseUrl": "https://home-reset-lab.kinsta.page",
       "productCount": 60
     }
   ]
