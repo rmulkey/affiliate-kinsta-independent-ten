@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deskflow-edit.sevalla.page/sitemap.xml

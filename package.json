@@ -1,0 +1,11 @@
+{
+  "name": "affiliate-kinsta-independent-ten",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "kinsta:build": "node scripts/generate-kinsta-independent-ten.mjs",
+    "kinsta:audit": "node scripts/audit-kinsta-independent-ten.mjs",
+    "build": "npm run kinsta:build"
+  }
+}

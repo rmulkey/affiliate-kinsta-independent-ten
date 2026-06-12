@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://active-daily-kit.sevalla.page/sitemap.xml

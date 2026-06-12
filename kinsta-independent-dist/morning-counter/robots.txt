@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://morning-counter.sevalla.page/sitemap.xml

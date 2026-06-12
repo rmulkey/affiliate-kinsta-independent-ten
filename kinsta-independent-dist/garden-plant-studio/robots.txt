@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://garden-plant-studio.sevalla.page/sitemap.xml

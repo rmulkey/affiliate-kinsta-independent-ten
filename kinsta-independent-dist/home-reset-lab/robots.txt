@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home-reset-lab.sevalla.page/sitemap.xml
