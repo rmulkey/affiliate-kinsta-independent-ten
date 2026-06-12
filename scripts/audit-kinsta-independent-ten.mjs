@@ -27,7 +27,7 @@ const manifest = readJson(manifestPath);
 const globalChecks = {
   tenSites: manifest.siteCount === 10 && manifest.sites?.length === 10,
   affiliateTag: manifest.affiliateTag === expectedAffiliateTag,
-  sevallaHosts: manifest.sites.every((site) => site.baseUrl.endsWith(".sevalla.page")),
+  kinstaHosts: manifest.sites.every((site) => site.baseUrl.endsWith(".kinsta.page")),
   distinctProjects: new Set(manifest.sites.map((site) => site.projectName)).size === 10
 };
 
