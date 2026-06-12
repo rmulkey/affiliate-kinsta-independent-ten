@@ -15,7 +15,7 @@ const bingVerificationToken = "750056853078BFC5A0F22A9F1308D80B";
 const sites = [
   {
     slug: "aroma-room-edit",
-    domain: "aroma-room-edit-jaapb.kinsta.page",
+    domain: "aroma-room-edit-public-1t0wl.kinsta.page",
     brand: "Aroma Room Edit",
     category: "Candles, Diffusers, And Calm Home Fragrance",
     eyebrow: "Scent-layer buying edit",
@@ -36,7 +36,7 @@ const sites = [
   },
   {
     slug: "patio-pool-host",
-    domain: "patio-pool-host-b3hbr.kinsta.page",
+    domain: "patio-pool-host-public-3e7mu.kinsta.page",
     brand: "Patio Pool Host",
     category: "Patio Hosting And Poolside Accessories",
     eyebrow: "Outdoor hosting board",
@@ -56,7 +56,7 @@ const sites = [
   },
   {
     slug: "paper-creator-studio",
-    domain: "paper-creator-studio-smebt.kinsta.page",
+    domain: "paper-creator-studio-public-c78x4.kinsta.page",
     brand: "Paper Creator Studio",
     category: "Stationery, Journaling, And Creator Desk Tools",
     eyebrow: "Analog creator desk",
@@ -77,7 +77,7 @@ const sites = [
   },
   {
     slug: "bake-bar-studio",
-    domain: "bake-bar-studio-z63vz.kinsta.page",
+    domain: "bake-bar-studio-public-tyqej.kinsta.page",
     brand: "Bake Bar Studio",
     category: "Baking Tools And Bar Cart Accessories",
     eyebrow: "Hosting prep edit",
@@ -98,7 +98,7 @@ const sites = [
   },
   {
     slug: "closet-weekend-edit",
-    domain: "closet-weekend-edit-fjh1f.kinsta.page",
+    domain: "closet-weekend-edit-public-5osva.kinsta.page",
     brand: "Closet Weekend Edit",
     category: "Closet Organization And Weekend Style Accessories",
     eyebrow: "Wardrobe reset map",
@@ -119,7 +119,7 @@ const sites = [
   },
   {
     slug: "phone-ready-loop",
-    domain: "phone-ready-loop-94q9n.kinsta.page",
+    domain: "phone-ready-loop-public-o8km4.kinsta.page",
     brand: "Phone Ready Loop",
     category: "Phone Accessories And Everyday Carry Gear",
     eyebrow: "Daily carry upgrade",
@@ -140,7 +140,7 @@ const sites = [
   },
   {
     slug: "dog-calm-kit",
-    domain: "dog-calm-kit-a7kmv.kinsta.page",
+    domain: "dog-calm-kit-public-6pkwn.kinsta.page",
     brand: "Dog Calm Kit",
     category: "Dog Walking, Pet Care, And Rest Accessories",
     eyebrow: "Pet routine board",
@@ -161,7 +161,7 @@ const sites = [
   },
   {
     slug: "golf-court-locker",
-    domain: "golf-court-locker-kl3ux.kinsta.page",
+    domain: "golf-court-locker-public-tj0u4.kinsta.page",
     brand: "Golf Court Locker",
     category: "Golf, Tennis, And Court Sport Accessories",
     eyebrow: "Weekend sport locker",
@@ -181,7 +181,7 @@ const sites = [
   },
   {
     slug: "nail-gloss-table",
-    domain: "nail-gloss-table-wp30x.kinsta.page",
+    domain: "nail-gloss-table-public-yx84b.kinsta.page",
     brand: "Nail Gloss Table",
     category: "Nail Tools, Polish Storage, And Beauty Table Accessories",
     eyebrow: "At-home nail desk",
@@ -202,7 +202,7 @@ const sites = [
   },
   {
     slug: "garage-bike-tools",
-    domain: "garage-bike-tools-f5zkm.kinsta.page",
+    domain: "garage-bike-tools-public-2duox.kinsta.page",
     brand: "Garage Bike Tools",
     category: "Bike Accessories And Garage Tool Storage",
     eyebrow: "Repair corner edit",

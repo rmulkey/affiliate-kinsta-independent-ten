@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://paper-creator-studio-smebt.kinsta.page/sitemap.xml
+Sitemap: https://paper-creator-studio-public-c78x4.kinsta.page/sitemap.xml
