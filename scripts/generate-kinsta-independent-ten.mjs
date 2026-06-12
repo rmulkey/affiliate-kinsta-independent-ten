@@ -390,8 +390,13 @@ function supportPage(site, slug) {
     : slug === "editorial-policy"
       ? `${site.brand} uses real product-page URLs, real product imagery, clear affiliate labeling, buyer-intent grouping, and internal links designed to help shoppers compare without pretending to provide hands-on lab testing.`
       : `For ${site.brand}, use the portfolio owner workflow to update products, tracking IDs, bounty links, or stale images.`;
+  const description = isDisclosure
+    ? `${site.brand} may earn from qualifying Amazon purchases and avoids static price, rating, stock, and shipping claims.`
+    : slug === "editorial-policy"
+      ? `${site.brand} explains how products are selected, linked, disclosed, and refreshed for affiliate shoppers.`
+      : copy;
   const body = `<main id="main"><section class="page-hero"><p class="eyebrow">${escapeHtml(site.brand)}</p><h1>${escapeHtml(title)}</h1><p>${escapeHtml(copy)}</p></section></main>`;
-  return shell(site, { title: `${title} | ${site.brand}`, description: copy, canonical: `${site.baseUrl}/${slug}/`, body, schema: { "@context": "https://schema.org", "@type": "WebPage", name: `${title} | ${site.brand}` } });
+  return shell(site, { title: `${title} | ${site.brand}`, description, canonical: `${site.baseUrl}/${slug}/`, body, schema: { "@context": "https://schema.org", "@type": "WebPage", name: `${title} | ${site.brand}` } });
 }
 
 function styles() {
