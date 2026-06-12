@@ -53,6 +53,7 @@ for (const site of manifest.sites) {
   const allHtml = `${indexHtml}\n${productsHtml}`;
   const amazonLinks = [...allHtml.matchAll(/https:\/\/www\.amazon\.com\/dp\/[A-Z0-9]{10}\?tag=kinsta-sites-20/g)].map((match) => match[0]);
   const imageRefs = [...allHtml.matchAll(/<img[^>]+src="([^"]+)"/g)].map((match) => match[1]);
+  const localImageRefs = imageRefs.filter((image) => image.startsWith("/images/"));
   const disclosureIndex = indexHtml.indexOf("Affiliate disclosure:");
   const firstAmazonIndex = indexHtml.indexOf("https://www.amazon.com/dp/");
   const checks = {
@@ -60,6 +61,7 @@ for (const site of manifest.sites) {
     taggedAmazonLinks: amazonLinks.length >= 50,
     realImages: data.products.every((product) => product.image?.startsWith("https://m.media-amazon.com/") || product.image?.startsWith("/images/")),
     renderedImages: imageRefs.length >= 20,
+    localImagesExist: localImageRefs.every((image) => existsSync(path.join(siteDir, image))),
     disclosureBeforeAmazon: disclosureIndex >= 0 && firstAmazonIndex >= 0 && disclosureIndex < firstAmazonIndex,
     monetizationSurface: Array.isArray(data.monetizationSurface) && data.monetizationSurface.some((item) => item.kind === "standard_commission"),
     sitemap: readFileSync(sitemapPath, "utf8").includes(`${site.baseUrl}/products/`),

@@ -403,6 +403,7 @@ async function buildSite(site) {
   const products = await loadProducts(site);
   const outDir = path.join(rootOutDir, site.slug);
   await mkdir(path.join(outDir, "assets"), { recursive: true });
+  await cp("public/images", path.join(outDir, "images"), { recursive: true });
   await mkdir(path.join(outDir, "products"), { recursive: true });
   await mkdir(path.join(outDir, "top-50"), { recursive: true });
   for (const [slug] of site.guidePages) await mkdir(path.join(outDir, "best", slug), { recursive: true });
