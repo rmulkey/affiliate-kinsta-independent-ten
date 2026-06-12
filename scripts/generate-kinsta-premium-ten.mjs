@@ -15,6 +15,7 @@ const bingVerificationToken = "750056853078BFC5A0F22A9F1308D80B";
 const sites = [
   {
     slug: "aroma-room-edit",
+    domain: "aroma-room-edit-jaapb.kinsta.page",
     brand: "Aroma Room Edit",
     category: "Candles, Diffusers, And Calm Home Fragrance",
     eyebrow: "Scent-layer buying edit",
@@ -35,6 +36,7 @@ const sites = [
   },
   {
     slug: "patio-pool-host",
+    domain: "patio-pool-host-b3hbr.kinsta.page",
     brand: "Patio Pool Host",
     category: "Patio Hosting And Poolside Accessories",
     eyebrow: "Outdoor hosting board",
@@ -54,6 +56,7 @@ const sites = [
   },
   {
     slug: "paper-creator-studio",
+    domain: "paper-creator-studio-smebt.kinsta.page",
     brand: "Paper Creator Studio",
     category: "Stationery, Journaling, And Creator Desk Tools",
     eyebrow: "Analog creator desk",
@@ -74,6 +77,7 @@ const sites = [
   },
   {
     slug: "bake-bar-studio",
+    domain: "bake-bar-studio-z63vz.kinsta.page",
     brand: "Bake Bar Studio",
     category: "Baking Tools And Bar Cart Accessories",
     eyebrow: "Hosting prep edit",
@@ -94,6 +98,7 @@ const sites = [
   },
   {
     slug: "closet-weekend-edit",
+    domain: "closet-weekend-edit-fjh1f.kinsta.page",
     brand: "Closet Weekend Edit",
     category: "Closet Organization And Weekend Style Accessories",
     eyebrow: "Wardrobe reset map",
@@ -114,6 +119,7 @@ const sites = [
   },
   {
     slug: "phone-ready-loop",
+    domain: "phone-ready-loop-94q9n.kinsta.page",
     brand: "Phone Ready Loop",
     category: "Phone Accessories And Everyday Carry Gear",
     eyebrow: "Daily carry upgrade",
@@ -134,6 +140,7 @@ const sites = [
   },
   {
     slug: "dog-calm-kit",
+    domain: "dog-calm-kit-a7kmv.kinsta.page",
     brand: "Dog Calm Kit",
     category: "Dog Walking, Pet Care, And Rest Accessories",
     eyebrow: "Pet routine board",
@@ -154,6 +161,7 @@ const sites = [
   },
   {
     slug: "golf-court-locker",
+    domain: "golf-court-locker-kl3ux.kinsta.page",
     brand: "Golf Court Locker",
     category: "Golf, Tennis, And Court Sport Accessories",
     eyebrow: "Weekend sport locker",
@@ -173,6 +181,7 @@ const sites = [
   },
   {
     slug: "nail-gloss-table",
+    domain: "nail-gloss-table-wp30x.kinsta.page",
     brand: "Nail Gloss Table",
     category: "Nail Tools, Polish Storage, And Beauty Table Accessories",
     eyebrow: "At-home nail desk",
@@ -193,6 +202,7 @@ const sites = [
   },
   {
     slug: "garage-bike-tools",
+    domain: "garage-bike-tools-f5zkm.kinsta.page",
     brand: "Garage Bike Tools",
     category: "Bike Accessories And Garage Tool Storage",
     eyebrow: "Repair corner edit",
@@ -452,7 +462,7 @@ function styles() {
 }
 
 async function buildSite(site) {
-  site.baseUrl = `https://${site.slug}.${baseDomain}`;
+  site.baseUrl = `https://${site.domain ?? `${site.slug}.${baseDomain}`}`;
   const products = await loadProducts(site);
   const outDir = path.join(rootOutDir, site.slug);
   await mkdir(path.join(outDir, "assets"), { recursive: true });
