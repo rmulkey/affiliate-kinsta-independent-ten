@@ -4,7 +4,7 @@
   "baseUrl": "https://patio-pool-host.kinsta.page",
   "platform": "Kinsta/Sevalla Static Site Hosting",
   "affiliateTag": "kinsta-sites-20",
-  "lastUpdated": "2026-06-12",
+  "lastUpdated": "2026-06-23",
   "productCount": 54,
   "monetizationSurface": [
     {
@@ -29,42 +29,10 @@
     "https://patio-pool-host.kinsta.page/best/backyard-comfort-tools/",
     "https://patio-pool-host.kinsta.page/affiliate-disclosure/",
     "https://patio-pool-host.kinsta.page/editorial-policy/",
-    "https://patio-pool-host.kinsta.page/contact/"
+    "https://patio-pool-host.kinsta.page/contact/",
+    "https://patio-pool-host.kinsta.page/prime-day/"
   ],
   "products": [
-    {
-      "asin": "B075NS8YXG",
-      "source": "outpost-patio",
-      "name": "Brightech Ambience Pro Solar Powered Outdoor String Lights, 27 ft",
-      "category": "Lighting",
-      "description": "A quick bistro-light upgrade for balconies, fences, pergolas, and tiny patios that need a softer evening glow.",
-      "bestFor": "Warm patio lighting without hardwiring",
-      "image": "/images/outpost-patio/brightech-string-lights.jpg",
-      "imageAlt": "Brightech Ambience Pro Solar Powered Outdoor String Lights, 27 ft",
-      "url": "https://www.amazon.com/dp/B075NS8YXG?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B09F9C3KFS",
-      "source": "outpost-patio",
-      "name": "Grenebo Gardening Tools 9-Piece Heavy Duty Garden Hand Tools with Organizer Handbag",
-      "category": "Garden Comfort",
-      "description": "A tidy starter kit for container gardeners, balcony planters, and anyone who wants the basics in one grab-and-go bag.",
-      "bestFor": "First patio garden toolkit",
-      "image": "/images/outpost-patio/grenebo-garden-tools.jpg",
-      "imageAlt": "Grenebo Gardening Tools 9-Piece Heavy Duty Garden Hand Tools with Organizer Handbag",
-      "url": "https://www.amazon.com/dp/B09F9C3KFS?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0BWH7788Y",
-      "source": "outpost-patio",
-      "name": "Keboe 50 ft Heavy Duty Stainless Steel Garden Hose with 10-Function Nozzle",
-      "category": "Garden Comfort",
-      "description": "A compact outdoor hose pick for watering planters, rinsing rugs, and keeping small patios from turning into a chore zone.",
-      "bestFor": "Low-fuss watering and cleanup",
-      "image": "/images/outpost-patio/keboe-stainless-garden-hose.jpg",
-      "imageAlt": "Keboe 50 ft Heavy Duty Stainless Steel Garden Hose with 10-Function Nozzle",
-      "url": "https://www.amazon.com/dp/B0BWH7788Y?tag=kinsta-sites-20"
-    },
     {
       "asin": "B0CSFJFZPB",
       "source": "outpost-patio",
@@ -75,6 +43,28 @@
       "image": "/images/outpost-patio/abba-patio-umbrella-lyon.jpg",
       "imageAlt": "Abba Patio 9FT Lyon Outdoor Patio Umbrella with Push Button Tilt and Crank",
       "url": "https://www.amazon.com/dp/B0CSFJFZPB?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CXD5NY2S",
+      "source": "outpost-patio",
+      "name": "Shintenchi 2 PCS Outdoor Chaise Lounges Chair with Wheels",
+      "category": "Furniture",
+      "description": "A two-chaise setup for poolside reading, backyard sun time, or turning an empty deck into a real relaxation spot.",
+      "bestFor": "Poolside lounging",
+      "image": "/images/outpost-patio/shintenchi-chaise-lounge-set.jpg",
+      "imageAlt": "Shintenchi 2 PCS Outdoor Chaise Lounges Chair with Wheels",
+      "url": "https://www.amazon.com/dp/B0CXD5NY2S?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B09YMK6PVM",
+      "source": "outpost-patio",
+      "name": "Devoko Dining 7 PCS Patio Conversation Set with Acacia Wood Table Top",
+      "category": "Hosting",
+      "description": "A complete outdoor dining set for families or hosts who want dinner outside to feel like a real room, not an afterthought.",
+      "bestFor": "Backyard dining",
+      "image": "/images/outpost-patio/devoko-dining-set.jpg",
+      "imageAlt": "Devoko Dining 7 PCS Patio Conversation Set with Acacia Wood Table Top",
+      "url": "https://www.amazon.com/dp/B09YMK6PVM?tag=kinsta-sites-20"
     },
     {
       "asin": "B007O1CAZQ",
@@ -88,17 +78,6 @@
       "url": "https://www.amazon.com/dp/B007O1CAZQ?tag=kinsta-sites-20"
     },
     {
-      "asin": "B09PVHFYQS",
-      "source": "outpost-patio",
-      "name": "GENIMO Outdoor Rug for Patio, 9 x 12 Waterproof Reversible Plastic Camping Rug",
-      "category": "Outdoor Rugs",
-      "description": "A big visual reset for patios and RV setups when the floor needs texture, pattern, and an easier-to-clean surface.",
-      "bestFor": "Large patio zones",
-      "image": "/images/outpost-patio/genimo-outdoor-rug.jpg",
-      "imageAlt": "GENIMO Outdoor Rug for Patio, 9 x 12 Waterproof Reversible Plastic Camping Rug",
-      "url": "https://www.amazon.com/dp/B09PVHFYQS?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0CH36DTRL",
       "source": "outpost-patio",
       "name": "Flamaker Patio Furniture Set 3 Pieces All-Weather Rattan Outdoor Chairs and Table",
@@ -110,15 +89,59 @@
       "url": "https://www.amazon.com/dp/B0CH36DTRL?tag=kinsta-sites-20"
     },
     {
-      "asin": "B086JFWSXN",
+      "asin": "B08NJ9X3FJ",
       "source": "outpost-patio",
-      "name": "Best Choice Products Set of 2 Adjustable Steel Mesh Zero Gravity Lounge Chair Recliners",
-      "category": "Furniture",
-      "description": "Easy reclining chairs for lazy afternoons, poolside hangs, and extra guest seating that can fold away when the party is done.",
-      "bestFor": "Flexible lounge seating",
-      "image": "/images/outpost-patio/best-choice-zero-gravity-chairs.jpg",
-      "imageAlt": "Best Choice Products Set of 2 Adjustable Steel Mesh Zero Gravity Lounge Chair Recliners",
-      "url": "https://www.amazon.com/dp/B086JFWSXN?tag=kinsta-sites-20"
+      "name": "downluxe Outdoor Chair Cushions, Waterproof Patio Chair Cushion Set",
+      "category": "Garden Comfort",
+      "description": "A comfort refresh for older patio chairs when the frame is fine but the seating needs a softer, cleaner look.",
+      "bestFor": "Chair refresh",
+      "image": "/images/outpost-patio/downluxe-outdoor-chair-cushions.jpg",
+      "imageAlt": "downluxe Outdoor Chair Cushions, Waterproof Patio Chair Cushion Set",
+      "url": "https://www.amazon.com/dp/B08NJ9X3FJ?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B082BR6BVT",
+      "source": "outpost-patio",
+      "name": "Keter Pacific Cool Bar Outdoor Patio Side Table",
+      "category": "Hosting",
+      "description": "A pop-up cooler table for shoppers who want a hosting piece that looks like furniture instead of a camping cooler.",
+      "bestFor": "Hidden cooler storage",
+      "image": "/images/outpost-patio/keter-cool-bar-side-table.jpg",
+      "imageAlt": "Keter Pacific Cool Bar Outdoor Patio Side Table",
+      "url": "https://www.amazon.com/dp/B082BR6BVT?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0G3WQBMLL",
+      "source": "poolside-stack",
+      "name": "BITIWEND Solar Pool Lights for Framed Above Ground Pools, Waterproof Swimming Pool Accessories Lights, for Outdoor Pool Yard Garden Decorat...",
+      "category": "Lighting",
+      "description": "A strong add-to-cart candidate for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71pfZRFtsAL._AC_UL320_.jpg",
+      "imageAlt": "BITIWEND Solar Pool Lights for Framed Above Ground Pools, Waterproof Swimming Pool Accessories Lights, for Outdoor Pool Yard Garden Decorat...",
+      "url": "https://www.amazon.com/dp/B0G3WQBMLL?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CKRS5PG2",
+      "source": "poolside-stack",
+      "name": "Yozoluck Pool Towel Rack Outdoor, 6 Bars Metal Heavy Duty Never Tilt Pool Accessories with Heavy Metal Base, Hot Tub Accessories Towel Dyin...",
+      "category": "Comfort",
+      "description": "A practical first-click pick for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71bXuCEq2KL._AC_UL320_.jpg",
+      "imageAlt": "Yozoluck Pool Towel Rack Outdoor, 6 Bars Metal Heavy Duty Never Tilt Pool Accessories with Heavy Metal Base, Hot Tub Accessories Towel Dyin...",
+      "url": "https://www.amazon.com/dp/B0CKRS5PG2?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B09PVHFYQS",
+      "source": "outpost-patio",
+      "name": "GENIMO Outdoor Rug for Patio, 9 x 12 Waterproof Reversible Plastic Camping Rug",
+      "category": "Outdoor Rugs",
+      "description": "A big visual reset for patios and RV setups when the floor needs texture, pattern, and an easier-to-clean surface.",
+      "bestFor": "Large patio zones",
+      "image": "/images/outpost-patio/genimo-outdoor-rug.jpg",
+      "imageAlt": "GENIMO Outdoor Rug for Patio, 9 x 12 Waterproof Reversible Plastic Camping Rug",
+      "url": "https://www.amazon.com/dp/B09PVHFYQS?tag=kinsta-sites-20"
     },
     {
       "asin": "B0045E7A64",
@@ -132,15 +155,103 @@
       "url": "https://www.amazon.com/dp/B0045E7A64?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0CXD5NY2S",
+      "asin": "B0CT1ZCGLV",
       "source": "outpost-patio",
-      "name": "Shintenchi 2 PCS Outdoor Chaise Lounges Chair with Wheels",
+      "name": "WdtPro Solar Lanterns Outdoor Waterproof Hanging Solar Lights, 2 Pack",
+      "category": "Lighting",
+      "description": "A soft-glow decor pick for hanging near steps, planters, fences, or porch hooks when string lights feel like too much.",
+      "bestFor": "Decorative solar glow",
+      "image": "/images/outpost-patio/wdtpro-solar-lanterns.jpg",
+      "imageAlt": "WdtPro Solar Lanterns Outdoor Waterproof Hanging Solar Lights, 2 Pack",
+      "url": "https://www.amazon.com/dp/B0CT1ZCGLV?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0GF1PRX8L",
+      "source": "outpost-patio",
+      "name": "LIFFY Mosaic Outdoor Side Table, 14 Inch Round Flower Patio Table",
       "category": "Furniture",
-      "description": "A two-chaise setup for poolside reading, backyard sun time, or turning an empty deck into a real relaxation spot.",
-      "bestFor": "Poolside lounging",
-      "image": "/images/outpost-patio/shintenchi-chaise-lounge-set.jpg",
-      "imageAlt": "Shintenchi 2 PCS Outdoor Chaise Lounges Chair with Wheels",
-      "url": "https://www.amazon.com/dp/B0CXD5NY2S?tag=kinsta-sites-20"
+      "description": "A small accent table for coffee, books, candles, or snacks when a full patio table would crowd the space.",
+      "bestFor": "Tiny patio surfaces",
+      "image": "/images/outpost-patio/liffy-mosaic-side-table.jpg",
+      "imageAlt": "LIFFY Mosaic Outdoor Side Table, 14 Inch Round Flower Patio Table",
+      "url": "https://www.amazon.com/dp/B0GF1PRX8L?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CSFK4W44",
+      "source": "outpost-patio",
+      "name": "Abba Patio Outdoor Market Umbrella with Crank and Tilt",
+      "category": "Shade",
+      "description": "A second shade option for shoppers who want the same practical umbrella idea in a different Amazon listing or color path.",
+      "bestFor": "Flexible shade styling",
+      "image": "/images/outpost-patio/abba-patio-umbrella-market.jpg",
+      "imageAlt": "Abba Patio Outdoor Market Umbrella with Crank and Tilt",
+      "url": "https://www.amazon.com/dp/B0CSFK4W44?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B000J3Z7TC",
+      "source": "poolside-stack",
+      "name": "Hoyle Waterproof Playing Cards, Clear Plastic Deck of Cards for Outdoor Card Games, Camping, Beach, Pool & Travel Games (1 Deck)",
+      "category": "Pool And Beach",
+      "description": "A useful little upgrade for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81JkEmp-ZCL._AC_UL320_.jpg",
+      "imageAlt": "Hoyle Waterproof Playing Cards, Clear Plastic Deck of Cards for Outdoor Card Games, Camping, Beach, Pool & Travel Games (1 Deck)",
+      "url": "https://www.amazon.com/dp/B000J3Z7TC?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0GRGH75N3",
+      "source": "poolside-stack",
+      "name": "VICHTOP 2026 Upgrade 2 Sets Poolside Storage Basket, Above Ground Pool Accessories, Swimming Pool Storage Basket with Cup Holder, Mesh Bag...",
+      "category": "Storage",
+      "description": "A solid shortlist item for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81OSYUgRzhL._AC_UL320_.jpg",
+      "imageAlt": "VICHTOP 2026 Upgrade 2 Sets Poolside Storage Basket, Above Ground Pool Accessories, Swimming Pool Storage Basket with Cup Holder, Mesh Bag...",
+      "url": "https://www.amazon.com/dp/B0GRGH75N3?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CYCHN8VN",
+      "source": "poolside-stack",
+      "name": "AquaJoyer 2 Sets of Poolside Storage Baskets with Cup Holders - Perfect for 3-Inch or Smaller Top Rails - Above Ground Pool Accessories - F...",
+      "category": "Storage",
+      "description": "A clean routine helper for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81OjvQPoaiL._AC_UL320_.jpg",
+      "imageAlt": "AquaJoyer 2 Sets of Poolside Storage Baskets with Cup Holders - Perfect for 3-Inch or Smaller Top Rails - Above Ground Pool Accessories - F...",
+      "url": "https://www.amazon.com/dp/B0CYCHN8VN?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B075NS8YXG",
+      "source": "outpost-patio",
+      "name": "Brightech Ambience Pro Solar Powered Outdoor String Lights, 27 ft",
+      "category": "Lighting",
+      "description": "A quick bistro-light upgrade for balconies, fences, pergolas, and tiny patios that need a softer evening glow.",
+      "bestFor": "Warm patio lighting without hardwiring",
+      "image": "/images/outpost-patio/brightech-string-lights.jpg",
+      "imageAlt": "Brightech Ambience Pro Solar Powered Outdoor String Lights, 27 ft",
+      "url": "https://www.amazon.com/dp/B075NS8YXG?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BWH7788Y",
+      "source": "outpost-patio",
+      "name": "Keboe 50 ft Heavy Duty Stainless Steel Garden Hose with 10-Function Nozzle",
+      "category": "Garden Comfort",
+      "description": "A compact outdoor hose pick for watering planters, rinsing rugs, and keeping small patios from turning into a chore zone.",
+      "bestFor": "Low-fuss watering and cleanup",
+      "image": "/images/outpost-patio/keboe-stainless-garden-hose.jpg",
+      "imageAlt": "Keboe 50 ft Heavy Duty Stainless Steel Garden Hose with 10-Function Nozzle",
+      "url": "https://www.amazon.com/dp/B0BWH7788Y?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B086JFWSXN",
+      "source": "outpost-patio",
+      "name": "Best Choice Products Set of 2 Adjustable Steel Mesh Zero Gravity Lounge Chair Recliners",
+      "category": "Furniture",
+      "description": "Easy reclining chairs for lazy afternoons, poolside hangs, and extra guest seating that can fold away when the party is done.",
+      "bestFor": "Flexible lounge seating",
+      "image": "/images/outpost-patio/best-choice-zero-gravity-chairs.jpg",
+      "imageAlt": "Best Choice Products Set of 2 Adjustable Steel Mesh Zero Gravity Lounge Chair Recliners",
+      "url": "https://www.amazon.com/dp/B086JFWSXN?tag=kinsta-sites-20"
     },
     {
       "asin": "B0B2RGS7NP",
@@ -165,28 +276,6 @@
       "url": "https://www.amazon.com/dp/B0GC66L6X7?tag=kinsta-sites-20"
     },
     {
-      "asin": "B09YMK6PVM",
-      "source": "outpost-patio",
-      "name": "Devoko Dining 7 PCS Patio Conversation Set with Acacia Wood Table Top",
-      "category": "Hosting",
-      "description": "A complete outdoor dining set for families or hosts who want dinner outside to feel like a real room, not an afterthought.",
-      "bestFor": "Backyard dining",
-      "image": "/images/outpost-patio/devoko-dining-set.jpg",
-      "imageAlt": "Devoko Dining 7 PCS Patio Conversation Set with Acacia Wood Table Top",
-      "url": "https://www.amazon.com/dp/B09YMK6PVM?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B077X9Q9WR",
-      "source": "outpost-patio",
-      "name": "Burpee Wildflower 25,000 Bulk Seeds, 18 Varieties of Non-GMO Flower Seeds",
-      "category": "Planters",
-      "description": "A low-cost way to bring color to planters, borders, and pollinator-friendly corners without overthinking the whole garden plan.",
-      "bestFor": "Easy flower color",
-      "image": "/images/outpost-patio/burpee-wildflower-seeds.jpg",
-      "imageAlt": "Burpee Wildflower 25,000 Bulk Seeds, 18 Varieties of Non-GMO Flower Seeds",
-      "url": "https://www.amazon.com/dp/B077X9Q9WR?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B000BZ8HNG",
       "source": "outpost-patio",
       "name": "Miracle-Gro Water Soluble All Purpose Plant Food, 3 lbs.",
@@ -196,28 +285,6 @@
       "image": "/images/outpost-patio/miracle-gro-plant-food.jpg",
       "imageAlt": "Miracle-Gro Water Soluble All Purpose Plant Food, 3 lbs.",
       "url": "https://www.amazon.com/dp/B000BZ8HNG?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CQX8B5K9",
-      "source": "outpost-patio",
-      "name": "FEED GARDEN Glass Hummingbird Feeder, 16 oz Outdoor Hanging Bird Feeder",
-      "category": "Garden Decor",
-      "description": "A small charm upgrade for patios and gardens where you want movement, color, and a little wildlife moment outside the window.",
-      "bestFor": "Bird-friendly patios",
-      "image": "/images/outpost-patio/feed-garden-hummingbird-feeder.jpg",
-      "imageAlt": "FEED GARDEN Glass Hummingbird Feeder, 16 oz Outdoor Hanging Bird Feeder",
-      "url": "https://www.amazon.com/dp/B0CQX8B5K9?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CT1ZCGLV",
-      "source": "outpost-patio",
-      "name": "WdtPro Solar Lanterns Outdoor Waterproof Hanging Solar Lights, 2 Pack",
-      "category": "Lighting",
-      "description": "A soft-glow decor pick for hanging near steps, planters, fences, or porch hooks when string lights feel like too much.",
-      "bestFor": "Decorative solar glow",
-      "image": "/images/outpost-patio/wdtpro-solar-lanterns.jpg",
-      "imageAlt": "WdtPro Solar Lanterns Outdoor Waterproof Hanging Solar Lights, 2 Pack",
-      "url": "https://www.amazon.com/dp/B0CT1ZCGLV?tag=kinsta-sites-20"
     },
     {
       "asin": "B000FGZS2E",
@@ -231,61 +298,6 @@
       "url": "https://www.amazon.com/dp/B000FGZS2E?tag=kinsta-sites-20"
     },
     {
-      "asin": "B07597XGSN",
-      "source": "outpost-patio",
-      "name": "VIVOHOME Bird Bath for Outside, 28 Inch Weather-Resistant Polyresin Pedestal",
-      "category": "Garden Decor",
-      "description": "A decorative garden anchor that adds height and an old-school backyard feel without needing a built-in landscape plan.",
-      "bestFor": "Garden focal point",
-      "image": "/images/outpost-patio/vivohome-bird-bath.jpg",
-      "imageAlt": "VIVOHOME Bird Bath for Outside, 28 Inch Weather-Resistant Polyresin Pedestal",
-      "url": "https://www.amazon.com/dp/B07597XGSN?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0GF1PRX8L",
-      "source": "outpost-patio",
-      "name": "LIFFY Mosaic Outdoor Side Table, 14 Inch Round Flower Patio Table",
-      "category": "Furniture",
-      "description": "A small accent table for coffee, books, candles, or snacks when a full patio table would crowd the space.",
-      "bestFor": "Tiny patio surfaces",
-      "image": "/images/outpost-patio/liffy-mosaic-side-table.jpg",
-      "imageAlt": "LIFFY Mosaic Outdoor Side Table, 14 Inch Round Flower Patio Table",
-      "url": "https://www.amazon.com/dp/B0GF1PRX8L?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B08NJ9X3FJ",
-      "source": "outpost-patio",
-      "name": "downluxe Outdoor Chair Cushions, Waterproof Patio Chair Cushion Set",
-      "category": "Garden Comfort",
-      "description": "A comfort refresh for older patio chairs when the frame is fine but the seating needs a softer, cleaner look.",
-      "bestFor": "Chair refresh",
-      "image": "/images/outpost-patio/downluxe-outdoor-chair-cushions.jpg",
-      "imageAlt": "downluxe Outdoor Chair Cushions, Waterproof Patio Chair Cushion Set",
-      "url": "https://www.amazon.com/dp/B08NJ9X3FJ?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CVCC8VYL",
-      "source": "outpost-patio",
-      "name": "Best Choice Products Raised Oval Garden Bed",
-      "category": "Planters",
-      "description": "A contained raised-bed option for herbs, vegetables, or flowers when you want gardening energy without digging up the yard.",
-      "bestFor": "Contained backyard planting",
-      "image": "/images/outpost-patio/best-choice-raised-garden-bed.jpg",
-      "imageAlt": "Best Choice Products Raised Oval Garden Bed",
-      "url": "https://www.amazon.com/dp/B0CVCC8VYL?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CSFK4W44",
-      "source": "outpost-patio",
-      "name": "Abba Patio Outdoor Market Umbrella with Crank and Tilt",
-      "category": "Shade",
-      "description": "A second shade option for shoppers who want the same practical umbrella idea in a different Amazon listing or color path.",
-      "bestFor": "Flexible shade styling",
-      "image": "/images/outpost-patio/abba-patio-umbrella-market.jpg",
-      "imageAlt": "Abba Patio Outdoor Market Umbrella with Crank and Tilt",
-      "url": "https://www.amazon.com/dp/B0CSFK4W44?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B08K9769NY",
       "source": "outpost-patio",
       "name": "Unique Loom Outdoor Collection Area Rug",
@@ -297,83 +309,6 @@
       "url": "https://www.amazon.com/dp/B08K9769NY?tag=kinsta-sites-20"
     },
     {
-      "asin": "B082BR6BVT",
-      "source": "outpost-patio",
-      "name": "Keter Pacific Cool Bar Outdoor Patio Side Table",
-      "category": "Hosting",
-      "description": "A pop-up cooler table for shoppers who want a hosting piece that looks like furniture instead of a camping cooler.",
-      "bestFor": "Hidden cooler storage",
-      "image": "/images/outpost-patio/keter-cool-bar-side-table.jpg",
-      "imageAlt": "Keter Pacific Cool Bar Outdoor Patio Side Table",
-      "url": "https://www.amazon.com/dp/B082BR6BVT?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B01H683DIO",
-      "source": "outpost-patio",
-      "name": "Best Choice Products Dual-Wheel Home Utility Yard Wheelbarrow",
-      "category": "Storage",
-      "description": "A practical garden helper for moving soil, mulch, plants, and patio cleanup loads without turning every project into a workout.",
-      "bestFor": "Backyard project days",
-      "image": "/images/outpost-patio/best-choice-yard-wheelbarrow.jpg",
-      "imageAlt": "Best Choice Products Dual-Wheel Home Utility Yard Wheelbarrow",
-      "url": "https://www.amazon.com/dp/B01H683DIO?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B09P4WD862",
-      "source": "poolside-stack",
-      "name": "Mowend Swimming Pool Skimmer Net Total Length 57 inches, Leaf Rake Net with 4 Section Telescopic Aluminum Pole for Fast Cleaning Ponds, Hot...",
-      "category": "Pool And Beach",
-      "description": "A practical first-click pick for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/6114z-OPqpL._AC_UL320_.jpg",
-      "imageAlt": "Mowend Swimming Pool Skimmer Net Total Length 57 inches, Leaf Rake Net with 4 Section Telescopic Aluminum Pole for Fast Cleaning Ponds, Hot...",
-      "url": "https://www.amazon.com/dp/B09P4WD862?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B099VZJ25P",
-      "source": "poolside-stack",
-      "name": "Swimming Pool Ladder Mat - Protective Pool Ladder Pad Step Mat with Non-Slip Texture, Blue Medium Pool Step Mat, 36 inch X 9 inch",
-      "category": "Pool And Beach",
-      "description": "A useful little upgrade for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81ZQaqOJQTL._AC_UL320_.jpg",
-      "imageAlt": "Swimming Pool Ladder Mat - Protective Pool Ladder Pad Step Mat with Non-Slip Texture, Blue Medium Pool Step Mat, 36 inch X 9 inch",
-      "url": "https://www.amazon.com/dp/B099VZJ25P?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0G3WQBMLL",
-      "source": "poolside-stack",
-      "name": "BITIWEND Solar Pool Lights for Framed Above Ground Pools, Waterproof Swimming Pool Accessories Lights, for Outdoor Pool Yard Garden Decorat...",
-      "category": "Lighting",
-      "description": "A strong add-to-cart candidate for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71pfZRFtsAL._AC_UL320_.jpg",
-      "imageAlt": "BITIWEND Solar Pool Lights for Framed Above Ground Pools, Waterproof Swimming Pool Accessories Lights, for Outdoor Pool Yard Garden Decorat...",
-      "url": "https://www.amazon.com/dp/B0G3WQBMLL?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0DSPWPH4C",
-      "source": "poolside-stack",
-      "name": "4 Pack Inflatable Pool Floats, OKSUWATER 4-in-1 Water Hammock, Pool Floats Adult Size for Swimming Pool Party Summer Lake Water Fun",
-      "category": "Pool And Beach",
-      "description": "A clean routine helper for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81Kk-xDIdeL._AC_UL320_.jpg",
-      "imageAlt": "4 Pack Inflatable Pool Floats, OKSUWATER 4-in-1 Water Hammock, Pool Floats Adult Size for Swimming Pool Party Summer Lake Water Fun",
-      "url": "https://www.amazon.com/dp/B0DSPWPH4C?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0BX965YWC",
-      "source": "poolside-stack",
-      "name": "Pool Fountain for Above and In-Ground Pools, Adjustable Dual Spray Waterfall Sprinkler Cooler for Pool, Swimming Pool Spa Water Fountain, H...",
-      "category": "Pool And Beach",
-      "description": "A solid shortlist item for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/91tnjf+rlvL._AC_UL320_.jpg",
-      "imageAlt": "Pool Fountain for Above and In-Ground Pools, Adjustable Dual Spray Waterfall Sprinkler Cooler for Pool, Swimming Pool Spa Water Fountain, H...",
-      "url": "https://www.amazon.com/dp/B0BX965YWC?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0D12CZ491",
       "source": "poolside-stack",
       "name": "Pool Foot Bath, Inflatable Pool Foot Wash Tray for Pool Entry Ladder, Portable Foot Bath Basin for In Ground and Above Ground Swimming Pools",
@@ -383,61 +318,6 @@
       "image": "https://m.media-amazon.com/images/I/71op8F598wL._AC_UL320_.jpg",
       "imageAlt": "Pool Foot Bath, Inflatable Pool Foot Wash Tray for Pool Entry Ladder, Portable Foot Bath Basin for In Ground and Above Ground Swimming Pools",
       "url": "https://www.amazon.com/dp/B0D12CZ491?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B000J3Z7TC",
-      "source": "poolside-stack",
-      "name": "Hoyle Waterproof Playing Cards, Clear Plastic Deck of Cards for Outdoor Card Games, Camping, Beach, Pool & Travel Games (1 Deck)",
-      "category": "Pool And Beach",
-      "description": "A useful little upgrade for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81JkEmp-ZCL._AC_UL320_.jpg",
-      "imageAlt": "Hoyle Waterproof Playing Cards, Clear Plastic Deck of Cards for Outdoor Card Games, Camping, Beach, Pool & Travel Games (1 Deck)",
-      "url": "https://www.amazon.com/dp/B000J3Z7TC?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CRB7H6YN",
-      "source": "poolside-stack",
-      "name": "XY-WQ Floating Pool Thermometer, Large Size Easy Read for Water Temperature with String - Swimming Pools, Spas, Hot Tubs, Ponds (Turtle)",
-      "category": "Pool And Beach",
-      "description": "A strong add-to-cart candidate for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/616qH2-1VfL._AC_UL320_.jpg",
-      "imageAlt": "XY-WQ Floating Pool Thermometer, Large Size Easy Read for Water Temperature with String - Swimming Pools, Spas, Hot Tubs, Ponds (Turtle)",
-      "url": "https://www.amazon.com/dp/B0CRB7H6YN?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0BKTLNSLG",
-      "source": "poolside-stack",
-      "name": "SLOOSH Inflatable Pool Floats Adult,2 Packs Floating Lounge Chairs,Blow up Pool Noodles for Adult Heavy Duty,Floating Chair for Party Summe...",
-      "category": "Pool And Beach",
-      "description": "A clean routine helper for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/91bpiQBEqyL._AC_UL320_.jpg",
-      "imageAlt": "SLOOSH Inflatable Pool Floats Adult,2 Packs Floating Lounge Chairs,Blow up Pool Noodles for Adult Heavy Duty,Floating Chair for Party Summe...",
-      "url": "https://www.amazon.com/dp/B0BKTLNSLG?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0GRGH75N3",
-      "source": "poolside-stack",
-      "name": "VICHTOP 2026 Upgrade 2 Sets Poolside Storage Basket, Above Ground Pool Accessories, Swimming Pool Storage Basket with Cup Holder, Mesh Bag...",
-      "category": "Storage",
-      "description": "A solid shortlist item for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81OSYUgRzhL._AC_UL320_.jpg",
-      "imageAlt": "VICHTOP 2026 Upgrade 2 Sets Poolside Storage Basket, Above Ground Pool Accessories, Swimming Pool Storage Basket with Cup Holder, Mesh Bag...",
-      "url": "https://www.amazon.com/dp/B0GRGH75N3?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0DRG6JSSB",
-      "source": "poolside-stack",
-      "name": "Pool Chlorine Floater for Pools Fits 3\" Tablets,7\" Diameter Chlorine Tablet Floater with Adjustable Flow Vents Balanced Chemical Dispenser...",
-      "category": "Pool And Beach",
-      "description": "A practical first-click pick for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61S9-L5sC1L._AC_UL320_.jpg",
-      "imageAlt": "Pool Chlorine Floater for Pools Fits 3\" Tablets,7\" Diameter Chlorine Tablet Floater with Adjustable Flow Vents Balanced Chemical Dispenser...",
-      "url": "https://www.amazon.com/dp/B0DRG6JSSB?tag=kinsta-sites-20"
     },
     {
       "asin": "B00AA4H9BE",
@@ -484,6 +364,149 @@
       "url": "https://www.amazon.com/dp/B0D16ZX14Y?tag=kinsta-sites-20"
     },
     {
+      "asin": "B0GF6JDZVY",
+      "source": "poolside-stack",
+      "name": "2 PCS Swimming Pool Pipe Holders, Above Ground Pool Accessories with Hose Support - Pool Hose Holder Prevents Pipe Sagging, Universal Pool...",
+      "category": "Starter Kit",
+      "description": "A solid shortlist item for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71FPWK5JUrL._AC_UL320_.jpg",
+      "imageAlt": "2 PCS Swimming Pool Pipe Holders, Above Ground Pool Accessories with Hose Support - Pool Hose Holder Prevents Pipe Sagging, Universal Pool...",
+      "url": "https://www.amazon.com/dp/B0GF6JDZVY?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0812LQ8GW",
+      "source": "poolside-stack",
+      "name": "GoSports Splash Hoop PRO - Choose Your Color - Swimming Pool Basketball Game, Includes Poolside Water Basketball Hoop, 2 Balls and Pump",
+      "category": "Court Gear",
+      "description": "A practical first-click pick for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81ssFqrVptL._AC_UL320_.jpg",
+      "imageAlt": "GoSports Splash Hoop PRO - Choose Your Color - Swimming Pool Basketball Game, Includes Poolside Water Basketball Hoop, 2 Balls and Pump",
+      "url": "https://www.amazon.com/dp/B0812LQ8GW?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B09F9C3KFS",
+      "source": "outpost-patio",
+      "name": "Grenebo Gardening Tools 9-Piece Heavy Duty Garden Hand Tools with Organizer Handbag",
+      "category": "Garden Comfort",
+      "description": "A tidy starter kit for container gardeners, balcony planters, and anyone who wants the basics in one grab-and-go bag.",
+      "bestFor": "First patio garden toolkit",
+      "image": "/images/outpost-patio/grenebo-garden-tools.jpg",
+      "imageAlt": "Grenebo Gardening Tools 9-Piece Heavy Duty Garden Hand Tools with Organizer Handbag",
+      "url": "https://www.amazon.com/dp/B09F9C3KFS?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CQX8B5K9",
+      "source": "outpost-patio",
+      "name": "FEED GARDEN Glass Hummingbird Feeder, 16 oz Outdoor Hanging Bird Feeder",
+      "category": "Garden Decor",
+      "description": "A small charm upgrade for patios and gardens where you want movement, color, and a little wildlife moment outside the window.",
+      "bestFor": "Bird-friendly patios",
+      "image": "/images/outpost-patio/feed-garden-hummingbird-feeder.jpg",
+      "imageAlt": "FEED GARDEN Glass Hummingbird Feeder, 16 oz Outdoor Hanging Bird Feeder",
+      "url": "https://www.amazon.com/dp/B0CQX8B5K9?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07597XGSN",
+      "source": "outpost-patio",
+      "name": "VIVOHOME Bird Bath for Outside, 28 Inch Weather-Resistant Polyresin Pedestal",
+      "category": "Garden Decor",
+      "description": "A decorative garden anchor that adds height and an old-school backyard feel without needing a built-in landscape plan.",
+      "bestFor": "Garden focal point",
+      "image": "/images/outpost-patio/vivohome-bird-bath.jpg",
+      "imageAlt": "VIVOHOME Bird Bath for Outside, 28 Inch Weather-Resistant Polyresin Pedestal",
+      "url": "https://www.amazon.com/dp/B07597XGSN?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B01H683DIO",
+      "source": "outpost-patio",
+      "name": "Best Choice Products Dual-Wheel Home Utility Yard Wheelbarrow",
+      "category": "Storage",
+      "description": "A practical garden helper for moving soil, mulch, plants, and patio cleanup loads without turning every project into a workout.",
+      "bestFor": "Backyard project days",
+      "image": "/images/outpost-patio/best-choice-yard-wheelbarrow.jpg",
+      "imageAlt": "Best Choice Products Dual-Wheel Home Utility Yard Wheelbarrow",
+      "url": "https://www.amazon.com/dp/B01H683DIO?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B09P4WD862",
+      "source": "poolside-stack",
+      "name": "Mowend Swimming Pool Skimmer Net Total Length 57 inches, Leaf Rake Net with 4 Section Telescopic Aluminum Pole for Fast Cleaning Ponds, Hot...",
+      "category": "Pool And Beach",
+      "description": "A practical first-click pick for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/6114z-OPqpL._AC_UL320_.jpg",
+      "imageAlt": "Mowend Swimming Pool Skimmer Net Total Length 57 inches, Leaf Rake Net with 4 Section Telescopic Aluminum Pole for Fast Cleaning Ponds, Hot...",
+      "url": "https://www.amazon.com/dp/B09P4WD862?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B099VZJ25P",
+      "source": "poolside-stack",
+      "name": "Swimming Pool Ladder Mat - Protective Pool Ladder Pad Step Mat with Non-Slip Texture, Blue Medium Pool Step Mat, 36 inch X 9 inch",
+      "category": "Pool And Beach",
+      "description": "A useful little upgrade for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81ZQaqOJQTL._AC_UL320_.jpg",
+      "imageAlt": "Swimming Pool Ladder Mat - Protective Pool Ladder Pad Step Mat with Non-Slip Texture, Blue Medium Pool Step Mat, 36 inch X 9 inch",
+      "url": "https://www.amazon.com/dp/B099VZJ25P?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0DSPWPH4C",
+      "source": "poolside-stack",
+      "name": "4 Pack Inflatable Pool Floats, OKSUWATER 4-in-1 Water Hammock, Pool Floats Adult Size for Swimming Pool Party Summer Lake Water Fun",
+      "category": "Pool And Beach",
+      "description": "A clean routine helper for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81Kk-xDIdeL._AC_UL320_.jpg",
+      "imageAlt": "4 Pack Inflatable Pool Floats, OKSUWATER 4-in-1 Water Hammock, Pool Floats Adult Size for Swimming Pool Party Summer Lake Water Fun",
+      "url": "https://www.amazon.com/dp/B0DSPWPH4C?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BX965YWC",
+      "source": "poolside-stack",
+      "name": "Pool Fountain for Above and In-Ground Pools, Adjustable Dual Spray Waterfall Sprinkler Cooler for Pool, Swimming Pool Spa Water Fountain, H...",
+      "category": "Pool And Beach",
+      "description": "A solid shortlist item for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/91tnjf+rlvL._AC_UL320_.jpg",
+      "imageAlt": "Pool Fountain for Above and In-Ground Pools, Adjustable Dual Spray Waterfall Sprinkler Cooler for Pool, Swimming Pool Spa Water Fountain, H...",
+      "url": "https://www.amazon.com/dp/B0BX965YWC?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CRB7H6YN",
+      "source": "poolside-stack",
+      "name": "XY-WQ Floating Pool Thermometer, Large Size Easy Read for Water Temperature with String - Swimming Pools, Spas, Hot Tubs, Ponds (Turtle)",
+      "category": "Pool And Beach",
+      "description": "A strong add-to-cart candidate for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/616qH2-1VfL._AC_UL320_.jpg",
+      "imageAlt": "XY-WQ Floating Pool Thermometer, Large Size Easy Read for Water Temperature with String - Swimming Pools, Spas, Hot Tubs, Ponds (Turtle)",
+      "url": "https://www.amazon.com/dp/B0CRB7H6YN?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BKTLNSLG",
+      "source": "poolside-stack",
+      "name": "SLOOSH Inflatable Pool Floats Adult,2 Packs Floating Lounge Chairs,Blow up Pool Noodles for Adult Heavy Duty,Floating Chair for Party Summe...",
+      "category": "Pool And Beach",
+      "description": "A clean routine helper for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/91bpiQBEqyL._AC_UL320_.jpg",
+      "imageAlt": "SLOOSH Inflatable Pool Floats Adult,2 Packs Floating Lounge Chairs,Blow up Pool Noodles for Adult Heavy Duty,Floating Chair for Party Summe...",
+      "url": "https://www.amazon.com/dp/B0BKTLNSLG?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0DRG6JSSB",
+      "source": "poolside-stack",
+      "name": "Pool Chlorine Floater for Pools Fits 3\" Tablets,7\" Diameter Chlorine Tablet Floater with Adjustable Flow Vents Balanced Chemical Dispenser...",
+      "category": "Pool And Beach",
+      "description": "A practical first-click pick for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
+      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61S9-L5sC1L._AC_UL320_.jpg",
+      "imageAlt": "Pool Chlorine Floater for Pools Fits 3\" Tablets,7\" Diameter Chlorine Tablet Floater with Adjustable Flow Vents Balanced Chemical Dispenser...",
+      "url": "https://www.amazon.com/dp/B0DRG6JSSB?tag=kinsta-sites-20"
+    },
+    {
       "asin": "B09FWQ8QCH",
       "source": "poolside-stack",
       "name": "PoolRX+ pool unit 7.5k-20k gallons",
@@ -515,39 +538,6 @@
       "image": "https://m.media-amazon.com/images/I/51BsvbSYEuL._AC_UL320_.jpg",
       "imageAlt": "Betta SE Solar Powered Automatic Robotic Pool Surface Skimmer Cleaner with 24/7 Continuous Cleaning Battery Power and Re-Engineered Twin Sa...",
       "url": "https://www.amazon.com/dp/B0BW38MP5C?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CYCHN8VN",
-      "source": "poolside-stack",
-      "name": "AquaJoyer 2 Sets of Poolside Storage Baskets with Cup Holders - Perfect for 3-Inch or Smaller Top Rails - Above Ground Pool Accessories - F...",
-      "category": "Storage",
-      "description": "A clean routine helper for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81OjvQPoaiL._AC_UL320_.jpg",
-      "imageAlt": "AquaJoyer 2 Sets of Poolside Storage Baskets with Cup Holders - Perfect for 3-Inch or Smaller Top Rails - Above Ground Pool Accessories - F...",
-      "url": "https://www.amazon.com/dp/B0CYCHN8VN?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0GF6JDZVY",
-      "source": "poolside-stack",
-      "name": "2 PCS Swimming Pool Pipe Holders, Above Ground Pool Accessories with Hose Support - Pool Hose Holder Prevents Pipe Sagging, Universal Pool...",
-      "category": "Starter Kit",
-      "description": "A solid shortlist item for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71FPWK5JUrL._AC_UL320_.jpg",
-      "imageAlt": "2 PCS Swimming Pool Pipe Holders, Above Ground Pool Accessories with Hose Support - Pool Hose Holder Prevents Pipe Sagging, Universal Pool...",
-      "url": "https://www.amazon.com/dp/B0GF6JDZVY?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CKRS5PG2",
-      "source": "poolside-stack",
-      "name": "Yozoluck Pool Towel Rack Outdoor, 6 Bars Metal Heavy Duty Never Tilt Pool Accessories with Heavy Metal Base, Hot Tub Accessories Towel Dyin...",
-      "category": "Comfort",
-      "description": "A practical first-click pick for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71bXuCEq2KL._AC_UL320_.jpg",
-      "imageAlt": "Yozoluck Pool Towel Rack Outdoor, 6 Bars Metal Heavy Duty Never Tilt Pool Accessories with Heavy Metal Base, Hot Tub Accessories Towel Dyin...",
-      "url": "https://www.amazon.com/dp/B0CKRS5PG2?tag=kinsta-sites-20"
     },
     {
       "asin": "B09MSY8BLB",
@@ -594,17 +584,6 @@
       "url": "https://www.amazon.com/dp/B00PZZFG0O?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0812LQ8GW",
-      "source": "poolside-stack",
-      "name": "GoSports Splash Hoop PRO - Choose Your Color - Swimming Pool Basketball Game, Includes Poolside Water Basketball Hoop, 2 Balls and Pump",
-      "category": "Court Gear",
-      "description": "A practical first-click pick for pool and beach shoppers who want better shade, easier carrying, cleaner drying, or more fun without a trunk full of chaos.",
-      "bestFor": "Pool And Beach shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81ssFqrVptL._AC_UL320_.jpg",
-      "imageAlt": "GoSports Splash Hoop PRO - Choose Your Color - Swimming Pool Basketball Game, Includes Poolside Water Basketball Hoop, 2 Balls and Pump",
-      "url": "https://www.amazon.com/dp/B0812LQ8GW?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0F82YHBYQ",
       "source": "poolside-stack",
       "name": "TempPro Waterproof Wireless Pool Thermometer Easy Read, Digital Pool Thermometer Floating for Swimming Pool, Hot Tub, Cold Plunge, Pond, Up...",
@@ -625,6 +604,70 @@
       "image": "https://m.media-amazon.com/images/I/81kUkYBG2JL._AC_UL320_.jpg",
       "imageAlt": "ARM & Hammer Clear Balance, One Step Alkalinity & pH Maintenance Tablets for Swimming Pools & Spa, Long-Lasting Water Balancer, 24 Count",
       "url": "https://www.amazon.com/dp/B0CBT4TGFW?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B077X9Q9WR",
+      "source": "outpost-patio",
+      "name": "Burpee Wildflower 25,000 Bulk Seeds, 18 Varieties of Non-GMO Flower Seeds",
+      "category": "Planters",
+      "description": "A low-cost way to bring color to planters, borders, and pollinator-friendly corners without overthinking the whole garden plan.",
+      "bestFor": "Easy flower color",
+      "image": "/images/outpost-patio/burpee-wildflower-seeds.jpg",
+      "imageAlt": "Burpee Wildflower 25,000 Bulk Seeds, 18 Varieties of Non-GMO Flower Seeds",
+      "url": "https://www.amazon.com/dp/B077X9Q9WR?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CVCC8VYL",
+      "source": "outpost-patio",
+      "name": "Best Choice Products Raised Oval Garden Bed",
+      "category": "Planters",
+      "description": "A contained raised-bed option for herbs, vegetables, or flowers when you want gardening energy without digging up the yard.",
+      "bestFor": "Contained backyard planting",
+      "image": "/images/outpost-patio/best-choice-raised-garden-bed.jpg",
+      "imageAlt": "Best Choice Products Raised Oval Garden Bed",
+      "url": "https://www.amazon.com/dp/B0CVCC8VYL?tag=kinsta-sites-20"
+    }
+  ],
+  "primeDayTrendProducts": [
+    {
+      "asin": "B0G3WQBMLL",
+      "title": "BITIWEND Solar Pool Lights for Framed Above Ground Pools, Waterproof Swimming Pool Accessories Lights, for Outdoor...",
+      "image": "https://m.media-amazon.com/images/I/71pfZRFtsAL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/dp/B0G3WQBMLL?tag=kinsta-sites-20",
+      "trend": "summer routine upgrade",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0CKRS5PG2",
+      "title": "Yozoluck Pool Towel Rack Outdoor, 6 Bars Metal Heavy Duty Never Tilt Pool Accessories with Heavy Metal Base, Hot Tu...",
+      "image": "https://m.media-amazon.com/images/I/71bXuCEq2KL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/dp/B0CKRS5PG2?tag=kinsta-sites-20",
+      "trend": "cleaner storage",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B09PVHFYQS",
+      "title": "GENIMO Outdoor Rug for Patio, 9 x 12 Waterproof Reversible Plastic Camping Rug",
+      "image": "/images/outpost-patio/genimo-outdoor-rug.jpg",
+      "url": "https://www.amazon.com/dp/B09PVHFYQS?tag=kinsta-sites-20",
+      "trend": "grab-and-go setup",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0045E7A64",
+      "title": "Best Choice Products 80-Quart Outdoor Steel Rolling Cooler Cart",
+      "image": "/images/outpost-patio/best-choice-cooler-cart.jpg",
+      "url": "https://www.amazon.com/dp/B0045E7A64?tag=kinsta-sites-20",
+      "trend": "portable utility",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0CT1ZCGLV",
+      "title": "WdtPro Solar Lanterns Outdoor Waterproof Hanging Solar Lights, 2 Pack",
+      "image": "/images/outpost-patio/wdtpro-solar-lanterns.jpg",
+      "url": "https://www.amazon.com/dp/B0CT1ZCGLV?tag=kinsta-sites-20",
+      "trend": "small-space reset",
+      "addedFor": "Prime Day 2026 trend watch"
     }
   ]
 }

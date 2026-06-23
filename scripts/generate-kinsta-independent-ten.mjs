@@ -1,6 +1,19 @@
 import { cp, mkdir, rm, writeFile } from "node:fs/promises";
 import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
+import {
+  curateProductsForSite,
+  editorialPolicyCopy,
+  featuredHeading,
+  guideCardDescription,
+  guideHubHeading,
+  guideIntro,
+  productBadge,
+  productDescription,
+  productGuide,
+  productIndexHeadline,
+  selectGuideProducts
+} from "./lib/premium-content-quality.mjs";
 
 const affiliateTag = "kinsta-sites-20";
 const rootOutDir = "kinsta-independent-dist";
@@ -128,7 +141,7 @@ const sites = [
     ],
     guidePages: [
       ["family-board-games", "Best Family Board Games", "game"],
-      ["party-table-supplies", "Best Party Table Supplies", "party"],
+      ["party-table-supplies", "Best Party Table Setup", "party"],
       ["hosting-cleanup-tools", "Best Hosting Cleanup Tools", "cleanup"]
     ]
   },
@@ -235,7 +248,18 @@ function affiliateUrl(url = "") {
 
 function displayTitle(title = "") {
   const clean = cleanTitle(title).replace(/\s*-\s*Amazon\.com.*$/i, "");
-  return clean.length > 118 ? `${clean.slice(0, 115).replace(/\s+\S*$/, "").trim()}...` : clean;
+  const compact = clean
+    .replace(/\bfor\s+(Women|Men|Kids|Adults|Girls|Boys|Family Nights|Parties|Travel|Vacations|Indoor|Outdoor)\b/gi, "")
+    .replace(/\bwith\s+(Storage Bag|Accessories|Labels|Pockets|Brush Set|Cleanup|Carrying Case)\b/gi, "")
+    .replace(/\s{2,}/g, " ")
+    .replace(/\s+([,|/])/g, "$1")
+    .trim();
+  return compact.length > 74 ? `${compact.slice(0, 71).replace(/\s+\S*$/, "").trim()}...` : compact;
+}
+
+function fullSizeAmazonImage(value = "") {
+  if (!value.includes("m.media-amazon.com")) return value;
+  return value.replace(/\._AC_[A-Z0-9_,]+_\.(jpg|jpeg|png|webp)(\?.*)?$/i, "._AC_SL1500_.$1$2");
 }
 
 function parseCatalog(slug) {
@@ -257,7 +281,7 @@ function parseCatalog(slug) {
       category: cleanTitle(field("category")),
       description: cleanTitle(field("description")),
       bestFor: cleanTitle(field("bestFor")),
-      image,
+      image: fullSizeAmazonImage(image),
       imageAlt: cleanTitle(field("alt") || field("name")),
       url: affiliateUrl(amazonUrl)
     });
@@ -283,18 +307,7 @@ async function loadProducts(site) {
   if (products.length < 50) {
     throw new Error(`${site.slug} has ${products.length} products; needs at least 50.`);
   }
-  return products.slice(0, 60);
-}
-
-function productFit(product, site, index) {
-  const lower = `${product.name} ${product.category}`.toLowerCase();
-  if (lower.includes("organizer") || lower.includes("storage") || lower.includes("bin")) return "Best for reducing clutter";
-  if (lower.includes("kit") || lower.includes("set")) return "Best starter bundle";
-  if (lower.includes("charger") || lower.includes("power")) return "Best for keeping gear ready";
-  if (lower.includes("light") || lower.includes("lamp")) return "Best visibility upgrade";
-  if (lower.includes("clean") || lower.includes("laundry")) return "Best routine helper";
-  if (lower.includes("bag") || lower.includes("case")) return "Best carry or storage pick";
-  return site.guidePages[index % site.guidePages.length][1].replace(/^Best /, "Best for ");
+  return curateProductsForSite(site, products, { limit: 60, minimum: 50 });
 }
 
 function verifyChecklist(site, product) {
@@ -377,13 +390,13 @@ function disclosure(site) {
 }
 
 function productCard(site, product, index, compact = false) {
-  const guide = site.guidePages[index % site.guidePages.length];
+  const guide = productGuide(site, product, index) || site.guidePages[0];
   const checks = verifyChecklist(site, product).slice(0, 3).join(", ");
-  return `<article class="product-card" id="pick-${index + 1}"><a class="product-image" href="${product.url}" target="_blank" rel="nofollow sponsored noopener"><span class="rank">#${index + 1}</span><img src="${product.image}" alt="${escapeHtml(product.imageAlt || product.name)}" loading="${index < 3 ? "eager" : "lazy"}" decoding="async"></a><div class="product-copy"><div class="card-kicker"><p class="mini">${escapeHtml(product.category)}</p><span class="best-for">${escapeHtml(productFit(product, site, index))}</span></div><h3>${escapeHtml(displayTitle(product.name))}</h3><p>${escapeHtml(product.description || `A real Amazon product-page pick for ${site.category.toLowerCase()} shoppers.`)}</p>${compact ? "" : `<ul><li>Real Amazon detail page</li><li>No static price or rating claims</li><li>Verify ${escapeHtml(checks)} on Amazon</li></ul>`}<a class="text-link" href="${product.url}" target="_blank" rel="nofollow sponsored noopener">Check on Amazon</a><a class="internal-link" href="/best/${guide[0]}/">Related guide: ${escapeHtml(guide[1])}</a></div></article>`;
+  return `<article class="product-card" id="pick-${index + 1}"><a class="product-image" href="${product.url}" target="_blank" rel="nofollow sponsored noopener"><span class="rank">#${index + 1}</span><img src="${product.image}" alt="${escapeHtml(product.imageAlt || product.name)}" loading="${index < 3 ? "eager" : "lazy"}" decoding="async"></a><div class="product-copy"><div class="card-kicker"><p class="mini">${escapeHtml(product.category)}</p><span class="best-for">${escapeHtml(productBadge(product, site, index))}</span></div><h3>${escapeHtml(displayTitle(product.name))}</h3><p>${escapeHtml(productDescription(product, site, index))}</p>${compact ? "" : `<ul><li>Real Amazon detail page</li><li>No static price or rating claims</li><li>Verify ${escapeHtml(checks)} on Amazon</li></ul>`}<a class="text-link" href="${product.url}" target="_blank" rel="nofollow sponsored noopener">Check on Amazon</a><a class="internal-link" href="/best/${guide[0]}/">Related guide: ${escapeHtml(guide[1])}</a></div></article>`;
 }
 
 function comparisonTable(site, products, title = "Comparison table") {
-  return `<section class="section table-section"><div class="section-heading"><p class="eyebrow">Decision table</p><h2>${escapeHtml(title)}</h2><p>Editorial fit notes for quicker comparison. Open Amazon to confirm current price, options, shipping, returns, and availability.</p></div><div class="table-wrap"><table><thead><tr><th>Pick</th><th>Use case</th><th>Verify before buying</th><th></th></tr></thead><tbody>${products.slice(0, 10).map((product, index) => `<tr><td><strong>${escapeHtml(displayTitle(product.name))}</strong><span>Pick ${index + 1}</span></td><td>${escapeHtml(productFit(product, site, index))}</td><td>${escapeHtml(verifyChecklist(site, product).slice(0, 4).join(", "))}</td><td><a href="${product.url}" target="_blank" rel="nofollow sponsored noopener">Check</a></td></tr>`).join("")}</tbody></table></div></section>`;
+  return `<section class="section table-section"><div class="section-heading"><p class="eyebrow">Decision table</p><h2>${escapeHtml(title)}</h2><p>Editorial fit notes for quicker comparison. Open Amazon to confirm current price, options, shipping, returns, and availability.</p></div><div class="table-wrap"><table><thead><tr><th>Pick</th><th>Use case</th><th>Verify before buying</th><th></th></tr></thead><tbody>${products.slice(0, 10).map((product, index) => `<tr><td><strong>${escapeHtml(displayTitle(product.name))}</strong><span>Pick ${index + 1}</span></td><td>${escapeHtml(productBadge(product, site, index))}</td><td>${escapeHtml(verifyChecklist(site, product).slice(0, 4).join(", "))}</td><td><a href="${product.url}" target="_blank" rel="nofollow sponsored noopener">Check</a></td></tr>`).join("")}</tbody></table></div></section>`;
 }
 
 function serviceSection(site) {
@@ -401,12 +414,12 @@ function homePage(site, products) {
   };
   const stats = heroStats(site, products).map(([value, label]) => `<span><strong>${escapeHtml(value)}</strong>${escapeHtml(label)}</span>`).join("");
   const quickPaths = site.guidePages.map(([slug, title, keyword]) => `<a href="/best/${slug}/"><span>${escapeHtml(keyword)}</span>${escapeHtml(title.replace(/^Best /, ""))}</a>`).join("");
-  const body = `<main id="main">${disclosure(site)}<section class="hero"><div class="hero-copy"><p class="eyebrow">${escapeHtml(site.eyebrow)}</p><h1>${escapeHtml(site.h1)}</h1><p>${escapeHtml(site.dek)}</p><div class="hero-stats">${stats}</div><div class="actions"><a class="button primary" href="/top-50/">Browse top picks</a><a class="button" href="/products/">Compare all products</a></div></div><div class="hero-board"><a class="hero-product" href="${products[0].url}" target="_blank" rel="nofollow sponsored noopener"><img src="${products[0].image}" alt="${escapeHtml(products[0].imageAlt || products[0].name)}"><span>Featured Amazon detail page</span></a><div class="quick-paths"><p class="mini">${escapeHtml(brandNoun(site))}</p>${quickPaths}</div></div></section><section class="section split intro-panel"><div><p class="eyebrow">Buyer intent</p><h2>A cleaner way to compare ${escapeHtml(shortCategory(site).toLowerCase())}.</h2></div><div class="copy"><p>${escapeHtml(site.brand)} is built around ${escapeHtml(site.intent)}. The page narrows the product set by use case, then sends qualified shoppers to Amazon to confirm current price, options, shipping, returns, and availability.</p><p>That keeps the experience conversion-focused without copying volatile Amazon details or making fake testing claims.</p></div></section>${comparisonTable(site, products, `${site.category} quick comparison`)}${serviceSection(site)}<section class="section" id="featured"><div class="section-heading"><p class="eyebrow">Featured shortlist</p><h2>Start with twelve strong first clicks.</h2></div><div class="product-grid">${products.slice(0, 12).map((product, index) => productCard(site, product, index)).join("")}</div></section><section class="section guide-hub"><div class="section-heading"><p class="eyebrow">Buying guides</p><h2>Search-intent paths for internal links.</h2></div><div class="guide-grid">${site.guidePages.map(([slug, title, keyword]) => `<a class="guide-card" href="/best/${slug}/"><span>${escapeHtml(keyword)}</span><strong>${escapeHtml(title)}</strong><p>Compare the most relevant ${escapeHtml(site.category.toLowerCase())} products for this specific buying job.</p></a>`).join("")}</div></section></main>`;
+  const body = `<main id="main">${disclosure(site)}<section class="hero"><div class="hero-copy"><p class="eyebrow">${escapeHtml(site.eyebrow)}</p><h1>${escapeHtml(site.h1)}</h1><p>${escapeHtml(site.dek)}</p><div class="hero-stats">${stats}</div><div class="actions"><a class="button primary" href="/top-50/">Browse top picks</a><a class="button" href="/products/">Compare all products</a></div></div><div class="hero-board"><a class="hero-product" href="${products[0].url}" target="_blank" rel="nofollow sponsored noopener"><img src="${products[0].image}" alt="${escapeHtml(products[0].imageAlt || products[0].name)}"><span>Featured Amazon detail page</span></a><div class="quick-paths"><p class="mini">${escapeHtml(brandNoun(site))}</p>${quickPaths}</div></div></section><section class="section split intro-panel"><div><p class="eyebrow">Buyer intent</p><h2>A cleaner way to compare ${escapeHtml(shortCategory(site).toLowerCase())}.</h2></div><div class="copy"><p>${escapeHtml(site.brand)} is built around ${escapeHtml(site.intent)}. The page narrows the product set by use case, then sends qualified shoppers to Amazon to confirm current price, options, shipping, returns, and availability.</p><p>That keeps the experience conversion-focused without copying volatile Amazon details or making fake testing claims.</p></div></section>${comparisonTable(site, products, `${site.category} quick comparison`)}${serviceSection(site)}<section class="section" id="featured"><div class="section-heading"><p class="eyebrow">Featured shortlist</p><h2>${featuredHeading()}</h2></div><div class="product-grid">${products.slice(0, 12).map((product, index) => productCard(site, product, index)).join("")}</div></section><section class="section guide-hub"><div class="section-heading"><p class="eyebrow">Buying guides</p><h2>${guideHubHeading()}</h2></div><div class="guide-grid">${site.guidePages.map(([slug, title, keyword]) => `<a class="guide-card" href="/best/${slug}/"><span>${escapeHtml(keyword)}</span><strong>${escapeHtml(title)}</strong><p>${escapeHtml(guideCardDescription(site, [slug, title, keyword]))}</p></a>`).join("")}</div></section></main>`;
   return shell(site, { title: `${site.brand} | ${site.category}`, description: `${site.brand} compares ${products.length}+ real Amazon products for ${site.category.toLowerCase()} with affiliate disclosure and buyer-intent notes.`, canonical: `${site.baseUrl}/`, body, schema });
 }
 
 function productIndexPage(site, products) {
-  const body = `<main id="main">${disclosure(site)}<section class="page-hero"><p class="eyebrow">Product index</p><h1>${products.length} real Amazon products to compare.</h1><p>Use this as the full product map, then verify current listing details directly on Amazon before buying.</p></section><section class="section"><div class="product-grid">${products.map((product, index) => productCard(site, product, index)).join("")}</div></section></main>`;
+  const body = `<main id="main">${disclosure(site)}<section class="page-hero"><p class="eyebrow">Product index</p><h1>${escapeHtml(productIndexHeadline(products.length))}</h1><p>Use this as the full product map, then verify current listing details directly on Amazon before buying.</p></section><section class="section"><div class="section-heading"><p class="eyebrow">All picks</p><h2>Open the products that fit your buying job.</h2></div><div class="product-grid">${products.map((product, index) => productCard(site, product, index)).join("")}</div></section></main>`;
   return shell(site, { title: `${site.brand} Product Index`, description: `${products.length} real Amazon product-page picks for ${site.category.toLowerCase()}.`, canonical: `${site.baseUrl}/products/`, body, schema: { "@context": "https://schema.org", "@type": "CollectionPage", name: `${site.brand} Product Index`, url: `${site.baseUrl}/products/` } });
 }
 
@@ -417,8 +430,8 @@ function topPage(site, products) {
 
 function guidePage(site, products, page) {
   const [slug, title, keyword] = page;
-  const selected = products.filter((product) => `${product.name} ${product.category}`.toLowerCase().includes(keyword)).concat(products).filter((product, index, all) => all.findIndex((item) => item.asin === product.asin) === index).slice(0, 16);
-  const body = `<main id="main">${disclosure(site)}<section class="page-hero"><p class="eyebrow">${escapeHtml(keyword)}</p><h1>${escapeHtml(title)}</h1><p>This page narrows ${escapeHtml(site.category.toLowerCase())} around one buying job, then links back to real Amazon detail pages for current specs.</p></section>${comparisonTable(site, selected, `${title} comparison`)}<section class="section"><div class="product-grid">${selected.map((product, index) => productCard(site, product, index)).join("")}</div></section></main>`;
+  const selected = selectGuideProducts(site, products, page, 16);
+  const body = `<main id="main">${disclosure(site)}<section class="page-hero"><p class="eyebrow">${escapeHtml(keyword)}</p><h1>${escapeHtml(title)}</h1><p>${escapeHtml(guideIntro(site, page))}</p></section>${comparisonTable(site, selected, `${title} comparison`)}<section class="section"><div class="product-grid">${selected.map((product, index) => productCard(site, product, index)).join("")}</div></section></main>`;
   return shell(site, { title: `${title} | ${site.brand}`, description: `${title} from ${site.brand}: compare real Amazon products, images, fit notes, and buying checks.`, canonical: `${site.baseUrl}/best/${slug}/`, body, schema: { "@context": "https://schema.org", "@type": "Article", headline: title, dateModified: lastUpdated } });
 }
 
@@ -429,7 +442,7 @@ function supportPage(site, slug) {
   const copy = isDisclosure
     ? `${site.brand} may earn from qualifying Amazon purchases. Product prices, ratings, review counts, stock, shipping, coupons, and seller terms can change on Amazon, so this site avoids publishing those details as static claims.`
     : isPolicy
-      ? `${site.brand} uses real product-page URLs, real product imagery, clear affiliate labeling, buyer-intent grouping, and internal links designed to help shoppers compare without pretending to provide hands-on lab testing.`
+      ? `${editorialPolicyCopy(site)}`
       : `${site.brand} is maintained as an independent affiliate shopping guide. Use this page for site questions, stale product reports, or correction requests.`;
   const description = isDisclosure
     ? `${site.brand} may earn from qualifying Amazon purchases and avoids static price, rating, stock, and shipping claims.`

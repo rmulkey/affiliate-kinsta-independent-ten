@@ -1,0 +1,949 @@
+{
+  "generatedAt": "2026-06-23T15:39:20.603Z",
+  "date": "2026-06-23",
+  "total": 20,
+  "created": 20,
+  "skipped": 0,
+  "results": [
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "active-daily-kit",
+      "brand": "Active Daily Kit",
+      "status": "created",
+      "url": "https://active-daily-kit.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0CQVWT2NH",
+          "title": "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusab...",
+          "url": "https://www.amazon.com/dp/B0CQVWT2NH?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/41Dz7KzIs6L._AC_SL1500_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0D8J2ZB8P",
+          "title": "POWCAN 26 oz Insulated Water Bottle with 2-in-1 Straw and Spout Lid, Keep Cold 24H, Leak-Proof, Fits in Car Cup Hol...",
+          "url": "https://www.amazon.com/dp/B0D8J2ZB8P?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/515ELeeh4OL._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B09LLZNJYV",
+          "title": "CIVAGO 32 oz Insulated Water Bottle With Straw, Stainless Steel Sports Water Cup Flask with 3 Lids (Straw, Spout an...",
+          "url": "https://www.amazon.com/dp/B09LLZNJYV?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61XntLH2loL._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0D8J37DHP",
+          "title": "POWCAN 26 oz Insulated Water Bottle with 2-in-1 Straw and Spout Lid, Keep Cold 24H, Leak-Proof, Fits in Car Cup Hol...",
+          "url": "https://www.amazon.com/dp/B0D8J37DHP?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/51rRzUbgDOL._AC_SL1500_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B07N2F3JXP",
+          "title": "IRON °FLASK Camping & Hiking Hydration Flask with Straw, Wide Mouth Insulated Stainless Steel Sports Water Bottle -...",
+          "url": "https://www.amazon.com/dp/B07N2F3JXP?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61HJZ677AgL._AC_SL1500_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "beauty-bath-edit",
+      "brand": "Beauty Bath Edit",
+      "status": "created",
+      "url": "https://beauty-bath-edit.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0B89P16MC",
+          "title": "Shark FlexStyle Air Styling & Drying System, Powerful Hair Dryer Brush & Multi-Styler with Auto-Wrap Curlers, Paddl...",
+          "url": "https://www.amazon.com/dp/B0B89P16MC?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71XnLIh6Q1L._AC_SL1500_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0D7W64SF8",
+          "title": "5 in 1 Hot Air Styler Wrap - High-Speed Hair Dryer, Volumizing Brush with Auto Curlers, Fast Drying & Frizz-Free St...",
+          "url": "https://www.amazon.com/dp/B0D7W64SF8?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71CCZNNPjeL._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0FXZY5VTW",
+          "title": "7MAGIC 7-in-1 Hot Air Styler, Hair Styler Dryer Brush with Auto-Wrap Curlers, High-Speed Hair Dryer for Fast Drying...",
+          "url": "https://www.amazon.com/dp/B0FXZY5VTW?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61m5LgZRC9L._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0B2RM68G2",
+          "title": "Biodance Bio-Collagen Real Deep Mask box",
+          "url": "https://www.amazon.com/dp/B0B2RM68G2?tag=kinsta-sites-20",
+          "image": "/images/beauty/biodance-bio-collagen-mask.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B01N9SPQHQ",
+          "title": "La Roche-Posay Toleriane Double Repair Face Moisturizer bottle",
+          "url": "https://www.amazon.com/dp/B01N9SPQHQ?tag=kinsta-sites-20",
+          "image": "/images/beauty/la-roche-posay-toleriane-double-repair.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "classroom-maker",
+      "brand": "Classroom Maker",
+      "status": "created",
+      "url": "https://classroom-maker.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0FJTJG44G",
+          "title": "Sharpie S-Gel Gel Pens, Medium Point (0.7mm), Assorted Fashion Barrels, Black Ink, 12 Count - Office, Teacher, Scho...",
+          "url": "https://www.amazon.com/dp/B0FJTJG44G?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81D7u-Z-k2L._AC_SL1500_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B00MJ8JSFE",
+          "title": "Crayola Construction Paper Bulk Pack (480 Sheets) – 10 Assorted Colors, 9x12, Teacher School Supplies & Classroom M...",
+          "url": "https://www.amazon.com/dp/B00MJ8JSFE?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61TbDzO158L._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B089T7PX27",
+          "title": "Crayola Air Dry Clay (5lbs), Teacher Supplies, Natural White Modeling Clay for Kids, Sculpting Material, Bulk Craft...",
+          "url": "https://www.amazon.com/dp/B089T7PX27?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61orX92CK8L._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B082WJRGCZ",
+          "title": "Goody King Arts and Crafts Supplies for Kids - 1170Pcs+ Craft Art Supply Kit for Toddlers Kids Craft Supplies & Mat...",
+          "url": "https://www.amazon.com/dp/B082WJRGCZ?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81iZA+0bvyL._AC_SL1500_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B000J09CO6",
+          "title": "Paper Mate Flair Felt Tip Pens, Medium Point (0.7mm), 12 Count - For Arts & Crafts, Note-Taking, Journaling, School...",
+          "url": "https://www.amazon.com/dp/B000J09CO6?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81X1SjEnOyL._AC_SL1500_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "deskflow-edit",
+      "brand": "DeskFlow Edit",
+      "status": "created",
+      "url": "https://deskflow-edit.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0B687J37D",
+          "title": "N NOROCME 192 PCS Cable Management Kit 4 Wire Organizer Sleeve,11 Cable Holder,35Cord Clips 10+2 Roll Cable Organiz...",
+          "url": "https://www.amazon.com/dp/B0B687J37D?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81F7bTfj+4L._AC_SL1500_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0GTRLDQ9G",
+          "title": "Gel Keyboard and Mouse Wrist Rest Set, Ergonomic Computer Keyboard Wrist Pain Relief Wrist Support Pad for Office S...",
+          "url": "https://www.amazon.com/dp/B0GTRLDQ9G?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61Of4eV384L._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B08KJJFFY8",
+          "title": "Exquisite Gaming: Call of Duty: Monkeybomb - Original Mobile Phone & Gaming Controller Holder, Device Stand, Cable...",
+          "url": "https://www.amazon.com/dp/B08KJJFFY8?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/51LU5w+h2gL._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0F217D84G",
+          "title": "Cable Management, 25'' Cable Management Under Desk No Drill, Metal Cord Organizer with Clamp for Standing Desk, Cab...",
+          "url": "https://www.amazon.com/dp/B0F217D84G?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/719HqEdBSvL._AC_SL1500_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0BPLRX32S",
+          "title": "Under Desk Cable Management Tray White, Cinati Wire Organizers No Drill, Cable Tray with Clamp for Wire Management,...",
+          "url": "https://www.amazon.com/dp/B0BPLRX32S?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81vGseJ4e6L._AC_SL1500_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "dorm-study-stack",
+      "brand": "Dorm Study Stack",
+      "status": "created",
+      "url": "https://dorm-study-stack.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0CRY97FPB",
+          "title": "One Beat Small LED Desk Lamp Power Strip 5ft Extension Cord with 3 Outlets 4 USB Ports(2 USB C), 4 Modes, 5 Level T...",
+          "url": "https://www.amazon.com/dp/B0CRY97FPB?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61ndeyWcaHL._AC_SL1500_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0BWTT3WK1",
+          "title": "gianotter Desk Organizers and Accessories with File Holder, 4-Tier Desk Accessories & Workspace Organizers with Dra...",
+          "url": "https://www.amazon.com/dp/B0BWTT3WK1?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81iE5xG2+pL._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0BYMRJD7R",
+          "title": "Marbrasse Pen Organizer with 2 Drawer, Multi-Functional Pencil Holder for Desk, Desk Organizers and Accessories wit...",
+          "url": "https://www.amazon.com/dp/B0BYMRJD7R?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71B4FwZxCAL._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0DB8F7GDN",
+          "title": "OPNICE Desk Organizer and Accessories, 2-Tier Computer Monitor Stand Riser with Drawer and 2 Pen Holders, Laptop St...",
+          "url": "https://www.amazon.com/dp/B0DB8F7GDN?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81MeUftFm8L._AC_SL1500_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0BRMX3SWH",
+          "title": "MDOZQ Office Desk Accessories 2pcs Computer Monitor Memo Board Message Board Supplies for Women Men Sticky Note Hol...",
+          "url": "https://www.amazon.com/dp/B0BRMX3SWH?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61yjorGIhAL._AC_SL1500_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "garden-plant-studio",
+      "brand": "Garden Plant Studio",
+      "status": "created",
+      "url": "https://garden-plant-studio.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B005755YSQ",
+          "title": "VELCRO Brand Adjustable Plant Ties | 75 ft x 1/2 in Green Garden Tape | Reusable, Cut-to-Length Hook & Loop Plant S...",
+          "url": "https://www.amazon.com/dp/B005755YSQ?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81AZkZPHUZL._AC_SL1500_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0042YYVYG",
+          "title": "Miracle-Gro Water Storing Crystals - Soil Moisture Retention Crystals for Indoor and Outdoor Plants - 12 oz.",
+          "url": "https://www.amazon.com/dp/B0042YYVYG?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71qjLamqfML._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0CVVP4KLY",
+          "title": "Bamworld Tall Plant Stand Indoor Outdoor, Corner Metal Flower Pot Stands for Multiple Plants, 4 Tier Heavy Duty Pla...",
+          "url": "https://www.amazon.com/dp/B0CVVP4KLY?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/7119xqE3x4L._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0D6PG686X",
+          "title": "Iridescent Self Watering Globes, Glass Rainbow Plant Watering Globes, Self Watering Planter Insert, Automatic Plant...",
+          "url": "https://www.amazon.com/dp/B0D6PG686X?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81d1B1dqKhL._AC_SL1500_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B07D29P5Z1",
+          "title": "XXXFLOWER Plant Terrarium with Wooden Stand, Air Planter Bulb Glass Vase Metal Swivel Holder Retro Tabletop for Hyd...",
+          "url": "https://www.amazon.com/dp/B07D29P5Z1?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71GrAWYYDyL._AC_SL1500_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "home-reset-lab",
+      "brand": "Home Reset Lab",
+      "status": "created",
+      "url": "https://home-reset-lab.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0F7QTFXT6",
+          "title": "Vivihomety Utility Slim Storage Cart with Wheels, 4-Tier Narrow Rolling Organizer Shelf with Wood Top, Metal Storag...",
+          "url": "https://www.amazon.com/dp/B0F7QTFXT6?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/818WL7hvDOL._AC_SL1500_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0DFH3ZBCN",
+          "title": "HomePekite Laundry Pods Storage Container, Clear Laundry Room Organization and Storage ,Detergent Powder Container,...",
+          "url": "https://www.amazon.com/dp/B0DFH3ZBCN?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81MDPLjs4AL._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B09VCLYVDQ",
+          "title": "(2 Pack) Laundry Detergent Cup Holder Drip Catcher Organizer Clip Tight on Laundry Bottle Spouts, No More Leaks or...",
+          "url": "https://www.amazon.com/dp/B09VCLYVDQ?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61SvuEvM9BL._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0CS7JP3Q6",
+          "title": "iDesign Laundry Detergent Holder, Liquid Detergent Stand for Laundry Room Organization, Clear",
+          "url": "https://www.amazon.com/dp/B0CS7JP3Q6?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/615z3cQzBGL._AC_SL1500_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B01G1Y42H0",
+          "title": "Command Broom Grippers, 2 Hangers and 4 Strips, Damage-Free Mop and Broom Holder Wall Mount, Household Cleaning Too...",
+          "url": "https://www.amazon.com/dp/B01G1Y42H0?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71wyqZY2CKL._AC_SL1500_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "morning-counter",
+      "brand": "Morning Counter",
+      "status": "created",
+      "url": "https://morning-counter.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0CJF94M8J",
+          "title": "TrendPlain glass olive oil sprayer",
+          "url": "https://www.amazon.com/dp/B0CJF94M8J?tag=kinsta-sites-20",
+          "image": "/images/kitchen/trendplain-oil-sprayer.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B07KQVW6RR",
+          "title": "Bodum 34oz Pour Over Coffee Maker, High-Heat Borosilicate Glass with Reusable Stainless Steel Filter and Cork Grip...",
+          "url": "https://www.amazon.com/dp/B07KQVW6RR?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61ShLwhRkML._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0CJM76VFY",
+          "title": "Amrules Milk Frothing Pitcher, 12oz Milk Frother Cup with Clear Scale, 304 Stainless Steel Cappuccino Espresso Mach...",
+          "url": "https://www.amazon.com/dp/B0CJM76VFY?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61OZRRKTdcL._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0FDQJFRYS",
+          "title": "Veken French Press Coffee Maker 34oz, No Plastic Touching Cafe,Thickened Glass Stainless Steel Brewer, Cold Brew Ca...",
+          "url": "https://www.amazon.com/dp/B0FDQJFRYS?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71tCTtEUMaL._AC_SL1500_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0DGLWFX7Q",
+          "title": "Subminimal Subscale Digital Dosing Cup with LED Display – Sleek & Precise Scale - Dosing & Brewing Accessories, Mea...",
+          "url": "https://www.amazon.com/dp/B0DGLWFX7Q?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71UPFUovYkL._AC_SL1500_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "table-party-play",
+      "brand": "Table Party Play",
+      "status": "created",
+      "url": "https://table-party-play.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B076HK9H7Z",
+          "title": "Sorry! Board Game for Kids Ages 6 and Up; Classic Hasbro Board Game; Each Player Gets 4 Pawns; Family Game",
+          "url": "https://www.amazon.com/dp/B076HK9H7Z?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81CA3GV9sXL._AC_SL1500_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0D87PKYYK",
+          "title": "Official Hasbro Games Jenga Game | Digital Die for 6 More Ways to Play | Original Wood Block Game | Stacking Tower...",
+          "url": "https://www.amazon.com/dp/B0D87PKYYK?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81xyPFZTrfL._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0B5HLZ8T4",
+          "title": "Monopoly Game, Family Board Games for 2 to 6 Players & Kids Ages 8 and Up, Includes 8 Tokens (Token Vote Edition)",
+          "url": "https://www.amazon.com/dp/B0B5HLZ8T4?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/816dE7TY9xL._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B09QRXD9H1",
+          "title": "USAOPOLY The Original TAPPLE, The Fast-Paced Family Board Game,Choose a Category & Race Against The Timer to be The...",
+          "url": "https://www.amazon.com/dp/B09QRXD9H1?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81dTQBmNewL._AC_SL1500_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B087CBJ465",
+          "title": "Do You Really Know Your Family? A Fun Family Game Filled with Conversation Starters and Challenges - Great for Kids...",
+          "url": "https://www.amazon.com/dp/B087CBJ465?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71HhBMdgrLL._AC_SL1500_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-independent-dist",
+      "slug": "trail-cabin-kit",
+      "brand": "Trail Cabin Kit",
+      "status": "created",
+      "url": "https://trail-cabin-kit.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B01HQRD8EO",
+          "title": "Gas One GS-3400P Propane or Butane Stove Dual Fuel Stove Portable Camping Stove - Patented - with Carrying Case Gre...",
+          "url": "https://www.amazon.com/dp/B01HQRD8EO?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61XKJ6Mfa3L._AC_SL1500_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B098KJMMGC",
+          "title": "Emergency Blanket 4-Pack Space Mylar Blankets Survival Gear and Supplies Reusable Thermal Camping Hunting Essential...",
+          "url": "https://www.amazon.com/dp/B098KJMMGC?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71eCGdR7nfL._AC_SL1500_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B01N45NNCL",
+          "title": "Wise Owl Outfitters Camping Hammock – 500lbs Portable Hammock with Tree Straps - Travel, Backpacking, Hiking, Outdo...",
+          "url": "https://www.amazon.com/dp/B01N45NNCL?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81K6leBY4-L._AC_SL1500_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0BVTHPXLB",
+          "title": "FRIZCOL 3-in-1 Camping Fan - Portable Fans Rechargeable - 24000mAh Battery Powered Fan with Light & Remote for Indo...",
+          "url": "https://www.amazon.com/dp/B0BVTHPXLB?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71E1s4gODdL._AC_SL1500_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0CQ2CGVL8",
+          "title": "Odoland 30000mAh Camping Fan with LED Lantern, Rechargeable Battery Operated Oscillating Fan with Remote & Hook, Po...",
+          "url": "https://www.amazon.com/dp/B0CQ2CGVL8?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71Y+mUzO4IL._AC_SL1500_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 0,
+      "sitemapUpdated": false,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "aroma-room-edit",
+      "brand": "Aroma Room Edit",
+      "status": "created",
+      "url": "https://aroma-room-edit.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B001E6RNW2",
+          "title": "Capri Blue Volcano Reed Diffuser Set, Cobalt Blue, 8 fl oz",
+          "url": "https://www.amazon.com/dp/B001E6RNW2?tag=kinsta-sites-20",
+          "image": "/images/layered-air/capri-blue-volcano-reed-diffuser.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0DZFGTCLR",
+          "title": "Candle Warmer Lamp with Timer, Dimmable, Height Adjustable",
+          "url": "https://www.amazon.com/dp/B0DZFGTCLR?tag=kinsta-sites-20",
+          "image": "/images/layered-air/budget-height-adjustable-candle-warmer.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0876T9DQZ",
+          "title": "Philips Avent Premium Fast Bottle Warmer, Model SCF358",
+          "url": "https://www.amazon.com/dp/B0876T9DQZ?tag=kinsta-sites-20",
+          "image": "/images/tiny-calm-co/philips-avent-premium-fast-bottle-warmer.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0F3DQSZKT",
+          "title": "Yankee Candle MidSummer's Night Scented Candle, 22 oz Large Jar",
+          "url": "https://www.amazon.com/dp/B0F3DQSZKT?tag=kinsta-sites-20",
+          "image": "/images/layered-air/yankee-midsummers-night-large-jar.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0F3F7RMC9",
+          "title": "Yankee Candle Lilac Blossoms Scented Candle, 22 oz Large Jar",
+          "url": "https://www.amazon.com/dp/B0F3F7RMC9?tag=kinsta-sites-20",
+          "image": "/images/layered-air/yankee-lilac-blossoms-large-jar.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "bake-bar-studio",
+      "brand": "Bake Bar Studio",
+      "status": "created",
+      "url": "https://bake-bar-studio.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B08X77VP4S",
+          "title": "1 Pack 3 Tier Bar Glass Rimmer for Margarita and Cocktail, Bartender Tool,Salt Box Spice Container",
+          "url": "https://www.amazon.com/dp/B08X77VP4S?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71alAtvenoL._AC_UL320_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B09WDXWNS6",
+          "title": "XieNie Bar Mat, 6\" x 12\" Black Small Coffee Mat for Home Bar Kitchen Countertop, Non-Slip Service Spill Mat for Coc...",
+          "url": "https://www.amazon.com/dp/B09WDXWNS6?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71gyxIJVHsL._AC_UL320_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B094SP5F5M",
+          "title": "Mixology Bartender Kit with Stand - 15 Piece Bar Tool Set, Silver Bar Set Cocktail Shaker Set for Drink Mixing - In...",
+          "url": "https://www.amazon.com/dp/B094SP5F5M?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/817OrGbanRL._AC_UL320_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0B14ZQD6H",
+          "title": "Condiment Tray with Stainless Steel 5 Spoons, 5 Forks and 1 Clip, Chilled Condiment Server, Condiment Server, Bar G...",
+          "url": "https://www.amazon.com/dp/B0B14ZQD6H?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71FSw42C7eL._AC_UL320_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0BW4372FF",
+          "title": "tifanso Muddler for Cocktails, 10\" Muddler and Long Handle Bar Cocktail Mixing Spoon, Stainless Steel Stirrer, Bar...",
+          "url": "https://www.amazon.com/dp/B0BW4372FF?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/51fcIKht2zL._AC_UL320_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "closet-weekend-edit",
+      "brand": "Closet Weekend Edit",
+      "status": "created",
+      "url": "https://closet-weekend-edit.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0CGJJJC4M",
+          "title": "SNSLXH 5 Pack Stackable Closet Storage Basket, Multifunctional & Foldable Closet Organizer for Bathroom Kitchen Lau...",
+          "url": "https://www.amazon.com/dp/B0CGJJJC4M?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/718gPdLAncL._AC_UL320_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0BRKHCLGZ",
+          "title": "Closet Organizers and Storage,3 Pack Organization and Storage Pants-Hangers-Space-Saving,Velvet Hanger for Dorm Roo...",
+          "url": "https://www.amazon.com/dp/B0BRKHCLGZ?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71apXFP2ReL._AC_UL320_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0CL9NHS27",
+          "title": "5 Pack Stackable Closet Storage Basket - Stackable Storage Bins, Multifunctional & Foldable Closet Organizer Waterp...",
+          "url": "https://www.amazon.com/dp/B0CL9NHS27?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71j55FnA0SL._AC_UL320_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B082K8XTBS",
+          "title": "AMKUFO 6 Pack-Closet-Organizers-and-Storage, Magic-Hangers-Space-Saving-for-Clothes, Closer-Organizer-for-Closet-Or...",
+          "url": "https://www.amazon.com/dp/B082K8XTBS?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/712T34l+u4L._AC_UL320_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B00FXNABPI",
+          "title": "Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers for Closet Organization, Black/Silver, 30-Pack",
+          "url": "https://www.amazon.com/dp/B00FXNABPI?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/617+Wg+p7WL._AC_UL320_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "dog-calm-kit",
+      "brand": "Dog Calm Kit",
+      "status": "created",
+      "url": "https://dog-calm-kit.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B07DHVDPY7",
+          "title": "Best Pet Supplies Dog Poop Bags for Waste Refuse Cleanup, Doggy Roll Replacements for Outdoor Puppy Walking and Tra...",
+          "url": "https://www.amazon.com/dp/B07DHVDPY7?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71oglFyNY0L._AC_UL320_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0DC3YY5N4",
+          "title": "Ylzzrs Reflective Sash Gear for Walking at Night,LED Reflective Belt Safety Lights,Lights for Night Dog Walking,Hig...",
+          "url": "https://www.amazon.com/dp/B0DC3YY5N4?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71bgtRxdFDL._AC_UL320_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B01M8JT6FT",
+          "title": "rabbitgoo Dog Harness No Pull with 2 Leash Clips, Adjustable Soft Padded, Reflective Oxford No Choke Pet Vest with...",
+          "url": "https://www.amazon.com/dp/B01M8JT6FT?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71eROBTwkVL._AC_UL320_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B07F6FTTM7",
+          "title": "Dog Training Clicker with Sring Wrist and Keyring - Pet Dog Training Clickers for Puppy, Cat, Potty, Bird, Horse, P...",
+          "url": "https://www.amazon.com/dp/B07F6FTTM7?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71iSurE7U5L._AC_UL320_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B09Z7FRN8L",
+          "title": "Tuff Pupper Heavy Duty Hands Free Dog Leash | One Large Dog Up to 125 lbs | Comfortable Shock Absorbing Bungee | Re...",
+          "url": "https://www.amazon.com/dp/B09Z7FRN8L?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71Sva2Ad3yL._AC_UL320_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "garage-bike-tools",
+      "brand": "Garage Bike Tools",
+      "status": "created",
+      "url": "https://garage-bike-tools.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0D9GQMXBV",
+          "title": "Lamicall Bike Frame Bag Waterproof - [1s Release] [2 in 1] Bike Phone Mount Holder, Bicycle Top Tube Bag, Cycling P...",
+          "url": "https://www.amazon.com/dp/B0D9GQMXBV?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71VKkKd2xtL._AC_UL320_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0723914V1",
+          "title": "DEKOPRO 228 Piece Socket Wrench Auto Repair Tool Combination Package Mixed Tool Set Hand Tool Kit with Plastic Tool...",
+          "url": "https://www.amazon.com/dp/B0723914V1?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71PexuvCDNL._AC_UL320_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B08KTV3VB8",
+          "title": "Amazon Basics 142-Piece Household Tool Kit for Home Repair, Hand Tools with Storage Case, 13.39 x 9.25 x 2.95 inch,...",
+          "url": "https://www.amazon.com/dp/B08KTV3VB8?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81e2XwflIoL._AC_UL320_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B08VWCZ9H8",
+          "title": "KingTool 325 Piece Home Repair Tool Kit, General Home/Auto Repair Tool Set, Toolbox Storage Case with Drawer, Gener...",
+          "url": "https://www.amazon.com/dp/B08VWCZ9H8?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/711pTh86caS._AC_UL320_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B01GUDO4Z2",
+          "title": "Amazon Basics 65 Piece Home Repair Tool Kit Set With Carrying Bag, Hand Tools, Socket Set, SAE and Metric, Silver,...",
+          "url": "https://www.amazon.com/dp/B01GUDO4Z2?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61+G3urcMgL._AC_UL320_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "golf-court-locker",
+      "brand": "Golf Court Locker",
+      "status": "created",
+      "url": "https://golf-court-locker.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0055NRJLA",
+          "title": "PrideSports PTS Wood Golf Tees | 135 Count, 3-1/4 Inch | #1 Wood Tee on Tour | Best for Drivers & Woods",
+          "url": "https://www.amazon.com/dp/B0055NRJLA?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71hbOv1gNfL._AC_UL320_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B09GLP62SS",
+          "title": "REVASRI Golf Rangefinder with Slope and Pin Lock Vibration, External Slope Switch for Golf Tournament Legal, Rangef...",
+          "url": "https://www.amazon.com/dp/B09GLP62SS?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61DLDBMKevL._AC_UL320_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0GXFB9JVC",
+          "title": "Alloy Magnetic Golf Cart Phone Holder for MagSafe iPhone - Heavy Duty Phone Mount Compatible with EZGO, Club Car &...",
+          "url": "https://www.amazon.com/dp/B0GXFB9JVC?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/614-JiQcuLL._AC_UL320_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B01KP195PY",
+          "title": "Callaway Golf 300 Pro Laser Rangefinder",
+          "url": "https://www.amazon.com/dp/B01KP195PY?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71chTGM1PVL._AC_UL320_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0BZM7WGXV",
+          "title": "Jiskan Pro Golf Club Brush Cleaner with Retainer Clip and Squeeze Water Bottle 7.5 Inches Holds 4 Ounces of Water,...",
+          "url": "https://www.amazon.com/dp/B0BZM7WGXV?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71TkJhN1SCL._AC_UL320_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "nail-gloss-table",
+      "brand": "Nail Gloss Table",
+      "status": "created",
+      "url": "https://nail-gloss-table.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0FBPTYFDL",
+          "title": "OPI GELement LED Cure Gel Nail Polish System | DIY Salon Quality | Assorted Colors, Base & Top Coat | LED Curing La...",
+          "url": "https://www.amazon.com/dp/B0FBPTYFDL?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71K5ACp2OFL._AC_UL320_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0CL4QS55M",
+          "title": "Beetles Gel Nail Polish Kit with U V Light -54 Pcs Gel Nail Kit Four Seasons Glow 32 Colors Set with Everything Bas...",
+          "url": "https://www.amazon.com/dp/B0CL4QS55M?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71alX45aIBL._AC_UL320_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0FFFZ99WS",
+          "title": "Beetles Deal Box Gel Nail Polish Kit with U V Light - 32 Colors Studio Essentials Gel Polish 68 Pcs Nail Kit with T...",
+          "url": "https://www.amazon.com/dp/B0FFFZ99WS?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81Z90T87J2L._AC_UL320_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0CCR8TRGF",
+          "title": "Beetles Gel Nail Polish Kit with U V Light, 68 Pcs Gel Nail Kit 35 Colors Emotional Spectrum with Base Matte&Glossy...",
+          "url": "https://www.amazon.com/dp/B0CCR8TRGF?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/81lHMdnrllL._AC_UL320_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0DTP7MKZV",
+          "title": "Beetles No Wipe Gel Top Coat and Base Coat Set for Gel Nail Polish - 2Pcs 15ml Super Shiny and Long Lasting Soak Of...",
+          "url": "https://www.amazon.com/dp/B0DTP7MKZV?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/61Eim+cliUL._AC_UL320_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "paper-creator-studio",
+      "brand": "Paper Creator Studio",
+      "status": "created",
+      "url": "https://paper-creator-studio-public-c78x4.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0G499QVQS",
+          "title": "Magnetic Vlog Selfie Monitor Screen for iPhone 17 & Android, 4K Wireless Video Recording with Remote Zoom & Shoot,...",
+          "url": "https://www.amazon.com/dp/B0G499QVQS?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71iL0JCrOFL._AC_UY218_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0BZVFXQYV",
+          "title": "Amazon Basics Retractable Gel Pens, Fine Point 0.7mm, Smooth Writing, Assorted Colors, 12-Pack",
+          "url": "https://www.amazon.com/dp/B0BZVFXQYV?tag=kinsta-sites-20",
+          "image": "/images/paper-ritual/amazon-basics-retractable-gel-pens-fine-point-0-7mm-smooth-writing-assor.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B00IOOOBU4",
+          "title": "Wordsworth and Black Fountain Pen Set - Black - Includes 2 Pens, 18 ML Ink Bottle",
+          "url": "https://www.amazon.com/dp/B00IOOOBU4?tag=kinsta-sites-20",
+          "image": "/images/paper-ritual/wordsworth-and-black-fountain-pen-set-black-includes-2-pens-18-ml-ink-bo.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B07KBVCTR3",
+          "title": "Pilot Kakuno Fountain Pen, Clear Barrel, Medium Nib, 0.5mm, Pilot Kakuno Fountain Pen Extra Fine",
+          "url": "https://www.amazon.com/dp/B07KBVCTR3?tag=kinsta-sites-20",
+          "image": "/images/paper-ritual/pilot-kakuno-fountain-pen-clear-barrel-medium-nib-0-5mm-pilot-kakuno-fou.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0DT4ZN58L",
+          "title": "PILOT Kakuno Fountain Pen, Pink Barrel, Fine Nib",
+          "url": "https://www.amazon.com/dp/B0DT4ZN58L?tag=kinsta-sites-20",
+          "image": "/images/paper-ritual/pilot-kakuno-fountain-pen-pink-barrel-fine-nib-4-74-7-out-of-5-stars-600.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "patio-pool-host",
+      "brand": "Patio Pool Host",
+      "status": "created",
+      "url": "https://patio-pool-host.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0G3WQBMLL",
+          "title": "BITIWEND Solar Pool Lights for Framed Above Ground Pools, Waterproof Swimming Pool Accessories Lights, for Outdoor...",
+          "url": "https://www.amazon.com/dp/B0G3WQBMLL?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71pfZRFtsAL._AC_UL320_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0CKRS5PG2",
+          "title": "Yozoluck Pool Towel Rack Outdoor, 6 Bars Metal Heavy Duty Never Tilt Pool Accessories with Heavy Metal Base, Hot Tu...",
+          "url": "https://www.amazon.com/dp/B0CKRS5PG2?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71bXuCEq2KL._AC_UL320_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B09PVHFYQS",
+          "title": "GENIMO Outdoor Rug for Patio, 9 x 12 Waterproof Reversible Plastic Camping Rug",
+          "url": "https://www.amazon.com/dp/B09PVHFYQS?tag=kinsta-sites-20",
+          "image": "/images/outpost-patio/genimo-outdoor-rug.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0045E7A64",
+          "title": "Best Choice Products 80-Quart Outdoor Steel Rolling Cooler Cart",
+          "url": "https://www.amazon.com/dp/B0045E7A64?tag=kinsta-sites-20",
+          "image": "/images/outpost-patio/best-choice-cooler-cart.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0CT1ZCGLV",
+          "title": "WdtPro Solar Lanterns Outdoor Waterproof Hanging Solar Lights, 2 Pack",
+          "url": "https://www.amazon.com/dp/B0CT1ZCGLV?tag=kinsta-sites-20",
+          "image": "/images/outpost-patio/wdtpro-solar-lanterns.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    },
+    {
+      "root": "kinsta-premium-dist",
+      "slug": "phone-ready-loop",
+      "brand": "Phone Ready Loop",
+      "status": "created",
+      "url": "https://phone-ready-loop.kinsta.page/prime-day/",
+      "products": [
+        {
+          "asin": "B0B79JGSTL",
+          "title": "USB C Charger Block 20W, Ocupwei PD 3.0 Fast Charging Wall Charger USBC Power Adapter Type C Brick Cube for iPhone...",
+          "url": "https://www.amazon.com/dp/B0B79JGSTL?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/51ryIc6O8rL._AC_UY218_.jpg",
+          "trend": "summer routine upgrade"
+        },
+        {
+          "asin": "B0B2WLSY9D",
+          "title": "[4 Pack] USB C Charger Block Fast Charging Multiport Adpater [PD 20W USB-C & QC 3.0 USB-A Port] for iPhone 17/16/15...",
+          "url": "https://www.amazon.com/dp/B0B2WLSY9D?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/51eAnSUfXSL._AC_UY218_.jpg",
+          "trend": "cleaner storage"
+        },
+        {
+          "asin": "B0BDKCBJ95",
+          "title": "Anker Nano 47W Fast Charger USB C, 2-Port Compact Foldable USB C GaN Charger for iPhone 17/16, Galaxy, Pixel, Compa...",
+          "url": "https://www.amazon.com/dp/B0BDKCBJ95?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/51qvw4IcVTL._AC_UY218_.jpg",
+          "trend": "grab-and-go setup"
+        },
+        {
+          "asin": "B0BDKB4W7N",
+          "title": "Anker Nano 47W Fast Charger USB C, 2-Port Compact Foldable USB C GaN Charger for iPhone 17/16, Galaxy, Pixel, Compa...",
+          "url": "https://www.amazon.com/dp/B0BDKB4W7N?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/51FZTLwB7QL._AC_UY218_.jpg",
+          "trend": "portable utility"
+        },
+        {
+          "asin": "B0DFCH3C4W",
+          "title": "Anker MacBook Pro Charger,140W Max 4-Port GaN USB C Charger Block with Smart Display,Fast Charger USB C Power Adapt...",
+          "url": "https://www.amazon.com/dp/B0DFCH3C4W?tag=kinsta-sites-20",
+          "image": "https://m.media-amazon.com/images/I/71TNYvW23mL._AC_UY218_.jpg",
+          "trend": "small-space reset"
+        }
+      ],
+      "navFilesTouched": 9,
+      "sitemapUpdated": true,
+      "siteJsonUpdated": true
+    }
+  ]
+}

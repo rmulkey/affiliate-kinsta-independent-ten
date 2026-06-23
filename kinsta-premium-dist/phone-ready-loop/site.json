@@ -4,7 +4,7 @@
   "baseUrl": "https://phone-ready-loop.kinsta.page",
   "platform": "Kinsta/Sevalla Static Site Hosting",
   "affiliateTag": "kinsta-sites-20",
-  "lastUpdated": "2026-06-12",
+  "lastUpdated": "2026-06-23",
   "productCount": 56,
   "monetizationSurface": [
     {
@@ -33,9 +33,54 @@
     "https://phone-ready-loop.kinsta.page/best/cable-and-power-accessories/",
     "https://phone-ready-loop.kinsta.page/affiliate-disclosure/",
     "https://phone-ready-loop.kinsta.page/editorial-policy/",
-    "https://phone-ready-loop.kinsta.page/contact/"
+    "https://phone-ready-loop.kinsta.page/contact/",
+    "https://phone-ready-loop.kinsta.page/prime-day/"
   ],
   "products": [
+    {
+      "asin": "B0F1YGC8KB",
+      "source": "phone-loop",
+      "name": "USB C Fast Charger Block, 60W USBC Wall Charger Plug, 2Pack 5-Port Type C Phone Charging Cubes Power Adapter Multiport Brick for iPhone 17/...",
+      "category": "Decor",
+      "description": "A solid shortlist item for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/51U8pdPwMaL._AC_UY218_.jpg",
+      "imageAlt": "USB C Fast Charger Block, 60W USBC Wall Charger Plug, 2Pack 5-Port Type C Phone Charging Cubes Power Adapter Multiport Brick for iPhone 17/...",
+      "url": "https://www.amazon.com/dp/B0F1YGC8KB?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0DXFFY4YV",
+      "source": "phone-loop",
+      "name": "71” Phone Tripod & Selfie Stick, Portable All in One Extendable Cell Phone Tripod Stand, with Wireless Remote Control for iPhone/Samsung/An...",
+      "category": "Phone Accessories",
+      "description": "A clean routine helper for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61JDV+ZBL9L._AC_UY218_.jpg",
+      "imageAlt": "71” Phone Tripod & Selfie Stick, Portable All in One Extendable Cell Phone Tripod Stand, with Wireless Remote Control for iPhone/Samsung/An...",
+      "url": "https://www.amazon.com/dp/B0DXFFY4YV?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0F21QY3H8",
+      "source": "phone-loop",
+      "name": "TONEOF 68\" Magnetic Selfie Stick Tripod with Aluminum Strong Magnetic Holder for Magsafe, 360° Rotatable Travel Phone Tripod Stand with Met...",
+      "category": "Phone Accessories",
+      "description": "A solid shortlist item for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/618JNIVFMbL._AC_UY218_.jpg",
+      "imageAlt": "TONEOF 68\" Magnetic Selfie Stick Tripod with Aluminum Strong Magnetic Holder for Magsafe, 360° Rotatable Travel Phone Tripod Stand with Met...",
+      "url": "https://www.amazon.com/dp/B0F21QY3H8?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0D172J4ZL",
+      "source": "phone-loop",
+      "name": "EMART 62’’ Cell Phone Tripod Stand, Adjustable Floor Cellphone Tri Pod Holder with Remote for iPhone and Android, Portable Compact Smartpho...",
+      "category": "Phone Accessories",
+      "description": "A practical first-click pick for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/511JOPc-8oL._AC_UY218_.jpg",
+      "imageAlt": "EMART 62’’ Cell Phone Tripod Stand, Adjustable Floor Cellphone Tri Pod Holder with Remote for iPhone and Android, Portable Compact Smartpho...",
+      "url": "https://www.amazon.com/dp/B0D172J4ZL?tag=kinsta-sites-20"
+    },
     {
       "asin": "B0CPSBD68W",
       "source": "phone-loop",
@@ -81,17 +126,6 @@
       "url": "https://www.amazon.com/dp/B0B79JGSTL?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0CZ9BFXJ1",
-      "source": "phone-loop",
-      "name": "USB C Charger Block,3-Pack Dual Port USB C Fast Charging Block，Type C Wall Charger Plug for iPhone 17/16/15/14/13/12/11/ Pro Max/Plus/Xs Ma...",
-      "category": "Decor",
-      "description": "A solid shortlist item for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61LJVclD6KL._AC_UY218_.jpg",
-      "imageAlt": "USB C Charger Block,3-Pack Dual Port USB C Fast Charging Block，Type C Wall Charger Plug for iPhone 17/16/15/14/13/12/11/ Pro Max/Plus/Xs Ma...",
-      "url": "https://www.amazon.com/dp/B0CZ9BFXJ1?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0B2WLSY9D",
       "source": "phone-loop",
       "name": "[4 Pack] USB C Charger Block Fast Charging Multiport Adpater [PD 20W USB-C & QC 3.0 USB-A Port] for iPhone 17/16/15/14/13/12/11/X/8, iPad,...",
@@ -112,61 +146,6 @@
       "image": "https://m.media-amazon.com/images/I/51qvw4IcVTL._AC_UY218_.jpg",
       "imageAlt": "Anker Nano 47W Fast Charger USB C, 2-Port Compact Foldable USB C GaN Charger for iPhone 17/16, Galaxy, Pixel, Compatible with MagSafe (White)",
       "url": "https://www.amazon.com/dp/B0BDKCBJ95?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0DJFW7PNM",
-      "source": "phone-loop",
-      "name": "Apple 20W USB-C Compact Power Adapter: Fast and Convenient Charging, Type C Wall Charger",
-      "category": "Decor",
-      "description": "A strong add-to-cart candidate for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/31EQge6IQQL._AC_UY218_.jpg",
-      "imageAlt": "Apple 20W USB-C Compact Power Adapter: Fast and Convenient Charging, Type C Wall Charger",
-      "url": "https://www.amazon.com/dp/B0DJFW7PNM?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0FCFL13ZL",
-      "source": "phone-loop",
-      "name": "Anker Zolo USB C Charger Block,2-Pack Type C Charger Fast Charging with 50W Max Output,2 USB-C and 2 USB-A,Compact and Stable Design,for iP...",
-      "category": "Phone Accessories",
-      "description": "A clean routine helper for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/811v5gUSlJL._AC_UY218_.jpg",
-      "imageAlt": "Anker Zolo USB C Charger Block,2-Pack Type C Charger Fast Charging with 50W Max Output,2 USB-C and 2 USB-A,Compact and Stable Design,for iP...",
-      "url": "https://www.amazon.com/dp/B0FCFL13ZL?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0F1YGC8KB",
-      "source": "phone-loop",
-      "name": "USB C Fast Charger Block, 60W USBC Wall Charger Plug, 2Pack 5-Port Type C Phone Charging Cubes Power Adapter Multiport Brick for iPhone 17/...",
-      "category": "Decor",
-      "description": "A solid shortlist item for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/51U8pdPwMaL._AC_UY218_.jpg",
-      "imageAlt": "USB C Fast Charger Block, 60W USBC Wall Charger Plug, 2Pack 5-Port Type C Phone Charging Cubes Power Adapter Multiport Brick for iPhone 17/...",
-      "url": "https://www.amazon.com/dp/B0F1YGC8KB?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B09C5RG6KV",
-      "source": "phone-loop",
-      "name": "Anker Phone Charger, 65W 3-Port Fast Compact Foldable USB C Charger Block, Type C Charger Fast Charging for MacBook Pro/Air, iPad Pro, Gala...",
-      "category": "Phone Accessories",
-      "description": "A practical first-click pick for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/5164giE9fFL._AC_UY218_.jpg",
-      "imageAlt": "Anker Phone Charger, 65W 3-Port Fast Compact Foldable USB C Charger Block, Type C Charger Fast Charging for MacBook Pro/Air, iPad Pro, Gala...",
-      "url": "https://www.amazon.com/dp/B09C5RG6KV?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0C4YTB56H",
-      "source": "phone-loop",
-      "name": "Anker USB Charger Block,67W GaN Wall Charger,3-Port Compact Fast Charging Phone Charger,For MacBook Pro/Air, Pixelbook, iPad Pro, iPhone 17...",
-      "category": "Decor",
-      "description": "A useful little upgrade for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/51KUzDBK-bL._AC_UY218_.jpg",
-      "imageAlt": "Anker USB Charger Block,67W GaN Wall Charger,3-Port Compact Fast Charging Phone Charger,For MacBook Pro/Air, Pixelbook, iPad Pro, iPhone 17...",
-      "url": "https://www.amazon.com/dp/B0C4YTB56H?tag=kinsta-sites-20"
     },
     {
       "asin": "B0BDKB4W7N",
@@ -191,17 +170,6 @@
       "url": "https://www.amazon.com/dp/B0DFCH3C4W?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0B2MLRF93",
-      "source": "phone-loop",
-      "name": "Anker Nano Charger, USB C GaN Charger 30W, PIQ 3.0 Foldable PPS Fast Charger for iPhone 17 / 16 and more series, Galaxy, iPad, Compatible w...",
-      "category": "Phone Accessories",
-      "description": "A solid shortlist item for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/51+oMO+PTeL._AC_UY218_.jpg",
-      "imageAlt": "Anker Nano Charger, USB C GaN Charger 30W, PIQ 3.0 Foldable PPS Fast Charger for iPhone 17 / 16 and more series, Galaxy, iPad, Compatible w...",
-      "url": "https://www.amazon.com/dp/B0B2MLRF93?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B099F2H5KH",
       "source": "phone-loop",
       "name": "Anker USB C Charger Block 20W (Nano Pro), PIQ 3.0 Compact Fast Charger for iPhone 17/16/15/14 Series, Galaxy, Pixel 4/3, iPad (Cable Not In...",
@@ -213,17 +181,6 @@
       "url": "https://www.amazon.com/dp/B099F2H5KH?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0FB349R8G",
-      "source": "phone-loop",
-      "name": "VIMOSE 66\" Phone Tripod, Tripod for iPhone with Remote & Phone Stand, Extendable Cell Phone Tripod for Video Recording, Ultimate Tripod & M...",
-      "category": "Phone Accessories",
-      "description": "A useful little upgrade for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61hqCOrNXNL._AC_UY218_.jpg",
-      "imageAlt": "VIMOSE 66\" Phone Tripod, Tripod for iPhone with Remote & Phone Stand, Extendable Cell Phone Tripod for Video Recording, Ultimate Tripod & M...",
-      "url": "https://www.amazon.com/dp/B0FB349R8G?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B09XHZ8F7F",
       "source": "phone-loop",
       "name": "EUCOS 62\" Phone Tripod, Tripod for iPhone & Selfie Stick with Remote, Extendable Cell Phone Stand & Ultimate Phone Holder, Solidest Phone S...",
@@ -233,17 +190,6 @@
       "image": "https://m.media-amazon.com/images/I/61LnPbT7KML._AC_UY218_.jpg",
       "imageAlt": "EUCOS 62\" Phone Tripod, Tripod for iPhone & Selfie Stick with Remote, Extendable Cell Phone Stand & Ultimate Phone Holder, Solidest Phone S...",
       "url": "https://www.amazon.com/dp/B09XHZ8F7F?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CMM89Y6Z",
-      "source": "phone-loop",
-      "name": "Liphisy 64” Tripod for Cell Phone & Camera, Phone Tripod with Remote and Phone Holder, Sturdy & Stable Height Adjustable Multi-Angle Shot S...",
-      "category": "Phone Accessories",
-      "description": "A clean routine helper for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61G1zIdlFwL._AC_UY218_.jpg",
-      "imageAlt": "Liphisy 64” Tripod for Cell Phone & Camera, Phone Tripod with Remote and Phone Holder, Sturdy & Stable Height Adjustable Multi-Angle Shot S...",
-      "url": "https://www.amazon.com/dp/B0CMM89Y6Z?tag=kinsta-sites-20"
     },
     {
       "asin": "B09TQY66NH",
@@ -268,17 +214,6 @@
       "url": "https://www.amazon.com/dp/B0CJ579TLB?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0CQP9S8Q2",
-      "source": "phone-loop",
-      "name": "Amazon Basics 64-inch Extendable Tripod for iPhones and Smartphones, Selfie Stick Mode and Phone Tripod Mode, Black",
-      "category": "Phone Accessories",
-      "description": "A useful little upgrade for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61wiBVYMLbL._AC_UY218_.jpg",
-      "imageAlt": "Amazon Basics 64-inch Extendable Tripod for iPhones and Smartphones, Selfie Stick Mode and Phone Tripod Mode, Black",
-      "url": "https://www.amazon.com/dp/B0CQP9S8Q2?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0DLNZSRNB",
       "source": "phone-loop",
       "name": "Selfie Stick Travel Tripod for Cell Phone with Remote Control and Phone Holder, Extendable Selfie Stick for iPhone, iPhone Tripod for Video...",
@@ -290,37 +225,114 @@
       "url": "https://www.amazon.com/dp/B0DLNZSRNB?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0DXFFY4YV",
+      "asin": "B0DJFW7PNM",
       "source": "phone-loop",
-      "name": "71” Phone Tripod & Selfie Stick, Portable All in One Extendable Cell Phone Tripod Stand, with Wireless Remote Control for iPhone/Samsung/An...",
+      "name": "Apple 20W USB-C Compact Power Adapter: Fast and Convenient Charging, Type C Wall Charger",
+      "category": "Decor",
+      "description": "A strong add-to-cart candidate for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/31EQge6IQQL._AC_UY218_.jpg",
+      "imageAlt": "Apple 20W USB-C Compact Power Adapter: Fast and Convenient Charging, Type C Wall Charger",
+      "url": "https://www.amazon.com/dp/B0DJFW7PNM?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0FCFL13ZL",
+      "source": "phone-loop",
+      "name": "Anker Zolo USB C Charger Block,2-Pack Type C Charger Fast Charging with 50W Max Output,2 USB-C and 2 USB-A,Compact and Stable Design,for iP...",
       "category": "Phone Accessories",
       "description": "A clean routine helper for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
       "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61JDV+ZBL9L._AC_UY218_.jpg",
-      "imageAlt": "71” Phone Tripod & Selfie Stick, Portable All in One Extendable Cell Phone Tripod Stand, with Wireless Remote Control for iPhone/Samsung/An...",
-      "url": "https://www.amazon.com/dp/B0DXFFY4YV?tag=kinsta-sites-20"
+      "image": "https://m.media-amazon.com/images/I/811v5gUSlJL._AC_UY218_.jpg",
+      "imageAlt": "Anker Zolo USB C Charger Block,2-Pack Type C Charger Fast Charging with 50W Max Output,2 USB-C and 2 USB-A,Compact and Stable Design,for iP...",
+      "url": "https://www.amazon.com/dp/B0FCFL13ZL?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0F21QY3H8",
+      "asin": "B09C5RG6KV",
       "source": "phone-loop",
-      "name": "TONEOF 68\" Magnetic Selfie Stick Tripod with Aluminum Strong Magnetic Holder for Magsafe, 360° Rotatable Travel Phone Tripod Stand with Met...",
-      "category": "Phone Accessories",
-      "description": "A solid shortlist item for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
-      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/618JNIVFMbL._AC_UY218_.jpg",
-      "imageAlt": "TONEOF 68\" Magnetic Selfie Stick Tripod with Aluminum Strong Magnetic Holder for Magsafe, 360° Rotatable Travel Phone Tripod Stand with Met...",
-      "url": "https://www.amazon.com/dp/B0F21QY3H8?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0D172J4ZL",
-      "source": "phone-loop",
-      "name": "EMART 62’’ Cell Phone Tripod Stand, Adjustable Floor Cellphone Tri Pod Holder with Remote for iPhone and Android, Portable Compact Smartpho...",
+      "name": "Anker Phone Charger, 65W 3-Port Fast Compact Foldable USB C Charger Block, Type C Charger Fast Charging for MacBook Pro/Air, iPad Pro, Gala...",
       "category": "Phone Accessories",
       "description": "A practical first-click pick for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
       "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/511JOPc-8oL._AC_UY218_.jpg",
-      "imageAlt": "EMART 62’’ Cell Phone Tripod Stand, Adjustable Floor Cellphone Tri Pod Holder with Remote for iPhone and Android, Portable Compact Smartpho...",
-      "url": "https://www.amazon.com/dp/B0D172J4ZL?tag=kinsta-sites-20"
+      "image": "https://m.media-amazon.com/images/I/5164giE9fFL._AC_UY218_.jpg",
+      "imageAlt": "Anker Phone Charger, 65W 3-Port Fast Compact Foldable USB C Charger Block, Type C Charger Fast Charging for MacBook Pro/Air, iPad Pro, Gala...",
+      "url": "https://www.amazon.com/dp/B09C5RG6KV?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0C4YTB56H",
+      "source": "phone-loop",
+      "name": "Anker USB Charger Block,67W GaN Wall Charger,3-Port Compact Fast Charging Phone Charger,For MacBook Pro/Air, Pixelbook, iPad Pro, iPhone 17...",
+      "category": "Decor",
+      "description": "A useful little upgrade for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/51KUzDBK-bL._AC_UY218_.jpg",
+      "imageAlt": "Anker USB Charger Block,67W GaN Wall Charger,3-Port Compact Fast Charging Phone Charger,For MacBook Pro/Air, Pixelbook, iPad Pro, iPhone 17...",
+      "url": "https://www.amazon.com/dp/B0C4YTB56H?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0B2MLRF93",
+      "source": "phone-loop",
+      "name": "Anker Nano Charger, USB C GaN Charger 30W, PIQ 3.0 Foldable PPS Fast Charger for iPhone 17 / 16 and more series, Galaxy, iPad, Compatible w...",
+      "category": "Phone Accessories",
+      "description": "A solid shortlist item for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/51+oMO+PTeL._AC_UY218_.jpg",
+      "imageAlt": "Anker Nano Charger, USB C GaN Charger 30W, PIQ 3.0 Foldable PPS Fast Charger for iPhone 17 / 16 and more series, Galaxy, iPad, Compatible w...",
+      "url": "https://www.amazon.com/dp/B0B2MLRF93?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0FB349R8G",
+      "source": "phone-loop",
+      "name": "VIMOSE 66\" Phone Tripod, Tripod for iPhone with Remote & Phone Stand, Extendable Cell Phone Tripod for Video Recording, Ultimate Tripod & M...",
+      "category": "Phone Accessories",
+      "description": "A useful little upgrade for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61hqCOrNXNL._AC_UY218_.jpg",
+      "imageAlt": "VIMOSE 66\" Phone Tripod, Tripod for iPhone with Remote & Phone Stand, Extendable Cell Phone Tripod for Video Recording, Ultimate Tripod & M...",
+      "url": "https://www.amazon.com/dp/B0FB349R8G?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CQP9S8Q2",
+      "source": "phone-loop",
+      "name": "Amazon Basics 64-inch Extendable Tripod for iPhones and Smartphones, Selfie Stick Mode and Phone Tripod Mode, Black",
+      "category": "Phone Accessories",
+      "description": "A useful little upgrade for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61wiBVYMLbL._AC_UY218_.jpg",
+      "imageAlt": "Amazon Basics 64-inch Extendable Tripod for iPhones and Smartphones, Selfie Stick Mode and Phone Tripod Mode, Black",
+      "url": "https://www.amazon.com/dp/B0CQP9S8Q2?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0DS24YLFM",
+      "source": "phone-loop",
+      "name": "ANXRE 71\" Phone Tripod, NT79 Extendable Selfie Stick with 1/4\" Camera Mount for Cell Phone＆Camera, Phone Tripod Stand Holder with Remote Co...",
+      "category": "Phone Accessories",
+      "description": "A strong add-to-cart candidate for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61IFlrb8crL._AC_UY218_.jpg",
+      "imageAlt": "ANXRE 71\" Phone Tripod, NT79 Extendable Selfie Stick with 1/4\" Camera Mount for Cell Phone＆Camera, Phone Tripod Stand Holder with Remote Co...",
+      "url": "https://www.amazon.com/dp/B0DS24YLFM?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07FKYHTWP",
+      "source": "ready-shelf",
+      "name": "FosPower NOAA Emergency Weather Radio A1 7400mWh Portable Power Bank, AM/FM, USB/Solar/Hand Crank Charging, Battery Operated, SOS Alarm & F...",
+      "category": "Emergency Prep",
+      "description": "A practical first-click pick for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71B9hiytZnL._AC_UL320_.jpg",
+      "imageAlt": "FosPower NOAA Emergency Weather Radio A1 7400mWh Portable Power Bank, AM/FM, USB/Solar/Hand Crank Charging, Battery Operated, SOS Alarm & F...",
+      "url": "https://www.amazon.com/dp/B07FKYHTWP?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CZ9BFXJ1",
+      "source": "phone-loop",
+      "name": "USB C Charger Block,3-Pack Dual Port USB C Fast Charging Block，Type C Wall Charger Plug for iPhone 17/16/15/14/13/12/11/ Pro Max/Plus/Xs Ma...",
+      "category": "Decor",
+      "description": "A solid shortlist item for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61LJVclD6KL._AC_UY218_.jpg",
+      "imageAlt": "USB C Charger Block,3-Pack Dual Port USB C Fast Charging Block，Type C Wall Charger Plug for iPhone 17/16/15/14/13/12/11/ Pro Max/Plus/Xs Ma...",
+      "url": "https://www.amazon.com/dp/B0CZ9BFXJ1?tag=kinsta-sites-20"
     },
     {
       "asin": "B09V4XYHR5",
@@ -334,15 +346,15 @@
       "url": "https://www.amazon.com/dp/B09V4XYHR5?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0DS24YLFM",
+      "asin": "B0CMM89Y6Z",
       "source": "phone-loop",
-      "name": "ANXRE 71\" Phone Tripod, NT79 Extendable Selfie Stick with 1/4\" Camera Mount for Cell Phone＆Camera, Phone Tripod Stand Holder with Remote Co...",
+      "name": "Liphisy 64” Tripod for Cell Phone & Camera, Phone Tripod with Remote and Phone Holder, Sturdy & Stable Height Adjustable Multi-Angle Shot S...",
       "category": "Phone Accessories",
-      "description": "A strong add-to-cart candidate for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
+      "description": "A clean routine helper for phone accessories shoppers who want faster charging, cleaner carrying, better mounting, or fewer cable problems.",
       "bestFor": "Phone Accessories shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61IFlrb8crL._AC_UY218_.jpg",
-      "imageAlt": "ANXRE 71\" Phone Tripod, NT79 Extendable Selfie Stick with 1/4\" Camera Mount for Cell Phone＆Camera, Phone Tripod Stand Holder with Remote Co...",
-      "url": "https://www.amazon.com/dp/B0DS24YLFM?tag=kinsta-sites-20"
+      "image": "https://m.media-amazon.com/images/I/61G1zIdlFwL._AC_UY218_.jpg",
+      "imageAlt": "Liphisy 64” Tripod for Cell Phone & Camera, Phone Tripod with Remote and Phone Holder, Sturdy & Stable Height Adjustable Multi-Angle Shot S...",
+      "url": "https://www.amazon.com/dp/B0CMM89Y6Z?tag=kinsta-sites-20"
     },
     {
       "asin": "B00149VP14",
@@ -378,37 +390,48 @@
       "url": "https://www.amazon.com/dp/B00A387958?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0D4765KKT",
+      "asin": "B00475B96S",
       "source": "ready-shelf",
-      "name": "Survival Kit, 262Pcs Survival Gear and Supplies with First Aid Kit Pouch and Crossbody Bag, Emergency Kit with Tent, Camping Axe Hammer, Su...",
-      "category": "Storage",
-      "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
-      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81t6wxt8GXL._AC_UL320_.jpg",
-      "imageAlt": "Survival Kit, 262Pcs Survival Gear and Supplies with First Aid Kit Pouch and Crossbody Bag, Emergency Kit with Tent, Camping Axe Hammer, Su...",
-      "url": "https://www.amazon.com/dp/B0D4765KKT?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B09Y2QVYH7",
-      "source": "ready-shelf",
-      "name": "Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake, Outdoor...",
-      "category": "Storage",
+      "name": "Ready America 70180 72 Hour Emergency Kit, 1-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Emergency Food Portable Disa...",
+      "category": "Comfort",
       "description": "A solid shortlist item for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
       "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81uW763CAPL._AC_UL320_.jpg",
-      "imageAlt": "Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake, Outdoor...",
-      "url": "https://www.amazon.com/dp/B09Y2QVYH7?tag=kinsta-sites-20"
+      "image": "https://m.media-amazon.com/images/I/71ob1a7HpoL._AC_UL320_.jpg",
+      "imageAlt": "Ready America 70180 72 Hour Emergency Kit, 1-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Emergency Food Portable Disa...",
+      "url": "https://www.amazon.com/dp/B00475B96S?tag=kinsta-sites-20"
     },
     {
-      "asin": "B07FKYHTWP",
+      "asin": "B0DB794BKQ",
       "source": "ready-shelf",
-      "name": "FosPower NOAA Emergency Weather Radio A1 7400mWh Portable Power Bank, AM/FM, USB/Solar/Hand Crank Charging, Battery Operated, SOS Alarm & F...",
-      "category": "Emergency Prep",
+      "name": "Mini First Aid Kit - 150 Piece Small Waterproof Hard Shell Medical Kit for Home, Car, Travel, Camping, Truck, Hiking, Sports, Office, Vehic...",
+      "category": "Starter Kit",
       "description": "A practical first-click pick for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
       "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71B9hiytZnL._AC_UL320_.jpg",
-      "imageAlt": "FosPower NOAA Emergency Weather Radio A1 7400mWh Portable Power Bank, AM/FM, USB/Solar/Hand Crank Charging, Battery Operated, SOS Alarm & F...",
-      "url": "https://www.amazon.com/dp/B07FKYHTWP?tag=kinsta-sites-20"
+      "image": "https://m.media-amazon.com/images/I/71g347mQv2L._AC_UL320_.jpg",
+      "imageAlt": "Mini First Aid Kit - 150 Piece Small Waterproof Hard Shell Medical Kit for Home, Car, Travel, Camping, Truck, Hiking, Sports, Office, Vehic...",
+      "url": "https://www.amazon.com/dp/B0DB794BKQ?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07TSH7ZN5",
+      "source": "ready-shelf",
+      "name": "Eoxsmile Emergency Radio with NOAA Weather Alert, 5000mAh Solar Hand Crank Portable AM/FM Shortwave Radio, Rechargeable Battery Powered, US...",
+      "category": "Emergency Prep",
+      "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71FkdWjXQSL._AC_UL320_.jpg",
+      "imageAlt": "Eoxsmile Emergency Radio with NOAA Weather Alert, 5000mAh Solar Hand Crank Portable AM/FM Shortwave Radio, Rechargeable Battery Powered, US...",
+      "url": "https://www.amazon.com/dp/B07TSH7ZN5?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B00FXLG28U",
+      "source": "ready-shelf",
+      "name": "Ready America 72 Hour Deluxe Emergency Kit, 1-Person 3-Day Backpack, First Aid Kit, Survival Blanket, Power Station, Emergency Food, Portab...",
+      "category": "Comfort",
+      "description": "A useful little upgrade for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71gp6xJP0XL._AC_UL320_.jpg",
+      "imageAlt": "Ready America 72 Hour Deluxe Emergency Kit, 1-Person 3-Day Backpack, First Aid Kit, Survival Blanket, Power Station, Emergency Food, Portab...",
+      "url": "https://www.amazon.com/dp/B00FXLG28U?tag=kinsta-sites-20"
     },
     {
       "asin": "B006QF3TW4",
@@ -420,39 +443,6 @@
       "image": "https://m.media-amazon.com/images/I/610MT9qiRyL._AC_UL320_.jpg",
       "imageAlt": "LifeStraw Personal Water Filter for Hiking, Camping, Travel, and Emergency Preparedness",
       "url": "https://www.amazon.com/dp/B006QF3TW4?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CV9GRZ28",
-      "source": "ready-shelf",
-      "name": "TacPreps 72 Hour Survival Kit, 45L Bug Out Bag with Emergency Food, Water Filter, First Aid Kit, Shelter and Survival Tools",
-      "category": "Storage",
-      "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
-      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81wlzcSbZgL._AC_UL320_.jpg",
-      "imageAlt": "TacPreps 72 Hour Survival Kit, 45L Bug Out Bag with Emergency Food, Water Filter, First Aid Kit, Shelter and Survival Tools",
-      "url": "https://www.amazon.com/dp/B0CV9GRZ28?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B098KJMMGC",
-      "source": "ready-shelf",
-      "name": "Emergency Blanket 4-Pack Space Mylar Blankets Survival Gear and Supplies Reusable Thermal Camping Hunting Essentials First Aid Car Backpack...",
-      "category": "Comfort",
-      "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
-      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71eCGdR7nfL._AC_UL320_.jpg",
-      "imageAlt": "Emergency Blanket 4-Pack Space Mylar Blankets Survival Gear and Supplies Reusable Thermal Camping Hunting Essentials First Aid Car Backpack...",
-      "url": "https://www.amazon.com/dp/B098KJMMGC?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B00475B96S",
-      "source": "ready-shelf",
-      "name": "Ready America 70180 72 Hour Emergency Kit, 1-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Emergency Food Portable Disa...",
-      "category": "Comfort",
-      "description": "A solid shortlist item for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
-      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71ob1a7HpoL._AC_UL320_.jpg",
-      "imageAlt": "Ready America 70180 72 Hour Emergency Kit, 1-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Emergency Food Portable Disa...",
-      "url": "https://www.amazon.com/dp/B00475B96S?tag=kinsta-sites-20"
     },
     {
       "asin": "B0DF3LXT66",
@@ -477,17 +467,6 @@
       "url": "https://www.amazon.com/dp/B0FKNPK1HQ?tag=kinsta-sites-20"
     },
     {
-      "asin": "B07XKGWNP8",
-      "source": "ready-shelf",
-      "name": "Everlit Survival Car Emergency Kit, Roadside Safety Tool Kit with Gloves,Digital Auto Air Compressor Tire Inflator, First Aid Kit, 12 Feet...",
-      "category": "Starter Kit",
-      "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
-      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71p9FLhJlEL._AC_UL320_.jpg",
-      "imageAlt": "Everlit Survival Car Emergency Kit, Roadside Safety Tool Kit with Gloves,Digital Auto Air Compressor Tire Inflator, First Aid Kit, 12 Feet...",
-      "url": "https://www.amazon.com/dp/B07XKGWNP8?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B00149O23M",
       "source": "ready-shelf",
       "name": "Ready America Backpack",
@@ -499,6 +478,72 @@
       "url": "https://www.amazon.com/dp/B00149O23M?tag=kinsta-sites-20"
     },
     {
+      "asin": "B09RCFN8JG",
+      "source": "ready-shelf",
+      "name": "Ready Hour 120 Serving Entree Bucket-Freeze Dried Emergency Food Supply-Survival Meals with Long Shelf Life-Prepper Essentials for Disaster...",
+      "category": "Emergency Prep",
+      "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71Lrs1cD2WL._AC_UL320_.jpg",
+      "imageAlt": "Ready Hour 120 Serving Entree Bucket-Freeze Dried Emergency Food Supply-Survival Meals with Long Shelf Life-Prepper Essentials for Disaster...",
+      "url": "https://www.amazon.com/dp/B09RCFN8JG?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0D4765KKT",
+      "source": "ready-shelf",
+      "name": "Survival Kit, 262Pcs Survival Gear and Supplies with First Aid Kit Pouch and Crossbody Bag, Emergency Kit with Tent, Camping Axe Hammer, Su...",
+      "category": "Storage",
+      "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81t6wxt8GXL._AC_UL320_.jpg",
+      "imageAlt": "Survival Kit, 262Pcs Survival Gear and Supplies with First Aid Kit Pouch and Crossbody Bag, Emergency Kit with Tent, Camping Axe Hammer, Su...",
+      "url": "https://www.amazon.com/dp/B0D4765KKT?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B09Y2QVYH7",
+      "source": "ready-shelf",
+      "name": "Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake, Outdoor...",
+      "category": "Storage",
+      "description": "A solid shortlist item for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81uW763CAPL._AC_UL320_.jpg",
+      "imageAlt": "Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake, Outdoor...",
+      "url": "https://www.amazon.com/dp/B09Y2QVYH7?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CV9GRZ28",
+      "source": "ready-shelf",
+      "name": "TacPreps 72 Hour Survival Kit, 45L Bug Out Bag with Emergency Food, Water Filter, First Aid Kit, Shelter and Survival Tools",
+      "category": "Storage",
+      "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81wlzcSbZgL._AC_UL320_.jpg",
+      "imageAlt": "TacPreps 72 Hour Survival Kit, 45L Bug Out Bag with Emergency Food, Water Filter, First Aid Kit, Shelter and Survival Tools",
+      "url": "https://www.amazon.com/dp/B0CV9GRZ28?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B098KJMMGC",
+      "source": "ready-shelf",
+      "name": "Emergency Blanket 4-Pack Space Mylar Blankets Survival Gear and Supplies Reusable Thermal Camping Hunting Essentials First Aid Car Backpack...",
+      "category": "Comfort",
+      "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71eCGdR7nfL._AC_UL320_.jpg",
+      "imageAlt": "Emergency Blanket 4-Pack Space Mylar Blankets Survival Gear and Supplies Reusable Thermal Camping Hunting Essentials First Aid Car Backpack...",
+      "url": "https://www.amazon.com/dp/B098KJMMGC?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07XKGWNP8",
+      "source": "ready-shelf",
+      "name": "Everlit Survival Car Emergency Kit, Roadside Safety Tool Kit with Gloves,Digital Auto Air Compressor Tire Inflator, First Aid Kit, 12 Feet...",
+      "category": "Starter Kit",
+      "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71p9FLhJlEL._AC_UL320_.jpg",
+      "imageAlt": "Everlit Survival Car Emergency Kit, Roadside Safety Tool Kit with Gloves,Digital Auto Air Compressor Tire Inflator, First Aid Kit, 12 Feet...",
+      "url": "https://www.amazon.com/dp/B07XKGWNP8?tag=kinsta-sites-20"
+    },
+    {
       "asin": "B08GR4GQ5P",
       "source": "ready-shelf",
       "name": "238Pcs Emergency Survival Kit and First Aid Kit, Professional Survival Gear Tool with Tactical Molle Pouch and Emergency Tent for Earthquak...",
@@ -508,17 +553,6 @@
       "image": "https://m.media-amazon.com/images/I/81QBUrO2e7L._AC_UL320_.jpg",
       "imageAlt": "238Pcs Emergency Survival Kit and First Aid Kit, Professional Survival Gear Tool with Tactical Molle Pouch and Emergency Tent for Earthquak...",
       "url": "https://www.amazon.com/dp/B08GR4GQ5P?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0DB794BKQ",
-      "source": "ready-shelf",
-      "name": "Mini First Aid Kit - 150 Piece Small Waterproof Hard Shell Medical Kit for Home, Car, Travel, Camping, Truck, Hiking, Sports, Office, Vehic...",
-      "category": "Starter Kit",
-      "description": "A practical first-click pick for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
-      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71g347mQv2L._AC_UL320_.jpg",
-      "imageAlt": "Mini First Aid Kit - 150 Piece Small Waterproof Hard Shell Medical Kit for Home, Car, Travel, Camping, Truck, Hiking, Sports, Office, Vehic...",
-      "url": "https://www.amazon.com/dp/B0DB794BKQ?tag=kinsta-sites-20"
     },
     {
       "asin": "B07BFRV7K5",
@@ -541,17 +575,6 @@
       "image": "https://m.media-amazon.com/images/I/818TlfA4EqL._AC_UL320_.jpg",
       "imageAlt": "Survival Kit, Survival Gear and Equipment 258 PCS with Water Filter, Emergency Tent, LED Lantern, First Aid Kit Supplies, 25L Backpack for...",
       "url": "https://www.amazon.com/dp/B0FTYJYWWQ?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B09RCFN8JG",
-      "source": "ready-shelf",
-      "name": "Ready Hour 120 Serving Entree Bucket-Freeze Dried Emergency Food Supply-Survival Meals with Long Shelf Life-Prepper Essentials for Disaster...",
-      "category": "Emergency Prep",
-      "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
-      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71Lrs1cD2WL._AC_UL320_.jpg",
-      "imageAlt": "Ready Hour 120 Serving Entree Bucket-Freeze Dried Emergency Food Supply-Survival Meals with Long Shelf Life-Prepper Essentials for Disaster...",
-      "url": "https://www.amazon.com/dp/B09RCFN8JG?tag=kinsta-sites-20"
     },
     {
       "asin": "B0134DAXJ2",
@@ -587,17 +610,6 @@
       "url": "https://www.amazon.com/dp/B0CZ1W1GX4?tag=kinsta-sites-20"
     },
     {
-      "asin": "B07TSH7ZN5",
-      "source": "ready-shelf",
-      "name": "Eoxsmile Emergency Radio with NOAA Weather Alert, 5000mAh Solar Hand Crank Portable AM/FM Shortwave Radio, Rechargeable Battery Powered, US...",
-      "category": "Emergency Prep",
-      "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
-      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71FkdWjXQSL._AC_UL320_.jpg",
-      "imageAlt": "Eoxsmile Emergency Radio with NOAA Weather Alert, 5000mAh Solar Hand Crank Portable AM/FM Shortwave Radio, Rechargeable Battery Powered, US...",
-      "url": "https://www.amazon.com/dp/B07TSH7ZN5?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B07GNRB36Q",
       "source": "ready-shelf",
       "name": "Essentials Complete Deluxe Survival Kit 2 & 4 Person | Bug-Out-Bag | Emergency Go Bag Kit for Wildfires, Hurricanes, and Other Natural Disa...",
@@ -631,17 +643,6 @@
       "url": "https://www.amazon.com/dp/B006HTJKY0?tag=kinsta-sites-20"
     },
     {
-      "asin": "B00FXLG28U",
-      "source": "ready-shelf",
-      "name": "Ready America 72 Hour Deluxe Emergency Kit, 1-Person 3-Day Backpack, First Aid Kit, Survival Blanket, Power Station, Emergency Food, Portab...",
-      "category": "Comfort",
-      "description": "A useful little upgrade for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
-      "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71gp6xJP0XL._AC_UL320_.jpg",
-      "imageAlt": "Ready America 72 Hour Deluxe Emergency Kit, 1-Person 3-Day Backpack, First Aid Kit, Survival Blanket, Power Station, Emergency Food, Portab...",
-      "url": "https://www.amazon.com/dp/B00FXLG28U?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B00HOGS6JA",
       "source": "ready-shelf",
       "name": "ReadyWise Emergency Food Supply - 72 Hour Survival Kit, 30 Servings of Protein Meals, Freeze Dried Food for Backpacking, Camping Essentials...",
@@ -651,6 +652,48 @@
       "image": "https://m.media-amazon.com/images/I/71ZU04GylpL._AC_UL320_.jpg",
       "imageAlt": "ReadyWise Emergency Food Supply - 72 Hour Survival Kit, 30 Servings of Protein Meals, Freeze Dried Food for Backpacking, Camping Essentials...",
       "url": "https://www.amazon.com/dp/B00HOGS6JA?tag=kinsta-sites-20"
+    }
+  ],
+  "primeDayTrendProducts": [
+    {
+      "asin": "B0B79JGSTL",
+      "title": "USB C Charger Block 20W, Ocupwei PD 3.0 Fast Charging Wall Charger USBC Power Adapter Type C Brick Cube for iPhone...",
+      "image": "https://m.media-amazon.com/images/I/51ryIc6O8rL._AC_UY218_.jpg",
+      "url": "https://www.amazon.com/dp/B0B79JGSTL?tag=kinsta-sites-20",
+      "trend": "summer routine upgrade",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0B2WLSY9D",
+      "title": "[4 Pack] USB C Charger Block Fast Charging Multiport Adpater [PD 20W USB-C & QC 3.0 USB-A Port] for iPhone 17/16/15...",
+      "image": "https://m.media-amazon.com/images/I/51eAnSUfXSL._AC_UY218_.jpg",
+      "url": "https://www.amazon.com/dp/B0B2WLSY9D?tag=kinsta-sites-20",
+      "trend": "cleaner storage",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0BDKCBJ95",
+      "title": "Anker Nano 47W Fast Charger USB C, 2-Port Compact Foldable USB C GaN Charger for iPhone 17/16, Galaxy, Pixel, Compa...",
+      "image": "https://m.media-amazon.com/images/I/51qvw4IcVTL._AC_UY218_.jpg",
+      "url": "https://www.amazon.com/dp/B0BDKCBJ95?tag=kinsta-sites-20",
+      "trend": "grab-and-go setup",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0BDKB4W7N",
+      "title": "Anker Nano 47W Fast Charger USB C, 2-Port Compact Foldable USB C GaN Charger for iPhone 17/16, Galaxy, Pixel, Compa...",
+      "image": "https://m.media-amazon.com/images/I/51FZTLwB7QL._AC_UY218_.jpg",
+      "url": "https://www.amazon.com/dp/B0BDKB4W7N?tag=kinsta-sites-20",
+      "trend": "portable utility",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0DFCH3C4W",
+      "title": "Anker MacBook Pro Charger,140W Max 4-Port GaN USB C Charger Block with Smart Display,Fast Charger USB C Power Adapt...",
+      "image": "https://m.media-amazon.com/images/I/71TNYvW23mL._AC_UY218_.jpg",
+      "url": "https://www.amazon.com/dp/B0DFCH3C4W?tag=kinsta-sites-20",
+      "trend": "small-space reset",
+      "addedFor": "Prime Day 2026 trend watch"
     }
   ]
 }

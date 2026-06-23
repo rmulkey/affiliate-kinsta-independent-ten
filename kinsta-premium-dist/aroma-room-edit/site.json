@@ -4,7 +4,7 @@
   "baseUrl": "https://aroma-room-edit.kinsta.page",
   "platform": "Kinsta/Sevalla Static Site Hosting",
   "affiliateTag": "kinsta-sites-20",
-  "lastUpdated": "2026-06-12",
+  "lastUpdated": "2026-06-23",
   "productCount": 60,
   "monetizationSurface": [
     {
@@ -33,9 +33,32 @@
     "https://aroma-room-edit.kinsta.page/best/incense-and-room-sprays/",
     "https://aroma-room-edit.kinsta.page/affiliate-disclosure/",
     "https://aroma-room-edit.kinsta.page/editorial-policy/",
-    "https://aroma-room-edit.kinsta.page/contact/"
+    "https://aroma-room-edit.kinsta.page/contact/",
+    "https://aroma-room-edit.kinsta.page/prime-day/"
   ],
   "products": [
+    {
+      "asin": "B0CTJGJL2T",
+      "source": "layered-air",
+      "name": "Candle Warmer Lamp with Timer, Dimmable, Includes 2 Bulbs",
+      "category": "Wax Warmers",
+      "description": "A candle-warming lamp for people who like the look of a jar candle but want a flame-free way to enjoy the fragrance.",
+      "bestFor": "Flame-free candle routine",
+      "image": "/images/layered-air/candle-warmer-lamp-timer-dimmable.jpg",
+      "imageAlt": "Candle Warmer Lamp with Timer, Dimmable, Includes 2 Bulbs",
+      "url": "https://www.amazon.com/dp/B0CTJGJL2T?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07JRG42D9",
+      "source": "layered-air",
+      "name": "Victoria's Secret Body Fragrance Mist, Bare Vanilla, 8.4 fl oz",
+      "category": "Body Mists",
+      "description": "A familiar vanilla mist for daily wear, gym-bag refreshes, and pairing with warmer candles or linen sprays at home.",
+      "bestFor": "Everyday vanilla mist",
+      "image": "/images/layered-air/victorias-secret-bare-vanilla-mist.jpg",
+      "imageAlt": "Victoria's Secret Body Fragrance Mist, Bare Vanilla, 8.4 fl oz",
+      "url": "https://www.amazon.com/dp/B07JRG42D9?tag=kinsta-sites-20"
+    },
     {
       "asin": "B0B24QJ217",
       "source": "layered-air",
@@ -46,17 +69,6 @@
       "image": "/images/layered-air/cocorrina-clean-linen-reed-diffuser.jpg",
       "imageAlt": "Cocorrina Reed Diffuser Set, Clean Linen, 6.7 fl oz",
       "url": "https://www.amazon.com/dp/B0B24QJ217?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CMQRVRFF",
-      "source": "layered-air",
-      "name": "Airkeep Reed Diffuser Set, Clean Linen, 3.38 fl oz",
-      "category": "Reed Diffusers",
-      "description": "A compact reed diffuser for small rooms, guest baths, desks, and anywhere a full-size bottle would feel like too much.",
-      "bestFor": "Small-space fragrance",
-      "image": "/images/layered-air/airkeep-clean-linen-reed-diffuser.jpg",
-      "imageAlt": "Airkeep Reed Diffuser Set, Clean Linen, 3.38 fl oz",
-      "url": "https://www.amazon.com/dp/B0CMQRVRFF?tag=kinsta-sites-20"
     },
     {
       "asin": "B0BHWC6N41",
@@ -81,6 +93,28 @@
       "url": "https://www.amazon.com/dp/B0848JGM78?tag=kinsta-sites-20"
     },
     {
+      "asin": "B0CDRDK6MR",
+      "source": "layered-air",
+      "name": "Candle Warmer Lamp with Timer, Dimmer, Adjustable Height",
+      "category": "Wax Warmers",
+      "description": "An adjustable warmer lamp that works visually on a nightstand, desk, or living-room side table without screaming gadget.",
+      "bestFor": "Styled warmer lamp setup",
+      "image": "/images/layered-air/adjustable-height-candle-warmer-lamp.jpg",
+      "imageAlt": "Candle Warmer Lamp with Timer, Dimmer, Adjustable Height",
+      "url": "https://www.amazon.com/dp/B0CDRDK6MR?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CMQRVRFF",
+      "source": "layered-air",
+      "name": "Airkeep Reed Diffuser Set, Clean Linen, 3.38 fl oz",
+      "category": "Reed Diffusers",
+      "description": "A compact reed diffuser for small rooms, guest baths, desks, and anywhere a full-size bottle would feel like too much.",
+      "bestFor": "Small-space fragrance",
+      "image": "/images/layered-air/airkeep-clean-linen-reed-diffuser.jpg",
+      "imageAlt": "Airkeep Reed Diffuser Set, Clean Linen, 3.38 fl oz",
+      "url": "https://www.amazon.com/dp/B0CMQRVRFF?tag=kinsta-sites-20"
+    },
+    {
       "asin": "B001E6RNW2",
       "source": "layered-air",
       "name": "Capri Blue Volcano Reed Diffuser Set, Cobalt Blue, 8 fl oz",
@@ -90,6 +124,28 @@
       "image": "/images/layered-air/capri-blue-volcano-reed-diffuser.jpg",
       "imageAlt": "Capri Blue Volcano Reed Diffuser Set, Cobalt Blue, 8 fl oz",
       "url": "https://www.amazon.com/dp/B001E6RNW2?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0DZFGTCLR",
+      "source": "layered-air",
+      "name": "Candle Warmer Lamp with Timer, Dimmable, Height Adjustable",
+      "category": "Wax Warmers",
+      "description": "A lower-cost warmer option for testing the candle-lamp idea before committing to a pricier decor piece.",
+      "bestFor": "Entry candle warmer",
+      "image": "/images/layered-air/budget-height-adjustable-candle-warmer.jpg",
+      "imageAlt": "Candle Warmer Lamp with Timer, Dimmable, Height Adjustable",
+      "url": "https://www.amazon.com/dp/B0DZFGTCLR?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0876T9DQZ",
+      "source": "tiny-calm-co",
+      "name": "Philips Avent Premium Fast Bottle Warmer, Model SCF358",
+      "category": "Feeding",
+      "description": "A polished bottle-warmer option for parents who want fewer buttons and a smaller countertop footprint.",
+      "bestFor": "A streamlined feeding station",
+      "image": "/images/tiny-calm-co/philips-avent-premium-fast-bottle-warmer.jpg",
+      "imageAlt": "Philips Avent Premium Fast Bottle Warmer, Model SCF358",
+      "url": "https://www.amazon.com/dp/B0876T9DQZ?tag=kinsta-sites-20"
     },
     {
       "asin": "B0F3DQSZKT",
@@ -112,28 +168,6 @@
       "image": "/images/layered-air/yankee-lilac-blossoms-large-jar.jpg",
       "imageAlt": "Yankee Candle Lilac Blossoms Scented Candle, 22 oz Large Jar",
       "url": "https://www.amazon.com/dp/B0F3F7RMC9?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0F3DQPLSP",
-      "source": "layered-air",
-      "name": "Yankee Candle Sage & Citrus Scented Candle, 22 oz Large Jar",
-      "category": "Candles",
-      "description": "A green-citrus candle that fits kitchens, workspaces, and daytime routines without feeling overly sweet.",
-      "bestFor": "Fresh daytime candle profile",
-      "image": "/images/layered-air/yankee-sage-citrus-large-jar.jpg",
-      "imageAlt": "Yankee Candle Sage & Citrus Scented Candle, 22 oz Large Jar",
-      "url": "https://www.amazon.com/dp/B0F3DQPLSP?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B073LFMKLS",
-      "source": "layered-air",
-      "name": "Mrs. Meyer's Clean Day Soy Aromatherapy Candle, Honeysuckle, 7.2 oz",
-      "category": "Candles",
-      "description": "A simple, sunny candle for kitchens, laundry rooms, and casual counters where you want something easy to rebuy.",
-      "bestFor": "Everyday kitchen candle",
-      "image": "/images/layered-air/mrs-meyers-honeysuckle-soy-candle.jpg",
-      "imageAlt": "Mrs. Meyer's Clean Day Soy Aromatherapy Candle, Honeysuckle, 7.2 oz",
-      "url": "https://www.amazon.com/dp/B073LFMKLS?tag=kinsta-sites-20"
     },
     {
       "asin": "B07GH691SQ",
@@ -169,72 +203,6 @@
       "url": "https://www.amazon.com/dp/B01M4RLBJU?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0FFCT17PS",
-      "source": "layered-air",
-      "name": "Febreze Odor-Fighting Fabric Refresher, Romance & Desire, 23.6 oz",
-      "category": "Linen & Fabric Sprays",
-      "description": "A fabric refresher for couches, throws, curtains, and guest bedding when you want the soft goods to feel recently refreshed.",
-      "bestFor": "Textile scent touch-ups",
-      "image": "/images/layered-air/febreze-fabric-romance-desire.jpg",
-      "imageAlt": "Febreze Odor-Fighting Fabric Refresher, Romance & Desire, 23.6 oz",
-      "url": "https://www.amazon.com/dp/B0FFCT17PS?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B08N2BS9VY",
-      "source": "layered-air",
-      "name": "Tide Antibacterial Fabric Spray, 22 fl oz, 2 Count",
-      "category": "Linen & Fabric Sprays",
-      "description": "A practical fabric spray for high-traffic textiles, gym bags, pet blankets, and shared spaces that need a cleaner-smelling finish.",
-      "bestFor": "Utility fabric refresh",
-      "image": "/images/layered-air/tide-fabric-spray-two-count.jpg",
-      "imageAlt": "Tide Antibacterial Fabric Spray, 22 fl oz, 2 Count",
-      "url": "https://www.amazon.com/dp/B08N2BS9VY?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0D1HDXMBB",
-      "source": "layered-air",
-      "name": "Poo-Pourri Before-You-Go Pocket Toilet Spray, Spring Variety 3 Pack",
-      "category": "Room Sprays",
-      "description": "Tiny bathroom sprays for travel bags, guest baskets, and powder rooms where discreet, grab-and-go sizing matters.",
-      "bestFor": "Guest bath and travel kits",
-      "image": "/images/layered-air/poo-pourri-spring-variety-pocket-spray.jpg",
-      "imageAlt": "Poo-Pourri Before-You-Go Pocket Toilet Spray, Spring Variety 3 Pack",
-      "url": "https://www.amazon.com/dp/B0D1HDXMBB?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CTJGJL2T",
-      "source": "layered-air",
-      "name": "Candle Warmer Lamp with Timer, Dimmable, Includes 2 Bulbs",
-      "category": "Wax Warmers",
-      "description": "A candle-warming lamp for people who like the look of a jar candle but want a flame-free way to enjoy the fragrance.",
-      "bestFor": "Flame-free candle routine",
-      "image": "/images/layered-air/candle-warmer-lamp-timer-dimmable.jpg",
-      "imageAlt": "Candle Warmer Lamp with Timer, Dimmable, Includes 2 Bulbs",
-      "url": "https://www.amazon.com/dp/B0CTJGJL2T?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CDRDK6MR",
-      "source": "layered-air",
-      "name": "Candle Warmer Lamp with Timer, Dimmer, Adjustable Height",
-      "category": "Wax Warmers",
-      "description": "An adjustable warmer lamp that works visually on a nightstand, desk, or living-room side table without screaming gadget.",
-      "bestFor": "Styled warmer lamp setup",
-      "image": "/images/layered-air/adjustable-height-candle-warmer-lamp.jpg",
-      "imageAlt": "Candle Warmer Lamp with Timer, Dimmer, Adjustable Height",
-      "url": "https://www.amazon.com/dp/B0CDRDK6MR?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0DZFGTCLR",
-      "source": "layered-air",
-      "name": "Candle Warmer Lamp with Timer, Dimmable, Height Adjustable",
-      "category": "Wax Warmers",
-      "description": "A lower-cost warmer option for testing the candle-lamp idea before committing to a pricier decor piece.",
-      "bestFor": "Entry candle warmer",
-      "image": "/images/layered-air/budget-height-adjustable-candle-warmer.jpg",
-      "imageAlt": "Candle Warmer Lamp with Timer, Dimmable, Height Adjustable",
-      "url": "https://www.amazon.com/dp/B0DZFGTCLR?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B01EB1QOGW",
       "source": "layered-air",
       "name": "Satya Incense Gift Set, 8 Scents, 15 g Boxes",
@@ -246,61 +214,6 @@
       "url": "https://www.amazon.com/dp/B01EB1QOGW?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0000ZUGS6",
-      "source": "layered-air",
-      "name": "Satya Sai Baba Nag Champa Agarbatti Incense Sticks, 250 g",
-      "category": "Incense",
-      "description": "A classic Nag Champa box for people who already know they like this warm, familiar incense style.",
-      "bestFor": "Classic incense scent",
-      "image": "/images/layered-air/satya-nag-champa-250g.jpg",
-      "imageAlt": "Satya Sai Baba Nag Champa Agarbatti Incense Sticks, 250 g",
-      "url": "https://www.amazon.com/dp/B0000ZUGS6?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B07TJZP48M",
-      "source": "layered-air",
-      "name": "HEM Incense Sticks, 12 Box Variety Pack, 240 Sticks",
-      "category": "Incense",
-      "description": "A big variety pack for rotating incense by room, season, or whatever shelf vibe you are building that week.",
-      "bestFor": "Incense scent rotation",
-      "image": "/images/layered-air/hem-incense-variety-pack.jpg",
-      "imageAlt": "HEM Incense Sticks, 12 Box Variety Pack, 240 Sticks",
-      "url": "https://www.amazon.com/dp/B07TJZP48M?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CDLP9SQ3",
-      "source": "layered-air",
-      "name": "Ceremony Wooden Incense Holder with Glass Ash Catcher",
-      "category": "Incense",
-      "description": "A covered-style holder that keeps the incense setup looking neater on a shelf, console, or desk.",
-      "bestFor": "Tidier incense display",
-      "image": "/images/layered-air/ceremony-wooden-incense-holder.jpg",
-      "imageAlt": "Ceremony Wooden Incense Holder with Glass Ash Catcher",
-      "url": "https://www.amazon.com/dp/B0CDLP9SQ3?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B09X3HB2BR",
-      "source": "layered-air",
-      "name": "SOL DE JANEIRO Hair & Body Perfume Mist",
-      "category": "Body Mists",
-      "description": "A popular hair-and-body mist for personal scent layering, travel bags, and the post-shower shelf lineup.",
-      "bestFor": "Personal scent layering",
-      "image": "/images/layered-air/sol-de-janeiro-hair-body-mist.jpg",
-      "imageAlt": "SOL DE JANEIRO Hair & Body Perfume Mist",
-      "url": "https://www.amazon.com/dp/B09X3HB2BR?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B09W18N3GT",
-      "source": "layered-air",
-      "name": "SOL DE JANEIRO Hair & Body Perfume Mist",
-      "category": "Body Mists",
-      "description": "A second Sol de Janeiro mist option for shoppers comparing scent families before choosing their everyday bottle.",
-      "bestFor": "Comparing mist profiles",
-      "image": "/images/layered-air/sol-de-janeiro-second-hair-body-mist.jpg",
-      "imageAlt": "SOL DE JANEIRO Hair & Body Perfume Mist",
-      "url": "https://www.amazon.com/dp/B09W18N3GT?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0D3FK6KCB",
       "source": "layered-air",
       "name": "PHLUR Vanilla Skin Body Mist, 8 fl oz",
@@ -310,17 +223,6 @@
       "image": "/images/layered-air/phlur-vanilla-skin-body-mist.jpg",
       "imageAlt": "PHLUR Vanilla Skin Body Mist, 8 fl oz",
       "url": "https://www.amazon.com/dp/B0D3FK6KCB?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B07JRG42D9",
-      "source": "layered-air",
-      "name": "Victoria's Secret Body Fragrance Mist, Bare Vanilla, 8.4 fl oz",
-      "category": "Body Mists",
-      "description": "A familiar vanilla mist for daily wear, gym-bag refreshes, and pairing with warmer candles or linen sprays at home.",
-      "bestFor": "Everyday vanilla mist",
-      "image": "/images/layered-air/victorias-secret-bare-vanilla-mist.jpg",
-      "imageAlt": "Victoria's Secret Body Fragrance Mist, Bare Vanilla, 8.4 fl oz",
-      "url": "https://www.amazon.com/dp/B07JRG42D9?tag=kinsta-sites-20"
     },
     {
       "asin": "B097BW8KN7",
@@ -345,6 +247,138 @@
       "url": "https://www.amazon.com/dp/B08XZ3HWF3?tag=kinsta-sites-20"
     },
     {
+      "asin": "B0DKHCWJ5G",
+      "source": "tiny-calm-co",
+      "name": "Momcozy Portable Bottle Warmer for Travel",
+      "category": "Feeding",
+      "description": "A travel-friendly warmer for families who are often in the car, at activities, or away from a full kitchen setup.",
+      "bestFor": "Bottle warming away from home",
+      "image": "/images/tiny-calm-co/momcozy-portable-bottle-warmer.jpg",
+      "imageAlt": "Momcozy Portable Bottle Warmer for Travel",
+      "url": "https://www.amazon.com/dp/B0DKHCWJ5G?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07YJKWTYW",
+      "source": "tiny-calm-co",
+      "name": "Grownsy 8-in-1 Fast Baby Bottle Warmer",
+      "category": "Feeding",
+      "description": "A countertop pick for bottle-heavy seasons when one small station can make the kitchen feel less chaotic.",
+      "bestFor": "Daily bottle routines",
+      "image": "/images/tiny-calm-co/grownsy-8-in-1-bottle-warmer.jpg",
+      "imageAlt": "Grownsy 8-in-1 Fast Baby Bottle Warmer",
+      "url": "https://www.amazon.com/dp/B07YJKWTYW?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0F3DQPLSP",
+      "source": "layered-air",
+      "name": "Yankee Candle Sage & Citrus Scented Candle, 22 oz Large Jar",
+      "category": "Candles",
+      "description": "A green-citrus candle that fits kitchens, workspaces, and daytime routines without feeling overly sweet.",
+      "bestFor": "Fresh daytime candle profile",
+      "image": "/images/layered-air/yankee-sage-citrus-large-jar.jpg",
+      "imageAlt": "Yankee Candle Sage & Citrus Scented Candle, 22 oz Large Jar",
+      "url": "https://www.amazon.com/dp/B0F3DQPLSP?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B073LFMKLS",
+      "source": "layered-air",
+      "name": "Mrs. Meyer's Clean Day Soy Aromatherapy Candle, Honeysuckle, 7.2 oz",
+      "category": "Candles",
+      "description": "A simple, sunny candle for kitchens, laundry rooms, and casual counters where you want something easy to rebuy.",
+      "bestFor": "Everyday kitchen candle",
+      "image": "/images/layered-air/mrs-meyers-honeysuckle-soy-candle.jpg",
+      "imageAlt": "Mrs. Meyer's Clean Day Soy Aromatherapy Candle, Honeysuckle, 7.2 oz",
+      "url": "https://www.amazon.com/dp/B073LFMKLS?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B08N2BS9VY",
+      "source": "layered-air",
+      "name": "Tide Antibacterial Fabric Spray, 22 fl oz, 2 Count",
+      "category": "Linen & Fabric Sprays",
+      "description": "A practical fabric spray for high-traffic textiles, gym bags, pet blankets, and shared spaces that need a cleaner-smelling finish.",
+      "bestFor": "Utility fabric refresh",
+      "image": "/images/layered-air/tide-fabric-spray-two-count.jpg",
+      "imageAlt": "Tide Antibacterial Fabric Spray, 22 fl oz, 2 Count",
+      "url": "https://www.amazon.com/dp/B08N2BS9VY?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0D1HDXMBB",
+      "source": "layered-air",
+      "name": "Poo-Pourri Before-You-Go Pocket Toilet Spray, Spring Variety 3 Pack",
+      "category": "Room Sprays",
+      "description": "Tiny bathroom sprays for travel bags, guest baskets, and powder rooms where discreet, grab-and-go sizing matters.",
+      "bestFor": "Guest bath and travel kits",
+      "image": "/images/layered-air/poo-pourri-spring-variety-pocket-spray.jpg",
+      "imageAlt": "Poo-Pourri Before-You-Go Pocket Toilet Spray, Spring Variety 3 Pack",
+      "url": "https://www.amazon.com/dp/B0D1HDXMBB?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07TJZP48M",
+      "source": "layered-air",
+      "name": "HEM Incense Sticks, 12 Box Variety Pack, 240 Sticks",
+      "category": "Incense",
+      "description": "A big variety pack for rotating incense by room, season, or whatever shelf vibe you are building that week.",
+      "bestFor": "Incense scent rotation",
+      "image": "/images/layered-air/hem-incense-variety-pack.jpg",
+      "imageAlt": "HEM Incense Sticks, 12 Box Variety Pack, 240 Sticks",
+      "url": "https://www.amazon.com/dp/B07TJZP48M?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B09X3HB2BR",
+      "source": "layered-air",
+      "name": "SOL DE JANEIRO Hair & Body Perfume Mist",
+      "category": "Body Mists",
+      "description": "A popular hair-and-body mist for personal scent layering, travel bags, and the post-shower shelf lineup.",
+      "bestFor": "Personal scent layering",
+      "image": "/images/layered-air/sol-de-janeiro-hair-body-mist.jpg",
+      "imageAlt": "SOL DE JANEIRO Hair & Body Perfume Mist",
+      "url": "https://www.amazon.com/dp/B09X3HB2BR?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B09W18N3GT",
+      "source": "layered-air",
+      "name": "SOL DE JANEIRO Hair & Body Perfume Mist",
+      "category": "Body Mists",
+      "description": "A second Sol de Janeiro mist option for shoppers comparing scent families before choosing their everyday bottle.",
+      "bestFor": "Comparing mist profiles",
+      "image": "/images/layered-air/sol-de-janeiro-second-hair-body-mist.jpg",
+      "imageAlt": "SOL DE JANEIRO Hair & Body Perfume Mist",
+      "url": "https://www.amazon.com/dp/B09W18N3GT?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0FFCT17PS",
+      "source": "layered-air",
+      "name": "Febreze Odor-Fighting Fabric Refresher, Romance & Desire, 23.6 oz",
+      "category": "Linen & Fabric Sprays",
+      "description": "A fabric refresher for couches, throws, curtains, and guest bedding when you want the soft goods to feel recently refreshed.",
+      "bestFor": "Textile scent touch-ups",
+      "image": "/images/layered-air/febreze-fabric-romance-desire.jpg",
+      "imageAlt": "Febreze Odor-Fighting Fabric Refresher, Romance & Desire, 23.6 oz",
+      "url": "https://www.amazon.com/dp/B0FFCT17PS?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0000ZUGS6",
+      "source": "layered-air",
+      "name": "Satya Sai Baba Nag Champa Agarbatti Incense Sticks, 250 g",
+      "category": "Incense",
+      "description": "A classic Nag Champa box for people who already know they like this warm, familiar incense style.",
+      "bestFor": "Classic incense scent",
+      "image": "/images/layered-air/satya-nag-champa-250g.jpg",
+      "imageAlt": "Satya Sai Baba Nag Champa Agarbatti Incense Sticks, 250 g",
+      "url": "https://www.amazon.com/dp/B0000ZUGS6?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CDLP9SQ3",
+      "source": "layered-air",
+      "name": "Ceremony Wooden Incense Holder with Glass Ash Catcher",
+      "category": "Incense",
+      "description": "A covered-style holder that keeps the incense setup looking neater on a shelf, console, or desk.",
+      "bestFor": "Tidier incense display",
+      "image": "/images/layered-air/ceremony-wooden-incense-holder.jpg",
+      "imageAlt": "Ceremony Wooden Incense Holder with Glass Ash Catcher",
+      "url": "https://www.amazon.com/dp/B0CDLP9SQ3?tag=kinsta-sites-20"
+    },
+    {
       "asin": "B00821FLT4",
       "source": "tiny-calm-co",
       "name": "Ubbi Steel Diaper Pail, White",
@@ -354,6 +388,72 @@
       "image": "/images/tiny-calm-co/ubbi-steel-diaper-pail.jpg",
       "imageAlt": "Ubbi Steel Diaper Pail, White",
       "url": "https://www.amazon.com/dp/B00821FLT4?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07SCL613T",
+      "source": "tiny-calm-co",
+      "name": "HUGGIES Natural Care Sensitive Baby Wipes, 12 Flip-Top Packs",
+      "category": "Diapering",
+      "description": "A bulk wipe pick for changing tables, diaper bags, cars, and every room where someone eventually says, 'Where are the wipes?'",
+      "bestFor": "Stocking multiple wipe stations",
+      "image": "/images/tiny-calm-co/huggies-natural-care-sensitive-wipes.jpg",
+      "imageAlt": "HUGGIES Natural Care Sensitive Baby Wipes, 12 Flip-Top Packs",
+      "url": "https://www.amazon.com/dp/B07SCL613T?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07NDD9SF9",
+      "source": "tiny-calm-co",
+      "name": "Ingenuity Baby Base 2-in-1 Booster Feeding and Floor Seat, Slate",
+      "category": "Feeding",
+      "description": "A compact booster-style seat for kitchens that do not have room for another giant baby gear footprint.",
+      "bestFor": "Small-space feeding",
+      "image": "/images/tiny-calm-co/ingenuity-baby-base-booster-seat.jpg",
+      "imageAlt": "Ingenuity Baby Base 2-in-1 Booster Feeding and Floor Seat, Slate",
+      "url": "https://www.amazon.com/dp/B07NDD9SF9?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B078K1W9B3",
+      "source": "tiny-calm-co",
+      "name": "Hiccapop OmniBoost Travel Booster Seat with Tray",
+      "category": "Travel",
+      "description": "A packable booster for backyard dinners, grandparents' houses, camping weekends, and meals away from home.",
+      "bestFor": "Portable toddler meals",
+      "image": "/images/tiny-calm-co/hiccapop-omniboost-travel-booster.jpg",
+      "imageAlt": "Hiccapop OmniBoost Travel Booster Seat with Tray",
+      "url": "https://www.amazon.com/dp/B078K1W9B3?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B01N52DUNK",
+      "source": "tiny-calm-co",
+      "name": "Munchkin Fishin' Magnetic Baby and Toddler Bath Toy, 4 Piece Set",
+      "category": "Bath",
+      "description": "A cute bath toy for turning the tub into a little game without buying a giant pile of plastic creatures.",
+      "bestFor": "Simple bath play",
+      "image": "/images/tiny-calm-co/munchkin-fishin-bath-toy.jpg",
+      "imageAlt": "Munchkin Fishin' Magnetic Baby and Toddler Bath Toy, 4 Piece Set",
+      "url": "https://www.amazon.com/dp/B01N52DUNK?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B07JMZYJVW",
+      "source": "tiny-calm-co",
+      "name": "Momcozy Universal Stroller Organizer with Insulated Cup Holder",
+      "category": "Travel",
+      "description": "A stroller add-on for the real stuff: phone, keys, wipes, snacks, water, and the tiny toy that must not be lost.",
+      "bestFor": "Stroller errand organization",
+      "image": "/images/tiny-calm-co/momcozy-universal-stroller-organizer.jpg",
+      "imageAlt": "Momcozy Universal Stroller Organizer with Insulated Cup Holder",
+      "url": "https://www.amazon.com/dp/B07JMZYJVW?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BXY61MQT",
+      "source": "tiny-calm-co",
+      "name": "Stuffed Animal Storage Hammock or Net Corner",
+      "category": "Nursery Organization",
+      "description": "A fast way to get plush toys off the floor while still keeping the room playful and easy to reset.",
+      "bestFor": "Toy overflow control",
+      "image": "/images/tiny-calm-co/stuffed-animal-storage-hammock.jpg",
+      "imageAlt": "Stuffed Animal Storage Hammock or Net Corner",
+      "url": "https://www.amazon.com/dp/B0BXY61MQT?tag=kinsta-sites-20"
     },
     {
       "asin": "B009R27JVU",
@@ -376,17 +476,6 @@
       "image": "/images/tiny-calm-co/ubbi-disposable-diaper-sacks.jpg",
       "imageAlt": "Ubbi Disposable Diaper Sacks, 200 Count",
       "url": "https://www.amazon.com/dp/B07K2TKK26?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B07SCL613T",
-      "source": "tiny-calm-co",
-      "name": "HUGGIES Natural Care Sensitive Baby Wipes, 12 Flip-Top Packs",
-      "category": "Diapering",
-      "description": "A bulk wipe pick for changing tables, diaper bags, cars, and every room where someone eventually says, 'Where are the wipes?'",
-      "bestFor": "Stocking multiple wipe stations",
-      "image": "/images/tiny-calm-co/huggies-natural-care-sensitive-wipes.jpg",
-      "imageAlt": "HUGGIES Natural Care Sensitive Baby Wipes, 12 Flip-Top Packs",
-      "url": "https://www.amazon.com/dp/B07SCL613T?tag=kinsta-sites-20"
     },
     {
       "asin": "B00ZQXT4EY",
@@ -433,39 +522,6 @@
       "url": "https://www.amazon.com/dp/B0B5WF7S9F?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0DKHCWJ5G",
-      "source": "tiny-calm-co",
-      "name": "Momcozy Portable Bottle Warmer for Travel",
-      "category": "Feeding",
-      "description": "A travel-friendly warmer for families who are often in the car, at activities, or away from a full kitchen setup.",
-      "bestFor": "Bottle warming away from home",
-      "image": "/images/tiny-calm-co/momcozy-portable-bottle-warmer.jpg",
-      "imageAlt": "Momcozy Portable Bottle Warmer for Travel",
-      "url": "https://www.amazon.com/dp/B0DKHCWJ5G?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B07YJKWTYW",
-      "source": "tiny-calm-co",
-      "name": "Grownsy 8-in-1 Fast Baby Bottle Warmer",
-      "category": "Feeding",
-      "description": "A countertop pick for bottle-heavy seasons when one small station can make the kitchen feel less chaotic.",
-      "bestFor": "Daily bottle routines",
-      "image": "/images/tiny-calm-co/grownsy-8-in-1-bottle-warmer.jpg",
-      "imageAlt": "Grownsy 8-in-1 Fast Baby Bottle Warmer",
-      "url": "https://www.amazon.com/dp/B07YJKWTYW?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0876T9DQZ",
-      "source": "tiny-calm-co",
-      "name": "Philips Avent Premium Fast Bottle Warmer, Model SCF358",
-      "category": "Feeding",
-      "description": "A polished bottle-warmer option for parents who want fewer buttons and a smaller countertop footprint.",
-      "bestFor": "A streamlined feeding station",
-      "image": "/images/tiny-calm-co/philips-avent-premium-fast-bottle-warmer.jpg",
-      "imageAlt": "Philips Avent Premium Fast Bottle Warmer, Model SCF358",
-      "url": "https://www.amazon.com/dp/B0876T9DQZ?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B089QWNQXC",
       "source": "tiny-calm-co",
       "name": "Dr. Brown's All-in-One Sterilizer and Dryer",
@@ -508,28 +564,6 @@
       "image": "/images/tiny-calm-co/dr-browns-options-baby-bottles.jpg",
       "imageAlt": "Dr. Brown's Natural Flow Anti-Colic Options+ Narrow Baby Bottles, 8 oz, 4 Pack",
       "url": "https://www.amazon.com/dp/B01845QH7M?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B07NDD9SF9",
-      "source": "tiny-calm-co",
-      "name": "Ingenuity Baby Base 2-in-1 Booster Feeding and Floor Seat, Slate",
-      "category": "Feeding",
-      "description": "A compact booster-style seat for kitchens that do not have room for another giant baby gear footprint.",
-      "bestFor": "Small-space feeding",
-      "image": "/images/tiny-calm-co/ingenuity-baby-base-booster-seat.jpg",
-      "imageAlt": "Ingenuity Baby Base 2-in-1 Booster Feeding and Floor Seat, Slate",
-      "url": "https://www.amazon.com/dp/B07NDD9SF9?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B078K1W9B3",
-      "source": "tiny-calm-co",
-      "name": "Hiccapop OmniBoost Travel Booster Seat with Tray",
-      "category": "Travel",
-      "description": "A packable booster for backyard dinners, grandparents' houses, camping weekends, and meals away from home.",
-      "bestFor": "Portable toddler meals",
-      "image": "/images/tiny-calm-co/hiccapop-omniboost-travel-booster.jpg",
-      "imageAlt": "Hiccapop OmniBoost Travel Booster Seat with Tray",
-      "url": "https://www.amazon.com/dp/B078K1W9B3?tag=kinsta-sites-20"
     },
     {
       "asin": "B08GFCX964",
@@ -620,17 +654,6 @@
       "url": "https://www.amazon.com/dp/B07W6LVCJH?tag=kinsta-sites-20"
     },
     {
-      "asin": "B01N52DUNK",
-      "source": "tiny-calm-co",
-      "name": "Munchkin Fishin' Magnetic Baby and Toddler Bath Toy, 4 Piece Set",
-      "category": "Bath",
-      "description": "A cute bath toy for turning the tub into a little game without buying a giant pile of plastic creatures.",
-      "bestFor": "Simple bath play",
-      "image": "/images/tiny-calm-co/munchkin-fishin-bath-toy.jpg",
-      "imageAlt": "Munchkin Fishin' Magnetic Baby and Toddler Bath Toy, 4 Piece Set",
-      "url": "https://www.amazon.com/dp/B01N52DUNK?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0BTHQCNMK",
       "source": "tiny-calm-co",
       "name": "Yoofoss Hooded Baby Towels, 2 Pack",
@@ -653,17 +676,6 @@
       "url": "https://www.amazon.com/dp/B079DJHG97?tag=kinsta-sites-20"
     },
     {
-      "asin": "B07JMZYJVW",
-      "source": "tiny-calm-co",
-      "name": "Momcozy Universal Stroller Organizer with Insulated Cup Holder",
-      "category": "Travel",
-      "description": "A stroller add-on for the real stuff: phone, keys, wipes, snacks, water, and the tiny toy that must not be lost.",
-      "bestFor": "Stroller errand organization",
-      "image": "/images/tiny-calm-co/momcozy-universal-stroller-organizer.jpg",
-      "imageAlt": "Momcozy Universal Stroller Organizer with Insulated Cup Holder",
-      "url": "https://www.amazon.com/dp/B07JMZYJVW?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B094N4HRLX",
       "source": "tiny-calm-co",
       "name": "Guiseapue Stroller Cup Holder with Phone Holder",
@@ -684,17 +696,48 @@
       "image": "/images/tiny-calm-co/frida-baby-fold-and-go-potty-seat.jpg",
       "imageAlt": "Frida Baby Fold-and-Go Portable Potty Seat",
       "url": "https://www.amazon.com/dp/B0CFYVKNQN?tag=kinsta-sites-20"
+    }
+  ],
+  "primeDayTrendProducts": [
+    {
+      "asin": "B001E6RNW2",
+      "title": "Capri Blue Volcano Reed Diffuser Set, Cobalt Blue, 8 fl oz",
+      "image": "/images/layered-air/capri-blue-volcano-reed-diffuser.jpg",
+      "url": "https://www.amazon.com/dp/B001E6RNW2?tag=kinsta-sites-20",
+      "trend": "summer routine upgrade",
+      "addedFor": "Prime Day 2026 trend watch"
     },
     {
-      "asin": "B0BZ2PFVSN",
-      "source": "tiny-calm-co",
-      "name": "Ingenuity My Size Potty Pro 2-in-1 Potty Training Toilet",
-      "category": "Toddler Helpers",
-      "description": "A mini toilet-style option for families who want a dedicated potty spot during the transition stage.",
-      "bestFor": "At-home potty routines",
-      "image": "/images/tiny-calm-co/ingenuity-my-size-potty-pro.jpg",
-      "imageAlt": "Ingenuity My Size Potty Pro 2-in-1 Potty Training Toilet",
-      "url": "https://www.amazon.com/dp/B0BZ2PFVSN?tag=kinsta-sites-20"
+      "asin": "B0DZFGTCLR",
+      "title": "Candle Warmer Lamp with Timer, Dimmable, Height Adjustable",
+      "image": "/images/layered-air/budget-height-adjustable-candle-warmer.jpg",
+      "url": "https://www.amazon.com/dp/B0DZFGTCLR?tag=kinsta-sites-20",
+      "trend": "cleaner storage",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0876T9DQZ",
+      "title": "Philips Avent Premium Fast Bottle Warmer, Model SCF358",
+      "image": "/images/tiny-calm-co/philips-avent-premium-fast-bottle-warmer.jpg",
+      "url": "https://www.amazon.com/dp/B0876T9DQZ?tag=kinsta-sites-20",
+      "trend": "grab-and-go setup",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0F3DQSZKT",
+      "title": "Yankee Candle MidSummer's Night Scented Candle, 22 oz Large Jar",
+      "image": "/images/layered-air/yankee-midsummers-night-large-jar.jpg",
+      "url": "https://www.amazon.com/dp/B0F3DQSZKT?tag=kinsta-sites-20",
+      "trend": "portable utility",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0F3F7RMC9",
+      "title": "Yankee Candle Lilac Blossoms Scented Candle, 22 oz Large Jar",
+      "image": "/images/layered-air/yankee-lilac-blossoms-large-jar.jpg",
+      "url": "https://www.amazon.com/dp/B0F3F7RMC9?tag=kinsta-sites-20",
+      "trend": "small-space reset",
+      "addedFor": "Prime Day 2026 trend watch"
     }
   ]
 }

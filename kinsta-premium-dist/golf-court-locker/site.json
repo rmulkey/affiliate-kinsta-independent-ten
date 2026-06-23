@@ -4,7 +4,7 @@
   "baseUrl": "https://golf-court-locker.kinsta.page",
   "platform": "Kinsta/Sevalla Static Site Hosting",
   "affiliateTag": "kinsta-sites-20",
-  "lastUpdated": "2026-06-12",
+  "lastUpdated": "2026-06-23",
   "productCount": 56,
   "monetizationSurface": [
     {
@@ -29,9 +29,87 @@
     "https://golf-court-locker.kinsta.page/best/training-and-locker-tools/",
     "https://golf-court-locker.kinsta.page/affiliate-disclosure/",
     "https://golf-court-locker.kinsta.page/editorial-policy/",
-    "https://golf-court-locker.kinsta.page/contact/"
+    "https://golf-court-locker.kinsta.page/contact/",
+    "https://golf-court-locker.kinsta.page/prime-day/"
   ],
   "products": [
+    {
+      "asin": "B07YS4CXFJ",
+      "source": "golf-locker",
+      "name": "Golf Essentials Kit | Must-Have Accessories – Water Brush, Towel, Club Brush, Ball Marker, Divot Repair Tool, Ball & Tee Holder, Golf Gifts...",
+      "category": "Comfort",
+      "description": "A practical first-click pick for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81ynsqLsMxL._AC_UL320_.jpg",
+      "imageAlt": "Golf Essentials Kit | Must-Have Accessories – Water Brush, Towel, Club Brush, Ball Marker, Divot Repair Tool, Ball & Tee Holder, Golf Gifts...",
+      "url": "https://www.amazon.com/dp/B07YS4CXFJ?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0DYZ14192",
+      "source": "golf-locker",
+      "name": "karamagic 11 Pcs Golf Accessories Kit, Include Golf Ball Bag with Hook Tees Towel Cleaner Brush Ball Marker Divot Tool Sco...",
+      "category": "Storage",
+      "description": "A clean routine helper for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71c7e2dQVnL._AC_UL320_.jpg",
+      "imageAlt": "karamagic 11 Pcs Golf Accessories Kit, Include Golf Ball Bag with Hook Tees Towel Cleaner Brush Ball Marker Divot Tool Sco...",
+      "url": "https://www.amazon.com/dp/B0DYZ14192?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B015N2NX3A",
+      "source": "golf-locker",
+      "name": "SKLZ Golf Grip Trainer, Club Attachment for Correct Hand Positioning and Muscle Memory, Fits Standard Grips from Driver to Wedge, Right-Han...",
+      "category": "Court Gear",
+      "description": "A strong add-to-cart candidate for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61-gvX+sL9L._AC_UL320_.jpg",
+      "imageAlt": "SKLZ Golf Grip Trainer, Club Attachment for Correct Hand Positioning and Muscle Memory, Fits Standard Grips from Driver to Wedge, Right-Han...",
+      "url": "https://www.amazon.com/dp/B015N2NX3A?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0DJDVHHHT",
+      "source": "golf-locker",
+      "name": "Driver Darts by P*ss Missile, Premium Bamboo Wood Golf Tees - Iconic Tee Packging and Style, Cool Golf Gifts",
+      "category": "Golf",
+      "description": "A useful little upgrade for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71yDqQcYD4L._AC_UL320_.jpg",
+      "imageAlt": "Driver Darts by P*ss Missile, Premium Bamboo Wood Golf Tees - Iconic Tee Packging and Style, Cool Golf Gifts",
+      "url": "https://www.amazon.com/dp/B0DJDVHHHT?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0DFYFM5G8",
+      "source": "golf-locker",
+      "name": "Golf Net with Practice Mat,Golf Hitting Aid Nets 10x7FT for Backyard Driving Chipping Training Swing with Target Mat Balls for Outdoor Indo...",
+      "category": "Court Gear",
+      "description": "A clean routine helper for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71rkMjR2CQL._AC_UL320_.jpg",
+      "imageAlt": "Golf Net with Practice Mat,Golf Hitting Aid Nets 10x7FT for Backyard Driving Chipping Training Swing with Target Mat Balls for Outdoor Indo...",
+      "url": "https://www.amazon.com/dp/B0DFYFM5G8?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BRD7RZYH",
+      "source": "court-weekend",
+      "name": "Pickleball Set with 4 Premium Wood Paddles, Cushion Comfort Grip, 4 Cooling Towels, 4 Pickleball Balls & Carry Bag, Pickle Ball Paddle for...",
+      "category": "Storage",
+      "description": "A strong add-to-cart candidate for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71G6mxoJPdL._AC_UL320_.jpg",
+      "imageAlt": "Pickleball Set with 4 Premium Wood Paddles, Cushion Comfort Grip, 4 Cooling Towels, 4 Pickleball Balls & Carry Bag, Pickle Ball Paddle for...",
+      "url": "https://www.amazon.com/dp/B0BRD7RZYH?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0C2XHMYD1",
+      "source": "court-weekend",
+      "name": "Hesacore Pickleball Paddle Grip - 5.25in - Regular Feel - Supports Tennis Elbow, Enhances Grip Strength, Reduces Vibration with Finger Supp...",
+      "category": "Court Gear",
+      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/51ddBNnBrHL._AC_UL320_.jpg",
+      "imageAlt": "Hesacore Pickleball Paddle Grip - 5.25in - Regular Feel - Supports Tennis Elbow, Enhances Grip Strength, Reduces Vibration with Finger Supp...",
+      "url": "https://www.amazon.com/dp/B0C2XHMYD1?tag=kinsta-sites-20"
+    },
     {
       "asin": "B0055NRJLA",
       "source": "golf-locker",
@@ -77,17 +155,6 @@
       "url": "https://www.amazon.com/dp/B01KP195PY?tag=kinsta-sites-20"
     },
     {
-      "asin": "B09957FQNJ",
-      "source": "golf-locker",
-      "name": "THIODOON 2 Pack Golf Club Brushes and Groove Cleaner 2 ft Retractable Zipline Carabiner Golf Brush Head with Retractable Spike Comfortable...",
-      "category": "Tools",
-      "description": "A solid shortlist item for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71uOc6kkALL._AC_UL320_.jpg",
-      "imageAlt": "THIODOON 2 Pack Golf Club Brushes and Groove Cleaner 2 ft Retractable Zipline Carabiner Golf Brush Head with Retractable Spike Comfortable...",
-      "url": "https://www.amazon.com/dp/B09957FQNJ?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0BZM7WGXV",
       "source": "golf-locker",
       "name": "Jiskan Pro Golf Club Brush Cleaner with Retainer Clip and Squeeze Water Bottle 7.5 Inches Holds 4 Ounces of Water, Essentials Golf Accessor...",
@@ -97,6 +164,149 @@
       "image": "https://m.media-amazon.com/images/I/71TkJhN1SCL._AC_UL320_.jpg",
       "imageAlt": "Jiskan Pro Golf Club Brush Cleaner with Retainer Clip and Squeeze Water Bottle 7.5 Inches Holds 4 Ounces of Water, Essentials Golf Accessor...",
       "url": "https://www.amazon.com/dp/B0BZM7WGXV?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0DHT5XZR1",
+      "source": "golf-locker",
+      "name": "Callaway Golf Supersoft Golf Balls (2025)",
+      "category": "Court Gear",
+      "description": "A clean routine helper for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61qm+2koyBL._AC_UL320_.jpg",
+      "imageAlt": "Callaway Golf Supersoft Golf Balls (2025)",
+      "url": "https://www.amazon.com/dp/B0DHT5XZR1?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BZPGD42Y",
+      "source": "golf-locker",
+      "name": "SlopeMaster ProGreen Reader - Golf Ball Marker with High Precision Green Reading Aid Golf Accessories for Men Women",
+      "category": "Starter Kit",
+      "description": "A solid shortlist item for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61kxAEHfpDL._AC_UL320_.jpg",
+      "imageAlt": "SlopeMaster ProGreen Reader - Golf Ball Marker with High Precision Green Reading Aid Golf Accessories for Men Women",
+      "url": "https://www.amazon.com/dp/B0BZPGD42Y?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BVFP6KXC",
+      "source": "golf-locker",
+      "name": "REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Range Finder Golfing, 7X Magnification, Flag Pole Locking Vibration, Rechargeable R...",
+      "category": "Golf",
+      "description": "A clean routine helper for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/7126q+VJwTL._AC_UL320_.jpg",
+      "imageAlt": "REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Range Finder Golfing, 7X Magnification, Flag Pole Locking Vibration, Rechargeable R...",
+      "url": "https://www.amazon.com/dp/B0BVFP6KXC?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B08QSL9XQW",
+      "source": "golf-locker",
+      "name": "TaylorMade Golf Distance+ Golf Balls",
+      "category": "Court Gear",
+      "description": "A solid shortlist item for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81vThuvUBxL._AC_UL320_.jpg",
+      "imageAlt": "TaylorMade Golf Distance+ Golf Balls",
+      "url": "https://www.amazon.com/dp/B08QSL9XQW?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BLZNN217",
+      "source": "golf-locker",
+      "name": "Vice Pro Plus Golf Balls",
+      "category": "Court Gear",
+      "description": "A strong add-to-cart candidate for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/61IsuPWJsUL._AC_UL320_.jpg",
+      "imageAlt": "Vice Pro Plus Golf Balls",
+      "url": "https://www.amazon.com/dp/B0BLZNN217?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B09PZZ1QRM",
+      "source": "golf-locker",
+      "name": "YOREPEK 2 Layer Golf Trunk Organizer, Golf Gifts for Men with Separate Ventilated Compartment for 2 Pair Shoes, Waterproof Car Trunk Locker...",
+      "category": "Storage",
+      "description": "A useful little upgrade for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/716Bgsnvi8L._AC_UL320_.jpg",
+      "imageAlt": "YOREPEK 2 Layer Golf Trunk Organizer, Golf Gifts for Men with Separate Ventilated Compartment for 2 Pair Shoes, Waterproof Car Trunk Locker...",
+      "url": "https://www.amazon.com/dp/B09PZZ1QRM?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BMGYT38K",
+      "source": "golf-locker",
+      "name": "Callaway Golf Supersoft Golf Balls",
+      "category": "Court Gear",
+      "description": "A strong add-to-cart candidate for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71hYbAifNoL._AC_UL320_.jpg",
+      "imageAlt": "Callaway Golf Supersoft Golf Balls",
+      "url": "https://www.amazon.com/dp/B0BMGYT38K?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0F28Q1J6L",
+      "source": "court-weekend",
+      "name": "Sucipi Pickleball Bags for Women Lightweight Crossbody and Stylish Quilted Pickleball Paddle Sling Bag Backpack",
+      "category": "Storage",
+      "description": "A solid shortlist item for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71aYpdmpALL._AC_UL320_.jpg",
+      "imageAlt": "Sucipi Pickleball Bags for Women Lightweight Crossbody and Stylish Quilted Pickleball Paddle Sling Bag Backpack",
+      "url": "https://www.amazon.com/dp/B0F28Q1J6L?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CJSK2D21",
+      "source": "court-weekend",
+      "name": "Professor Pickleball - Carbon Cleaner, Premium Pickleball Paddle Eraser for Raw Carbon Fiber Paddles, Effortless Residue Removal, Quick & E...",
+      "category": "Court Gear",
+      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/814dKhA-GeL._AC_UL320_.jpg",
+      "imageAlt": "Professor Pickleball - Carbon Cleaner, Premium Pickleball Paddle Eraser for Raw Carbon Fiber Paddles, Effortless Residue Removal, Quick & E...",
+      "url": "https://www.amazon.com/dp/B0CJSK2D21?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0FR2TYKNG",
+      "source": "court-weekend",
+      "name": "Fun Pickleball Tennis Socks For Women, Funny Gift For Women, One Size",
+      "category": "Court Gear",
+      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/51JFo2Fh-sL._AC_UL320_.jpg",
+      "imageAlt": "Fun Pickleball Tennis Socks For Women, Funny Gift For Women, One Size",
+      "url": "https://www.amazon.com/dp/B0FR2TYKNG?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0FWR75LMG",
+      "source": "court-weekend",
+      "name": "Pickleball Bags, 30L Deluxe Waterproof Pickleball Backpack with Shoe Compartment for Men Women Pickle Ball Gift Accessories for Pickball Lo...",
+      "category": "Storage",
+      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71NQ4uRlH+L._AC_UL320_.jpg",
+      "imageAlt": "Pickleball Bags, 30L Deluxe Waterproof Pickleball Backpack with Shoe Compartment for Men Women Pickle Ball Gift Accessories for Pickball Lo...",
+      "url": "https://www.amazon.com/dp/B0FWR75LMG?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BM512JWR",
+      "source": "court-weekend",
+      "name": "Super Fly Goods Sweatbands Pickleball Golf Tennis Great Gift or for Your Sports or Team Wristband Sports Band Set Including Towel Wrist and...",
+      "category": "Comfort",
+      "description": "A solid shortlist item for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71fSpavXoYL._AC_UL320_.jpg",
+      "imageAlt": "Super Fly Goods Sweatbands Pickleball Golf Tennis Great Gift or for Your Sports or Team Wristband Sports Band Set Including Towel Wrist and...",
+      "url": "https://www.amazon.com/dp/B0BM512JWR?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B09957FQNJ",
+      "source": "golf-locker",
+      "name": "THIODOON 2 Pack Golf Club Brushes and Groove Cleaner 2 ft Retractable Zipline Carabiner Golf Brush Head with Retractable Spike Comfortable...",
+      "category": "Tools",
+      "description": "A solid shortlist item for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
+      "bestFor": "Golf shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/71uOc6kkALL._AC_UL320_.jpg",
+      "imageAlt": "THIODOON 2 Pack Golf Club Brushes and Groove Cleaner 2 ft Retractable Zipline Carabiner Golf Brush Head with Retractable Spike Comfortable...",
+      "url": "https://www.amazon.com/dp/B09957FQNJ?tag=kinsta-sites-20"
     },
     {
       "asin": "B0GYSBF4VC",
@@ -119,17 +329,6 @@
       "image": "https://m.media-amazon.com/images/I/91K1whkxqmL._AC_UL320_.jpg",
       "imageAlt": "A2C Alloy Magnetic Golf Cart Phone Holder for MagSafe iPhone, Unique Fathers Day Golf Gifts for Men Dad Him Husband Ladies Her Golfers, Gol...",
       "url": "https://www.amazon.com/dp/B0D2X9PWLR?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0DYZ14192",
-      "source": "golf-locker",
-      "name": "karamagic 11 Pcs Golf Accessories Kit, Include Golf Ball Bag with Hook Tees Towel Cleaner Brush Ball Marker Divot Tool Sco...",
-      "category": "Storage",
-      "description": "A clean routine helper for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71c7e2dQVnL._AC_UL320_.jpg",
-      "imageAlt": "karamagic 11 Pcs Golf Accessories Kit, Include Golf Ball Bag with Hook Tees Towel Cleaner Brush Ball Marker Divot Tool Sco...",
-      "url": "https://www.amazon.com/dp/B0DYZ14192?tag=kinsta-sites-20"
     },
     {
       "asin": "B09B5CTHGB",
@@ -165,39 +364,6 @@
       "url": "https://www.amazon.com/dp/B0CJKTW92Q?tag=kinsta-sites-20"
     },
     {
-      "asin": "B015N2NX3A",
-      "source": "golf-locker",
-      "name": "SKLZ Golf Grip Trainer, Club Attachment for Correct Hand Positioning and Muscle Memory, Fits Standard Grips from Driver to Wedge, Right-Han...",
-      "category": "Court Gear",
-      "description": "A strong add-to-cart candidate for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61-gvX+sL9L._AC_UL320_.jpg",
-      "imageAlt": "SKLZ Golf Grip Trainer, Club Attachment for Correct Hand Positioning and Muscle Memory, Fits Standard Grips from Driver to Wedge, Right-Han...",
-      "url": "https://www.amazon.com/dp/B015N2NX3A?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0DHT5XZR1",
-      "source": "golf-locker",
-      "name": "Callaway Golf Supersoft Golf Balls (2025)",
-      "category": "Court Gear",
-      "description": "A clean routine helper for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61qm+2koyBL._AC_UL320_.jpg",
-      "imageAlt": "Callaway Golf Supersoft Golf Balls (2025)",
-      "url": "https://www.amazon.com/dp/B0DHT5XZR1?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0BZPGD42Y",
-      "source": "golf-locker",
-      "name": "SlopeMaster ProGreen Reader - Golf Ball Marker with High Precision Green Reading Aid Golf Accessories for Men Women",
-      "category": "Starter Kit",
-      "description": "A solid shortlist item for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61kxAEHfpDL._AC_UL320_.jpg",
-      "imageAlt": "SlopeMaster ProGreen Reader - Golf Ball Marker with High Precision Green Reading Aid Golf Accessories for Men Women",
-      "url": "https://www.amazon.com/dp/B0BZPGD42Y?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B08B1NML8T",
       "source": "golf-locker",
       "name": "Bulex Golf Club Groove Sharpener, Re-Grooving Tool and Cleaner for Wedges & Irons - Generate Optimal Backspin - Suitable for U & V-Grooves",
@@ -207,17 +373,6 @@
       "image": "https://m.media-amazon.com/images/I/71sdIYNjJeL._AC_UL320_.jpg",
       "imageAlt": "Bulex Golf Club Groove Sharpener, Re-Grooving Tool and Cleaner for Wedges & Irons - Generate Optimal Backspin - Suitable for U & V-Grooves",
       "url": "https://www.amazon.com/dp/B08B1NML8T?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0DJDVHHHT",
-      "source": "golf-locker",
-      "name": "Driver Darts by P*ss Missile, Premium Bamboo Wood Golf Tees - Iconic Tee Packging and Style, Cool Golf Gifts",
-      "category": "Golf",
-      "description": "A useful little upgrade for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71yDqQcYD4L._AC_UL320_.jpg",
-      "imageAlt": "Driver Darts by P*ss Missile, Premium Bamboo Wood Golf Tees - Iconic Tee Packging and Style, Cool Golf Gifts",
-      "url": "https://www.amazon.com/dp/B0DJDVHHHT?tag=kinsta-sites-20"
     },
     {
       "asin": "B0F6LLNTS8",
@@ -231,39 +386,6 @@
       "url": "https://www.amazon.com/dp/B0F6LLNTS8?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0BVFP6KXC",
-      "source": "golf-locker",
-      "name": "REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Range Finder Golfing, 7X Magnification, Flag Pole Locking Vibration, Rechargeable R...",
-      "category": "Golf",
-      "description": "A clean routine helper for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/7126q+VJwTL._AC_UL320_.jpg",
-      "imageAlt": "REDTIGER Golf Rangefinder with Slope Switch, 1200 Yards Range Finder Golfing, 7X Magnification, Flag Pole Locking Vibration, Rechargeable R...",
-      "url": "https://www.amazon.com/dp/B0BVFP6KXC?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B08QSL9XQW",
-      "source": "golf-locker",
-      "name": "TaylorMade Golf Distance+ Golf Balls",
-      "category": "Court Gear",
-      "description": "A solid shortlist item for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81vThuvUBxL._AC_UL320_.jpg",
-      "imageAlt": "TaylorMade Golf Distance+ Golf Balls",
-      "url": "https://www.amazon.com/dp/B08QSL9XQW?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B07YS4CXFJ",
-      "source": "golf-locker",
-      "name": "Golf Essentials Kit | Must-Have Accessories – Water Brush, Towel, Club Brush, Ball Marker, Divot Repair Tool, Ball & Tee Holder, Golf Gifts...",
-      "category": "Comfort",
-      "description": "A practical first-click pick for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81ynsqLsMxL._AC_UL320_.jpg",
-      "imageAlt": "Golf Essentials Kit | Must-Have Accessories – Water Brush, Towel, Club Brush, Ball Marker, Divot Repair Tool, Ball & Tee Holder, Golf Gifts...",
-      "url": "https://www.amazon.com/dp/B07YS4CXFJ?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0846L83HL",
       "source": "golf-locker",
       "name": "Titleist Travel Gear Professional Zippered Golf Pouch Black",
@@ -273,28 +395,6 @@
       "image": "https://m.media-amazon.com/images/I/71uIUFhwTSL._AC_UL320_.jpg",
       "imageAlt": "Titleist Travel Gear Professional Zippered Golf Pouch Black",
       "url": "https://www.amazon.com/dp/B0846L83HL?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0BLZNN217",
-      "source": "golf-locker",
-      "name": "Vice Pro Plus Golf Balls",
-      "category": "Court Gear",
-      "description": "A strong add-to-cart candidate for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/61IsuPWJsUL._AC_UL320_.jpg",
-      "imageAlt": "Vice Pro Plus Golf Balls",
-      "url": "https://www.amazon.com/dp/B0BLZNN217?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0DFYFM5G8",
-      "source": "golf-locker",
-      "name": "Golf Net with Practice Mat,Golf Hitting Aid Nets 10x7FT for Backyard Driving Chipping Training Swing with Target Mat Balls for Outdoor Indo...",
-      "category": "Court Gear",
-      "description": "A clean routine helper for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71rkMjR2CQL._AC_UL320_.jpg",
-      "imageAlt": "Golf Net with Practice Mat,Golf Hitting Aid Nets 10x7FT for Backyard Driving Chipping Training Swing with Target Mat Balls for Outdoor Indo...",
-      "url": "https://www.amazon.com/dp/B0DFYFM5G8?tag=kinsta-sites-20"
     },
     {
       "asin": "B0CF9THQDK",
@@ -319,28 +419,6 @@
       "url": "https://www.amazon.com/dp/B0C4KDXKWL?tag=kinsta-sites-20"
     },
     {
-      "asin": "B09PZZ1QRM",
-      "source": "golf-locker",
-      "name": "YOREPEK 2 Layer Golf Trunk Organizer, Golf Gifts for Men with Separate Ventilated Compartment for 2 Pair Shoes, Waterproof Car Trunk Locker...",
-      "category": "Storage",
-      "description": "A useful little upgrade for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/716Bgsnvi8L._AC_UL320_.jpg",
-      "imageAlt": "YOREPEK 2 Layer Golf Trunk Organizer, Golf Gifts for Men with Separate Ventilated Compartment for 2 Pair Shoes, Waterproof Car Trunk Locker...",
-      "url": "https://www.amazon.com/dp/B09PZZ1QRM?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0BMGYT38K",
-      "source": "golf-locker",
-      "name": "Callaway Golf Supersoft Golf Balls",
-      "category": "Court Gear",
-      "description": "A strong add-to-cart candidate for golf shoppers who want cleaner bag organization, easier practice, better grip, or a useful course-day gift.",
-      "bestFor": "Golf shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71hYbAifNoL._AC_UL320_.jpg",
-      "imageAlt": "Callaway Golf Supersoft Golf Balls",
-      "url": "https://www.amazon.com/dp/B0BMGYT38K?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B09C88QVHL",
       "source": "court-weekend",
       "name": "JoncAye Pickleball Paddles Set of 4 or 2, USAPA Approved Fiberglass Rackets with Outdoor Indoor Balls, Bag, Overgrip, Lightweight for Famil...",
@@ -352,28 +430,6 @@
       "url": "https://www.amazon.com/dp/B09C88QVHL?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0BRMXW2WW",
-      "source": "court-weekend",
-      "name": "Dulce DOM Pickleball Paddles Set of 2/4 - USAPA Approved, 4 Indoor Outdoor Pickleball Balls, Fiberglass Surface Paddle Racket with Cover Ba...",
-      "category": "Starter Kit",
-      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81XvBmcGjyL._AC_UL320_.jpg",
-      "imageAlt": "Dulce DOM Pickleball Paddles Set of 2/4 - USAPA Approved, 4 Indoor Outdoor Pickleball Balls, Fiberglass Surface Paddle Racket with Cover Ba...",
-      "url": "https://www.amazon.com/dp/B0BRMXW2WW?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0BYV7P9X7",
-      "source": "court-weekend",
-      "name": "Pickleball Paddles Set of 2 or 4, or Single Paddle – USAPA Approved Fiberglass Surface Pickleball Rackets Set for Men & Women",
-      "category": "Starter Kit",
-      "description": "A strong add-to-cart candidate for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/817bcNLqMLL._AC_UL320_.jpg",
-      "imageAlt": "Pickleball Paddles Set of 2 or 4, or Single Paddle – USAPA Approved Fiberglass Surface Pickleball Rackets Set for Men & Women",
-      "url": "https://www.amazon.com/dp/B0BYV7P9X7?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0972GTS8W",
       "source": "court-weekend",
       "name": "Mangrove Pickleball Bag, Men&#x27;s & Women&#x27;s Pickleball Backpack, Adjustable Sling Bag w/Fence Hook/Large Capacity/Safety Pocket",
@@ -383,28 +439,6 @@
       "image": "https://m.media-amazon.com/images/I/61kO0v-eAeL._AC_UL320_.jpg",
       "imageAlt": "Mangrove Pickleball Bag, Men&#x27;s & Women&#x27;s Pickleball Backpack, Adjustable Sling Bag w/Fence Hook/Large Capacity/Safety Pocket",
       "url": "https://www.amazon.com/dp/B0972GTS8W?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0F28Q1J6L",
-      "source": "court-weekend",
-      "name": "Sucipi Pickleball Bags for Women Lightweight Crossbody and Stylish Quilted Pickleball Paddle Sling Bag Backpack",
-      "category": "Storage",
-      "description": "A solid shortlist item for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71aYpdmpALL._AC_UL320_.jpg",
-      "imageAlt": "Sucipi Pickleball Bags for Women Lightweight Crossbody and Stylish Quilted Pickleball Paddle Sling Bag Backpack",
-      "url": "https://www.amazon.com/dp/B0F28Q1J6L?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CRQQKTLY",
-      "source": "court-weekend",
-      "name": "Paddle Reset - Pickleball Paddle Cleaner - Strips Impacted Residue and Increases Spin and Control",
-      "category": "Starter Kit",
-      "description": "A practical first-click pick for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/51z+Vvsa9fL._AC_UL320_.jpg",
-      "imageAlt": "Paddle Reset - Pickleball Paddle Cleaner - Strips Impacted Residue and Increases Spin and Control",
-      "url": "https://www.amazon.com/dp/B0CRQQKTLY?tag=kinsta-sites-20"
     },
     {
       "asin": "B0DNDGWN1G",
@@ -462,28 +496,6 @@
       "url": "https://www.amazon.com/dp/B06XTW1BND?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0CJSK2D21",
-      "source": "court-weekend",
-      "name": "Professor Pickleball - Carbon Cleaner, Premium Pickleball Paddle Eraser for Raw Carbon Fiber Paddles, Effortless Residue Removal, Quick & E...",
-      "category": "Court Gear",
-      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/814dKhA-GeL._AC_UL320_.jpg",
-      "imageAlt": "Professor Pickleball - Carbon Cleaner, Premium Pickleball Paddle Eraser for Raw Carbon Fiber Paddles, Effortless Residue Removal, Quick & E...",
-      "url": "https://www.amazon.com/dp/B0CJSK2D21?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0BRD7RZYH",
-      "source": "court-weekend",
-      "name": "Pickleball Set with 4 Premium Wood Paddles, Cushion Comfort Grip, 4 Cooling Towels, 4 Pickleball Balls & Carry Bag, Pickle Ball Paddle for...",
-      "category": "Storage",
-      "description": "A strong add-to-cart candidate for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71G6mxoJPdL._AC_UL320_.jpg",
-      "imageAlt": "Pickleball Set with 4 Premium Wood Paddles, Cushion Comfort Grip, 4 Cooling Towels, 4 Pickleball Balls & Carry Bag, Pickle Ball Paddle for...",
-      "url": "https://www.amazon.com/dp/B0BRD7RZYH?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0FD9PWSMP",
       "source": "court-weekend",
       "name": "YACO STORE Pickleball Gifts, Funny Pickle Doll for Men Women",
@@ -515,17 +527,6 @@
       "image": "https://m.media-amazon.com/images/I/81zE+RWnjUL._AC_UL320_.jpg",
       "imageAlt": "2PCS Pickleball Paddle Eraser, Carbon Cleaner, Quick & Effective Pickleball Accessories to Remove Ball Residue, Dirt and Scratches",
       "url": "https://www.amazon.com/dp/B0D4TY5G7Y?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0FR2TYKNG",
-      "source": "court-weekend",
-      "name": "Fun Pickleball Tennis Socks For Women, Funny Gift For Women, One Size",
-      "category": "Court Gear",
-      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/51JFo2Fh-sL._AC_UL320_.jpg",
-      "imageAlt": "Fun Pickleball Tennis Socks For Women, Funny Gift For Women, One Size",
-      "url": "https://www.amazon.com/dp/B0FR2TYKNG?tag=kinsta-sites-20"
     },
     {
       "asin": "B0FB8QR3HZ",
@@ -572,28 +573,6 @@
       "url": "https://www.amazon.com/dp/B0FCXYFGJQ?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0FWR75LMG",
-      "source": "court-weekend",
-      "name": "Pickleball Bags, 30L Deluxe Waterproof Pickleball Backpack with Shoe Compartment for Men Women Pickle Ball Gift Accessories for Pickball Lo...",
-      "category": "Storage",
-      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71NQ4uRlH+L._AC_UL320_.jpg",
-      "imageAlt": "Pickleball Bags, 30L Deluxe Waterproof Pickleball Backpack with Shoe Compartment for Men Women Pickle Ball Gift Accessories for Pickball Lo...",
-      "url": "https://www.amazon.com/dp/B0FWR75LMG?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0CHBBRRN2",
-      "source": "court-weekend",
-      "name": "Pickleball Paddles Set of 2 or 4, or Single Paddle – USAPA Approved Fiberglass Surface Pickleball Rackets Set for Men & Women",
-      "category": "Starter Kit",
-      "description": "A strong add-to-cart candidate for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/81Zb8DsvliL._AC_UL320_.jpg",
-      "imageAlt": "Pickleball Paddles Set of 2 or 4, or Single Paddle – USAPA Approved Fiberglass Surface Pickleball Rackets Set for Men & Women",
-      "url": "https://www.amazon.com/dp/B0CHBBRRN2?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0F83RHRBV",
       "source": "court-weekend",
       "name": "Pickleball Art for Men Women Pickleball Player Pickle Ball T-Shirt",
@@ -603,17 +582,6 @@
       "image": "https://m.media-amazon.com/images/I/71UIFGYNY0L._AC_UL320_.jpg",
       "imageAlt": "Pickleball Art for Men Women Pickleball Player Pickle Ball T-Shirt",
       "url": "https://www.amazon.com/dp/B0F83RHRBV?tag=kinsta-sites-20"
-    },
-    {
-      "asin": "B0BM512JWR",
-      "source": "court-weekend",
-      "name": "Super Fly Goods Sweatbands Pickleball Golf Tennis Great Gift or for Your Sports or Team Wristband Sports Band Set Including Towel Wrist and...",
-      "category": "Comfort",
-      "description": "A solid shortlist item for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/71fSpavXoYL._AC_UL320_.jpg",
-      "imageAlt": "Super Fly Goods Sweatbands Pickleball Golf Tennis Great Gift or for Your Sports or Team Wristband Sports Band Set Including Towel Wrist and...",
-      "url": "https://www.amazon.com/dp/B0BM512JWR?tag=kinsta-sites-20"
     },
     {
       "asin": "B0CCW7Z3M6",
@@ -627,17 +595,6 @@
       "url": "https://www.amazon.com/dp/B0CCW7Z3M6?tag=kinsta-sites-20"
     },
     {
-      "asin": "B0C2XHMYD1",
-      "source": "court-weekend",
-      "name": "Hesacore Pickleball Paddle Grip - 5.25in - Regular Feel - Supports Tennis Elbow, Enhances Grip Strength, Reduces Vibration with Finger Supp...",
-      "category": "Court Gear",
-      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
-      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
-      "image": "https://m.media-amazon.com/images/I/51ddBNnBrHL._AC_UL320_.jpg",
-      "imageAlt": "Hesacore Pickleball Paddle Grip - 5.25in - Regular Feel - Supports Tennis Elbow, Enhances Grip Strength, Reduces Vibration with Finger Supp...",
-      "url": "https://www.amazon.com/dp/B0C2XHMYD1?tag=kinsta-sites-20"
-    },
-    {
       "asin": "B0DD7C9WGH",
       "source": "court-weekend",
       "name": "JOJOLEMON Pickleball Paddles, Carbon Fiber Pickleball Paddle with a 16mm Shark Power Polymer Core, The Pickleball Rackets Designed for Ulti...",
@@ -647,6 +604,92 @@
       "image": "https://m.media-amazon.com/images/I/61kJl6-KTgL._AC_UL320_.jpg",
       "imageAlt": "JOJOLEMON Pickleball Paddles, Carbon Fiber Pickleball Paddle with a 16mm Shark Power Polymer Core, The Pickleball Rackets Designed for Ulti...",
       "url": "https://www.amazon.com/dp/B0DD7C9WGH?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BRMXW2WW",
+      "source": "court-weekend",
+      "name": "Dulce DOM Pickleball Paddles Set of 2/4 - USAPA Approved, 4 Indoor Outdoor Pickleball Balls, Fiberglass Surface Paddle Racket with Cover Ba...",
+      "category": "Starter Kit",
+      "description": "A useful little upgrade for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81XvBmcGjyL._AC_UL320_.jpg",
+      "imageAlt": "Dulce DOM Pickleball Paddles Set of 2/4 - USAPA Approved, 4 Indoor Outdoor Pickleball Balls, Fiberglass Surface Paddle Racket with Cover Ba...",
+      "url": "https://www.amazon.com/dp/B0BRMXW2WW?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0BYV7P9X7",
+      "source": "court-weekend",
+      "name": "Pickleball Paddles Set of 2 or 4, or Single Paddle – USAPA Approved Fiberglass Surface Pickleball Rackets Set for Men & Women",
+      "category": "Starter Kit",
+      "description": "A strong add-to-cart candidate for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/817bcNLqMLL._AC_UL320_.jpg",
+      "imageAlt": "Pickleball Paddles Set of 2 or 4, or Single Paddle – USAPA Approved Fiberglass Surface Pickleball Rackets Set for Men & Women",
+      "url": "https://www.amazon.com/dp/B0BYV7P9X7?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CRQQKTLY",
+      "source": "court-weekend",
+      "name": "Paddle Reset - Pickleball Paddle Cleaner - Strips Impacted Residue and Increases Spin and Control",
+      "category": "Starter Kit",
+      "description": "A practical first-click pick for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/51z+Vvsa9fL._AC_UL320_.jpg",
+      "imageAlt": "Paddle Reset - Pickleball Paddle Cleaner - Strips Impacted Residue and Increases Spin and Control",
+      "url": "https://www.amazon.com/dp/B0CRQQKTLY?tag=kinsta-sites-20"
+    },
+    {
+      "asin": "B0CHBBRRN2",
+      "source": "court-weekend",
+      "name": "Pickleball Paddles Set of 2 or 4, or Single Paddle – USAPA Approved Fiberglass Surface Pickleball Rackets Set for Men & Women",
+      "category": "Starter Kit",
+      "description": "A strong add-to-cart candidate for pickleball shoppers who want an easier first match, cleaner bag, better grip, or a court-day item you will actually use.",
+      "bestFor": "Pickleball shoppers who want a cleaner first shortlist",
+      "image": "https://m.media-amazon.com/images/I/81Zb8DsvliL._AC_UL320_.jpg",
+      "imageAlt": "Pickleball Paddles Set of 2 or 4, or Single Paddle – USAPA Approved Fiberglass Surface Pickleball Rackets Set for Men & Women",
+      "url": "https://www.amazon.com/dp/B0CHBBRRN2?tag=kinsta-sites-20"
+    }
+  ],
+  "primeDayTrendProducts": [
+    {
+      "asin": "B0055NRJLA",
+      "title": "PrideSports PTS Wood Golf Tees | 135 Count, 3-1/4 Inch | #1 Wood Tee on Tour | Best for Drivers & Woods",
+      "image": "https://m.media-amazon.com/images/I/71hbOv1gNfL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/dp/B0055NRJLA?tag=kinsta-sites-20",
+      "trend": "summer routine upgrade",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B09GLP62SS",
+      "title": "REVASRI Golf Rangefinder with Slope and Pin Lock Vibration, External Slope Switch for Golf Tournament Legal, Rangef...",
+      "image": "https://m.media-amazon.com/images/I/61DLDBMKevL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/dp/B09GLP62SS?tag=kinsta-sites-20",
+      "trend": "cleaner storage",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0GXFB9JVC",
+      "title": "Alloy Magnetic Golf Cart Phone Holder for MagSafe iPhone - Heavy Duty Phone Mount Compatible with EZGO, Club Car &...",
+      "image": "https://m.media-amazon.com/images/I/614-JiQcuLL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/dp/B0GXFB9JVC?tag=kinsta-sites-20",
+      "trend": "grab-and-go setup",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B01KP195PY",
+      "title": "Callaway Golf 300 Pro Laser Rangefinder",
+      "image": "https://m.media-amazon.com/images/I/71chTGM1PVL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/dp/B01KP195PY?tag=kinsta-sites-20",
+      "trend": "portable utility",
+      "addedFor": "Prime Day 2026 trend watch"
+    },
+    {
+      "asin": "B0BZM7WGXV",
+      "title": "Jiskan Pro Golf Club Brush Cleaner with Retainer Clip and Squeeze Water Bottle 7.5 Inches Holds 4 Ounces of Water,...",
+      "image": "https://m.media-amazon.com/images/I/71TkJhN1SCL._AC_UL320_.jpg",
+      "url": "https://www.amazon.com/dp/B0BZM7WGXV?tag=kinsta-sites-20",
+      "trend": "small-space reset",
+      "addedFor": "Prime Day 2026 trend watch"
     }
   ]
 }
