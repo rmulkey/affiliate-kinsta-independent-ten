@@ -1,4 +1,4 @@
-import { appendAmazonAffiliateTag } from "@/lib/amazon";
+import { appendAmazonAffiliateTag, normalizeAmazonImageUrl } from "@/lib/amazon";
 import { type ProductCardContent } from "@/lib/types";
 
 type GeneratedSeed = Omit<
@@ -15,14 +15,14 @@ const seeds: GeneratedSeed[] = [
     "name": "MalloMe Sleeping Bags for Adults Cold Weather & Warm - Backpacking Camping Sleeping Bag for Kids 10-12, Girls, Boys - Lightweight Compact C...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A practical option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Better atmosphere",
       "Visual upgrade",
       "Simple setup"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81Mz+EmqRgL._AC_UL320_.jpg",
@@ -35,14 +35,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Picnic Table Cover with Bench Covers Camping Essentials Waterproof Windproof Camping Tablecloth with Drawstring Bag, Fitted Rectangle Table...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A useful option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71FsisG8w5L._AC_UL320_.jpg",
@@ -55,14 +55,14 @@ const seeds: GeneratedSeed[] = [
     "name": "LifeStraw Personal Water Filter for Hiking, Camping, Travel, and Emergency Preparedness",
     "category": "Camping",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "An option worth comparing for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/610MT9qiRyL._AC_UL320_.jpg",
@@ -75,14 +75,14 @@ const seeds: GeneratedSeed[] = [
     "name": "MEKER Fire Color Changing Packets - Fire Pit, Campfires, Outdoor Fireplaces, Bonfire - Magic Colorful Changing Fire - Perfect Fire Camping...",
     "category": "Camping",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A routine-focused option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71-zlcjUwHL._AC_UL320_.jpg",
@@ -95,14 +95,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Rainleaf Microfiber Towel Perfect Travel & Gym & Camping Towel. Quick Dry - Super Absorbent - Ultra Compact - Lightweight. Suitable for Tri...",
     "category": "Lighting",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A sensible option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61HHXRkRz6L._AC_UL320_.jpg",
@@ -115,14 +115,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Gas One GS-3400P Propane or Butane Stove Dual Fuel Stove Portable Camping Stove - Patented - with Carrying Case Great for Emergency Prepare...",
     "category": "Camping",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A practical option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61XKJ6Mfa3L._AC_UL320_.jpg",
@@ -135,14 +135,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Emergency Blanket 4-Pack Space Mylar Blankets Survival Gear and Supplies Reusable Thermal Camping Hunting Essentials First Aid Car Backpack...",
     "category": "Comfort",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A useful option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71eCGdR7nfL._AC_UL320_.jpg",
@@ -155,14 +155,14 @@ const seeds: GeneratedSeed[] = [
     "name": "MalloMe Smores Sticks for Fire Pit Long - Marshmallow Roasting Sticks Smores Kit - Smore Skewers Hot Dog Fork Campfire Cooking Equipment, C...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "An option worth comparing for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71tW1eoVlUL._AC_UL320_.jpg",
@@ -175,14 +175,14 @@ const seeds: GeneratedSeed[] = [
     "name": "OGERY Camping String Lights, 4 in 1 Quick Storage 32.8FT Rechargeable Tent Lights String with 8 Lighting Modes, Hanging Waterproof Portable...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A routine-focused option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71xgUVAO+9L._AC_UL320_.jpg",
@@ -195,14 +195,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Wise Owl Outfitters Camping Hammock – 500lbs Portable Hammock with Tree Straps - Travel, Backpacking, Hiking, Outdoors Camping Gear - Singl...",
     "category": "Camping",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A sensible option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81K6leBY4-L._AC_UL320_.jpg",
@@ -215,14 +215,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Camping Water Container 2 Gallon Collapsible Water Jug with Spout - Reusable Plastic Flasks, Foldable Empty Gallon Jug for Water Storage, W...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A practical option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71YATOD+GXL._AC_UL320_.jpg",
@@ -235,14 +235,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Sleeping Bags for Adults Backpacking Lightweight Waterproof- Cold Weather Sleeping Bag for Girls Boys Mens for Warm Camping Hiking Outdoor...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A useful option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Better atmosphere",
       "Visual upgrade",
       "Simple setup"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61kuIw4CNwL._AC_UL320_.jpg",
@@ -255,14 +255,14 @@ const seeds: GeneratedSeed[] = [
     "name": "FUN PAC Camping Sleeping Pad, Ultralight Camping Mat with Pillow, Built-in Foot Pump Inflatable Sleeping Pads Compact for Camping Backpacki...",
     "category": "Lighting",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "An option worth comparing for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Better atmosphere",
       "Visual upgrade",
       "Simple setup"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71PHS9MmZwL._AC_UL320_.jpg",
@@ -275,14 +275,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Carabiner Clip - Heavy Duty Carabiners 800lbs-13KN (2922 lbs) Carabeaner D Ring Shape,Key Chain Clip Hook,Keychain Clip,Multipurpose for Ca...",
     "category": "Tools",
     "priceHint": "$$ Mid-range",
-    "description": "A clean routine helper for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A routine-focused option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71tG-8Ak2PL._AC_UL320_.jpg",
@@ -295,14 +295,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Amazon Basics Waterproof Camping Tarp",
     "category": "Camping",
     "priceHint": "$$$ Premium",
-    "description": "A solid shortlist item for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A sensible option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81D1MWWYeaL._AC_UL320_.jpg",
@@ -315,14 +315,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Coleman Sundome Camping Tent with Rainfly, 2/3/4/6 Person Tent Sets Up in 10 Mins, Weatherproof Shelter for Camping, Festivals, Backyard, S...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A practical option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71ADgccHF4L._AC_UL320_.jpg",
@@ -335,14 +335,14 @@ const seeds: GeneratedSeed[] = [
     "name": "FRIZCOL 3-in-1 Camping Fan - Portable Fans Rechargeable - 24000mAh Battery Powered Fan with Light & Remote for Indoor, Outdoor, Tent, Trave...",
     "category": "Lighting",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A useful option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71E1s4gODdL._AC_UL320_.jpg",
@@ -355,14 +355,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Odoland 30000mAh Camping Fan with LED Lantern, Rechargeable Battery Operated Oscillating Fan with Remote & Hook, Portable Tent Fan with Tim...",
     "category": "Camping",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "An option worth comparing for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71Y+mUzO4IL._AC_UL320_.jpg",
@@ -375,14 +375,14 @@ const seeds: GeneratedSeed[] = [
     "name": "FLY2SKY Portable LED Tent Lamp, Clip Hook Hurricane Emergency Light Bulb, Camping Equipment Lanterns for Hiking, Backpacking Outage, B-CLOS...",
     "category": "Lighting",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A routine-focused option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61OFGQkHlVL._AC_UL320_.jpg",
@@ -395,14 +395,14 @@ const seeds: GeneratedSeed[] = [
     "name": "SZHLUX Camping Hammock Double & Single Portable Hammocks with 2 Tree Straps and Attached Carry Bag,Great for Outdoor,Indoor,Beach,Camping,L...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A sensible option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71kLhzAzSfL._AC_UL320_.jpg",
@@ -415,14 +415,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Kootek Camping Hammock, Portable Hammocks with Tree Straps & Attached Carry Bag, Camping Essentials Gear, Perfect for Outside Indoor Hiking...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A practical option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71Hy7mRB+8L._AC_UL320_.jpg",
@@ -435,14 +435,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Fire-Maple \"Fixed Star 1\" Backpacking and Camping Stove System | Outdoor Propane Cooking Gear | Portable Pot/Jet Burner Set | Ideal for Hik...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A useful option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51D4jGU98IL._AC_UL320_.jpg",
@@ -455,14 +455,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Arcturus Military Wool Blanket - Warm, Thick, Washable - Great for Outdoors, Camping, Stadium Blanket, Picnics, Travel - Car & Bushcraft Su...",
     "category": "Comfort",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "An option worth comparing for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81WeiP+XeYL._AC_UL320_.jpg",
@@ -475,14 +475,14 @@ const seeds: GeneratedSeed[] = [
     "name": "MEREZA Double Sleeping Bag for Adults Mens with Pillow, XL Queen Size Two Person Sleeping Bag for All Season Camping Hiking Backpacking 2 P...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A routine-focused option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61mMeO7b36L._AC_UL320_.jpg",
@@ -495,14 +495,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Frelaxy Dry Bag 3-Pack/5-Pack, Ultralight Dry Sack, Outdoor Bags Keep Gear Dry for Hiking, Backpacking, Kayaking, Camping, Swimming, Boating",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A sensible option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Better atmosphere",
       "Visual upgrade",
       "Simple setup"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61fGQ74-5WS._AC_UL320_.jpg",
@@ -515,14 +515,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Energizer Universal LED Headlamp (2-Pack), Bright Head Lamp for Outdoors, Camping and Emergency Light, IPX4 Water Resistant (Batteries Incl...",
     "category": "Lighting",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A practical option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Better atmosphere",
       "Visual upgrade",
       "Simple setup"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61CSF0ZXqKL._AC_UL320_.jpg",
@@ -535,14 +535,14 @@ const seeds: GeneratedSeed[] = [
     "name": "TRIPTIPS Bucket Toilet Seat with Soft Cushion, 270°Rotatable Lid,XL Portable, Luggable Loo Camping Toilet Seat for Adults and Kids, 5 Gallon",
     "category": "Camping",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "A useful option for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/510cLj8T1rL._AC_UL320_.jpg",
@@ -555,14 +555,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Free Soldier Waterproof Portable Tarp Multifunctional Outdoor Camping Traveling Awning Backpacking Tarp shelter Rain Tarp",
     "category": "Camping",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
+    "description": "An option worth comparing for camping shoppers who want more comfort, safer packing, clearer setup, or less campsite chaos.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Camping shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Trail Signal lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Trail Signal focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Outdoor gear still needs common sense, weather checks, sizing checks, and local safety rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61rG0kJ2vxL._AC_UL320_.jpg",
@@ -578,6 +578,10 @@ export function getTrailSignalCatalog(
 ): ProductCardContent[] {
   return seeds.map((product) => ({
     ...product,
+    image: {
+      ...product.image,
+      src: normalizeAmazonImageUrl(product.image.src)
+    },
     affiliateUrl: appendAmazonAffiliateTag(product.amazonUrl, affiliateTag),
     ctaLabel,
     commerce: {

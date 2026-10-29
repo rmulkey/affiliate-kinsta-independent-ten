@@ -8,21 +8,21 @@ type GeneratedSeed = Omit<
   amazonUrl: string;
 };
 
-const ctaLabel = "See it on Amazon";
+const ctaLabel = "Check current price on Amazon";
 
 const seeds: GeneratedSeed[] = [
   {
     "name": "SOICTA Portable Dog Small Animals Water Bottle for Walking 19 OZ or 12 OZ Pet Water Bottles for Puppy Medium Large Dogs Little Animals Wate...",
     "category": "Dog Walking",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A practical option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/710hwxeGPaL._AC_UL320_.jpg",
@@ -35,14 +35,14 @@ const seeds: GeneratedSeed[] = [
     "name": "2PCS Dog Poop Bag Holder, Waste Holder for Dispenser Carrier, Hand Free Metal",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A useful option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61q3Nuw6ExL._AC_UL320_.jpg",
@@ -55,14 +55,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Earth Rated Poop Bags for Dogs, Guaranteed Leak Proof and Extra Thick Waste Bag Refill Rolls, Lavender Scented, 270 Bags",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "An option worth comparing for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71l4DqotI3L._AC_UL320_.jpg",
@@ -75,14 +75,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Aonkey Collapsible Dog Bowls with Bottle Carrier, 2 Pack Travel Dog Water Bowl Upgraded Carabiner, One-piece Molded Rim No Fall Off or Crac...",
     "category": "Dog Walking",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A routine-focused option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61jSluAyC5L._AC_UL320_.jpg",
@@ -95,14 +95,14 @@ const seeds: GeneratedSeed[] = [
     "name": "iYoShop Hands Free Dog Leash with Zipper Pouch, Dual Padded Handles and Durable Bungee for Walking, Jogging and Running Your Dog (Large, 25...",
     "category": "Dog Walking",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A sensible option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81J3PqjxomL._AC_UL320_.jpg",
@@ -115,14 +115,14 @@ const seeds: GeneratedSeed[] = [
     "name": "ETACCU Hands Free Dog Leash with Phone Pouch, Water Bottle Holder - Adjustable Waist Belt 19-38 Inch Belt Leash for Running, Reflective Sho...",
     "category": "Dog Walking",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A practical option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71t8CgN1GXL._AC_UL320_.jpg",
@@ -135,14 +135,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Dog Bowl Pet Collapsible Bowls, 2 Pack for Cats Dogs, Portable Pet Feeding Watering Dish for Walking Parking Traveling with 2 Carabiners (S...",
     "category": "Dog Walking",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A useful option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/518kVNOT7gL._AC_UL320_.jpg",
@@ -155,14 +155,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Cibaabo Dog Water Bottle with Food Container, Travel Puppy Water Bowl, Portable Pet Dispenser, Dog Gift Stuff Accessories Items, Puppy Esse...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "An option worth comparing for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71qM6+6m7aL._AC_UL320_.jpg",
@@ -175,14 +175,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Gobeigo Dog Poop Bag Holder for Leash, Large Opening for Easy Pull Out, Doggy Poo Bag Dispenser with Used Waste Bag Carrier Suitable for An...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A routine-focused option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81Ol06-SKCL._AC_UL320_.jpg",
@@ -195,14 +195,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Dog Poop Bag Holder for Walking with Waste Bag Dispenser, Reusable Smell Proof, Pet Poop Pouch with Magnetic Closure,Portable Dog Accessori...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A sensible option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71AbOFeB4XL._AC_UL320_.jpg",
@@ -215,14 +215,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Dog Collar Light, 4 Modes Dog Lights for Night Walking, Rechargeable LED Pet Collar Light for Nighttime Clip on, IP68 Waterproof Pet Walkin...",
     "category": "Lighting",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A practical option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
       "Better atmosphere",
       "Visual upgrade",
       "Simple setup"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71HxnWVgyhL._AC_UL320_.jpg",
@@ -235,14 +235,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Earth Rated Dog Poop Bag Holder, Durable and Guaranteed Leakproof, Unscented, Dispenser with Starter Roll",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A useful option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71LU1a0g37L._AC_UL320_.jpg",
@@ -255,14 +255,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Fida Retractable Dog Leash, 16 ft Dog Walking Leash for Small Dogs up to 26 lbs, 360° Tangle Free, Black",
     "category": "Dog Walking",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "An option worth comparing for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61hCdJf89wL._AC_UL320_.jpg",
@@ -275,14 +275,14 @@ const seeds: GeneratedSeed[] = [
     "name": "VETRESKA Dog Poop Bag Dispenser with Cherry Blossom Scented Poop Bags, Leak Proof and Extra Thick Pet Waste Bags, 1 Poop Bag Holder and 105...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A clean routine helper for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A routine-focused option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71QMDhsM7lL._AC_UL320_.jpg",
@@ -295,14 +295,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Best Pet Supplies Dog Poop Bags for Waste Refuse Cleanup, Doggy Roll Replacements for Outdoor Puppy Walking and Travel, Leak Proof and Tear...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A solid shortlist item for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A sensible option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71oglFyNY0L._AC_UL320_.jpg",
@@ -315,14 +315,14 @@ const seeds: GeneratedSeed[] = [
     "name": "heouvo Dog Treat Pouch with Training Clicker, Upgrade Stronger Magnetic Closure to Avoid Spilling, 1.67 Cup Silicone Treat Bag Fanny Pack w...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A practical option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61d4X2LfDhL._AC_UL320_.jpg",
@@ -335,14 +335,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Wet Ones for Pets Antibacterial Dog Paw Cleaner with Built-in Scrubber Brush, Tropical Splash Scent - Foaming Cleanser for Dog Paws - Paw W...",
     "category": "Tools",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A useful option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61awUfcY2DL._AC_UL320_.jpg",
@@ -355,14 +355,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Clip on Flashlight, Running Lights for Runners Dog Light for Dog Walking at Night Rechargeable Safety Portable EDC Flashlight Gift for Runn...",
     "category": "Lighting",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "An option worth comparing for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61WW-WRunhL._AC_UL320_.jpg",
@@ -375,14 +375,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Ylzzrs Reflective Sash Gear for Walking at Night,LED Reflective Belt Safety Lights,Lights for Night Dog Walking,High Visibility Type-C Rech...",
     "category": "Lighting",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A routine-focused option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
       "Better atmosphere",
       "Visual upgrade",
       "Simple setup"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71bgtRxdFDL._AC_UL320_.jpg",
@@ -395,14 +395,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Dexas MudBuster Medium Dog Paw Cleaner, Blue, Fits 1.5\"-2.5\" Wide Paws, Gentle Silicone Bristles for Quick, Easy Cleaning",
     "category": "Dog Walking",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A sensible option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/713JmR3jeIL._AC_UL320_.jpg",
@@ -415,14 +415,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Amazon Basics Dog Poop Leak Proof Bags with Dispenser and Leash Clip, Unscented, 13\" x 9\" Large Size, 300 Count",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A practical option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71RhBxKwOWL._AC_UL320_.jpg",
@@ -435,14 +435,14 @@ const seeds: GeneratedSeed[] = [
     "name": "rabbitgoo Dog Harness No Pull with 2 Leash Clips, Adjustable Soft Padded, Reflective Oxford No Choke Pet Vest with Easy Control Handle for...",
     "category": "Tools",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A useful option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71eROBTwkVL._AC_UL320_.jpg",
@@ -455,14 +455,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Gobeigo 2-Pack Silicone Used Poop Bag Holder - Hands-Free Leash Attachment, Never Hold a Stinky Bag Again! Secure Carrier for Dog Walking,...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "An option worth comparing for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71AzJFT1GWL._AC_UL320_.jpg",
@@ -475,14 +475,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Dog Training Clicker with Sring Wrist and Keyring - Pet Dog Training Clickers for Puppy, Cat, Potty, Bird, Horse, Pet, Trainer Training Too...",
     "category": "Dog Walking",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A routine-focused option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71iSurE7U5L._AC_UL320_.jpg",
@@ -495,14 +495,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Tuff Pupper Heavy Duty Hands Free Dog Leash | One Large Dog Up to 125 lbs | Comfortable Shock Absorbing Bungee | Reflective Padded Handles...",
     "category": "Dog Walking",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A sensible option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71Sva2Ad3yL._AC_UL320_.jpg",
@@ -515,14 +515,14 @@ const seeds: GeneratedSeed[] = [
     "name": "PawSono Lick-Safe Dog Paw & Nose Balm with Coconut Oil | All-Natural Moisturizer & Soother for Dry, Cracked Pads & Snout | Heat & Cold Pave...",
     "category": "Dog Walking",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A practical option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61W+yeJIddL._AC_UL320_.jpg",
@@ -535,14 +535,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Heavy Duty Dog Leash - 2 Handles by Padded Traffic Handle for Extra Control, 6foot Long - Perfect for Medium to Large Dogs (6 ft, Black)",
     "category": "Dog Walking",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "A useful option for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71vaJmfTjuL._AC_UL320_.jpg",
@@ -555,14 +555,14 @@ const seeds: GeneratedSeed[] = [
     "name": "PetSafe Gentle Leader No-Pull Dog Headcollar - The Ultimate Solution to Pulling - Redirects Your Dog&#x27;s Pulling for Easier Walks - Help...",
     "category": "Dog Walking",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
+    "description": "An option worth comparing for dog walking shoppers who want cleaner walks, safer visibility, easier treat access, or less bag-and-leash juggling.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Dog Walking shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Dog Walk Kit lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Dog Walk Kit focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Match harnesses, collars, and leashes to your dog's size, temperament, training needs, and local leash rules.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71bgnMwoOwL._AC_UL320_.jpg",
@@ -573,11 +573,62 @@ const seeds: GeneratedSeed[] = [
   }
 ];
 
+type EditorialProfile = Pick<
+  ProductCardContent,
+  "priceHint" | "description" | "highlights" | "bestFor" | "whyPicked" | "trustNote"
+>;
+
+const categoryProfiles: Record<string, EditorialProfile> = {
+  "Dog Walking": {
+    priceHint: "Verify current details",
+    description: "A walk-system component to compare for fit, handler control, comfort, attachment, and route conditions.",
+    highlights: ["Fit check", "Control role", "Route compatibility"],
+    bestFor: "Owners comparing a specific gap in the current leash, harness, hydration, or walking setup",
+    whyPicked: "Included as an optional walk-system role, not as a hands-on endorsement or universal recommendation.",
+    trustNote: "Verify the current size, variant, materials, attachment, instructions, and compatibility before ordering."
+  },
+  Storage: {
+    priceHint: "Verify current details",
+    description: "A carry or cleanup organizer to compare for one-handed access, secure attachment, capacity, and cleaning.",
+    highlights: ["Carry role", "Attachment check", "Cleanup plan"],
+    bestFor: "Owners who have identified a repeat carry, waste-bag, treat, key, or phone-access problem",
+    whyPicked: "Included to represent carry and cleanup roles in the route checklist, not because every walk needs more storage.",
+    trustNote: "Check dimensions, closure, attachment, care instructions, and whether it interferes with leash control."
+  },
+  Lighting: {
+    priceHint: "Verify current details",
+    description: "A visibility accessory to compare for sightlines, attachment security, charging, comfort, and weather guidance.",
+    highlights: ["Visibility role", "Attachment check", "Charging plan"],
+    bestFor: "Low-light routes where the current dog-and-handler visibility plan has a documented gap",
+    whyPicked: "Included to represent an active visibility layer; no light makes a route risk-free.",
+    trustNote: "Verify visibility from multiple directions, secure fit, charging, current instructions, and route suitability."
+  },
+  "Starter Kit": {
+    priceHint: "Verify current details",
+    description: "A multi-use set to compare against what is already owned before adding duplicate tools or extra carry weight.",
+    highlights: ["Inventory first", "Included-parts check", "Avoid duplicates"],
+    bestFor: "Owners starting from a documented checklist rather than replacing a working setup",
+    whyPicked: "Included as a kit-building option only when its pieces fill more than one existing gap.",
+    trustNote: "Confirm every included item, size, material, cleaning need, and storage place on the current listing."
+  },
+  Tools: {
+    priceHint: "Verify current details",
+    description: "A routine tool to compare for packability, ease of access, maintenance, and a clearly defined walk job.",
+    highlights: ["Defined job", "Packability", "Maintenance check"],
+    bestFor: "Owners solving one repeat walk-preparation, training-support, or cleanup task",
+    whyPicked: "Included as an optional routine tool; product selection does not substitute for qualified training or veterinary advice.",
+    trustNote: "Verify instructions, materials, fit, maintenance, and whether qualified guidance is appropriate for the use case."
+  }
+};
+
+const fallbackProfile = categoryProfiles["Dog Walking"];
+
 export function getDogWalkKitCatalog(
   affiliateTag: string
 ): ProductCardContent[] {
   return seeds.map((product) => ({
     ...product,
+    ...(categoryProfiles[product.category] ?? fallbackProfile),
     affiliateUrl: appendAmazonAffiliateTag(product.amazonUrl, affiliateTag),
     ctaLabel,
     commerce: {

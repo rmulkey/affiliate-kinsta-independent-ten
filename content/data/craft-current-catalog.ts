@@ -15,14 +15,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Arts & Crafts Supplies Kits & Materials Set for Kids, Toddler - Carl & Kay",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A practical option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/A1zjgYZSxsL._AC_UL320_.jpg",
@@ -35,14 +35,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Sundaymot Kids Arts and Crafts Set 2000+ Piece DIY Craft Supplies Kit with Assorted Accessories for Boys & Girls Ages 6-12, School Classroo...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A useful option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/91f43JmnAUL._AC_UL320_.jpg",
@@ -55,14 +55,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Crayola Construction Paper Bulk Pack (480 Sheets) – 10 Assorted Colors, 9x12, Teacher School Supplies & Classroom Must Haves, Card Making C...",
     "category": "Crafts",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "An option worth comparing for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61TbDzO158L._AC_UL320_.jpg",
@@ -75,14 +75,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Itopstar 3000 Kids Arts and Crafts Supplies for Kids Crafting Supply in 3 Layered Plastic Art Box All in One Ages 8 9 10 11 & 12 Year Old G...",
     "category": "Crafts",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A routine-focused option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81+kix2uY-L._AC_UL320_.jpg",
@@ -95,14 +95,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Caydo 200 PCS Thick Pipe Cleaners Craft Supplies Multi-Color Chenille Stems for Art and Craft Projects Kids Creative Toys DIY Home Decorati...",
     "category": "Decor",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A sensible option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/91QRd3kbzEL._AC_UL320_.jpg",
@@ -115,14 +115,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Crayola Air Dry Clay (5lbs), Teacher Supplies, Natural White Modeling Clay for Kids, Sculpting Material, Bulk Craft Supplies for Art Classr...",
     "category": "Crafts",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A practical option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61orX92CK8L._AC_UL320_.jpg",
@@ -135,14 +135,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Mr. Pen- Craft Scissors Decorative Edge, 6 Pack, Bright, Zig Zag Scissors for Crafting, Scrapbooking, Fancy, Pattern, Design",
     "category": "Decor",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A useful option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71oLNpwGpEL._AC_UL320_.jpg",
@@ -155,14 +155,14 @@ const seeds: GeneratedSeed[] = [
     "name": "MYDBUYSOME 2774pcs Gem Stickers Jewels for Crafts, Self Adhesive Rhinestone Jewel Stick on Gems, Acrylic Bling Heart Stickers, Craft Suppli...",
     "category": "Crafts",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "An option worth comparing for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/810pPjR0R5L._AC_UL320_.jpg",
@@ -175,14 +175,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Secopad Scrapbook Tape, 4 Pack Double Sided Tape Roller for Crafts, Adhesive Glue Runner Scrapbooking Supplies Journaling School Office Tea...",
     "category": "Crafts",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A routine-focused option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71lfbwPaQXL._AC_UL320_.jpg",
@@ -195,14 +195,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Dan&Darci Arts and Crafts Vault - Craft Supplies Kit in a Box - Birthday Gift for Kids Ages 4 5 6 7 8 9 10 11 & 12 Year Old Girls & Boys -...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A sensible option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81Y86A3IpkL._AC_UL320_.jpg",
@@ -215,14 +215,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Zefy 3200+ Pcs Arts and Crafts Supplies for Kids, All in One Craft Kits with 12 Crafts Design, DIY School Supplies Kit Craft Box Easter Gif...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A practical option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81mF7TRRTNL._AC_UL320_.jpg",
@@ -235,14 +235,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Mod Podge Matte Sealer, Glue & Finish: All-in-One Craft Solution- Quick Dry, Easy Clean, for Wood, Paper, Fabric & More. Non-Toxic - Craft...",
     "category": "Crafts",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A useful option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61gNyTc584L._AC_UL320_.jpg",
@@ -255,14 +255,14 @@ const seeds: GeneratedSeed[] = [
     "name": "KTOJOY 200 Pcs Craft Sticks Ice Cream Sticks Natural Wood Popsicle Craft Sticks 4.5 inch Length Treat Sticks Ice Pop Sticks for DIY Crafts",
     "category": "Crafts",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "An option worth comparing for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71flWa841dL._AC_UL320_.jpg",
@@ -275,14 +275,14 @@ const seeds: GeneratedSeed[] = [
     "name": "260 Pieces Colorful Glitter Foam Stickers Self Adhesive Stars Mini Heart Shapes Glitter Stickers, Arts Craft Supplies for Greeting Cards Ho...",
     "category": "Crafts",
     "priceHint": "$$ Mid-range",
-    "description": "A clean routine helper for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A routine-focused option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71X2j24Q3CL._AC_UL320_.jpg",
@@ -295,14 +295,14 @@ const seeds: GeneratedSeed[] = [
     "name": "KUNMINGER 40 Rolls Washi Tape Set - 15 mm Wide Colored Decorative Tape for DIY Crafts, Junk Journal Supplies, Scrapbooking Supplies, Bullet...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A solid shortlist item for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A sensible option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81iCJfgzTZL._AC_UL320_.jpg",
@@ -315,14 +315,14 @@ const seeds: GeneratedSeed[] = [
     "name": "34000Pcs Resin Jelly Rhinestones for Bedazzling, Multicolor 3mm Flatback Gems for Diamond Art, Bedazzler Kit with 3Pcs 10ml B7000 Jewelry G...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A practical option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81XtjfI2MEL._AC_UL320_.jpg",
@@ -335,14 +335,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Goody King Arts and Crafts Supplies for Kids - 1170Pcs+ Craft Art Supply Kit for Toddlers Kids Craft Supplies & Materials Age 4 5 6 7 8 9 -...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A useful option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81iZA+0bvyL._AC_UL320_.jpg",
@@ -355,14 +355,14 @@ const seeds: GeneratedSeed[] = [
     "name": "38000Pcs Jelly Rhinestones Bedazzling Kit, Multicolor 3mm Flatback Resin Bedazzler Gems with 3Pcs 10ml B7000 Jewelry Glue for Bedazzled Thi...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "An option worth comparing for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/91rPC79KQgL._AC_UL320_.jpg",
@@ -375,14 +375,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Simetufy 5400 Pcs 1 Inch Tissue Paper Squares, 36 Assorted Colors for Crafts, Art Rainbow Bulk for Mother&#x27;s Day, Projects, Collage, Su...",
     "category": "Crafts",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A routine-focused option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/715FNfwbODL._AC_UL320_.jpg",
@@ -395,14 +395,14 @@ const seeds: GeneratedSeed[] = [
     "name": "3 Pack Silicone mat Large Silicone Sheets for Crafts, Liquid, Resin Jewelry Casting Molds Mat, Silicone Placemat 15.7” x 11.8” (Blue & Rose...",
     "category": "Crafts",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A sensible option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61jdykVuWgL._AC_UL320_.jpg",
@@ -415,14 +415,14 @@ const seeds: GeneratedSeed[] = [
     "name": "PerkHomy Natural Jute Twine 600 Feet Long Twine String for Crafts Gift Wrapping Packing Gardening Crochet Knitting Macrame Decor (Brown 2mm...",
     "category": "Decor",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A practical option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71uelAWQVoL._AC_UL320_.jpg",
@@ -435,14 +435,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Mod Podge Gloss Sealer, Glue & Finish: All-in-One Craft Solution- Quick Dry, Easy Clean, for Wood, Paper, Fabric & More. Non-Toxic - Craft...",
     "category": "Crafts",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A useful option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/719FHcaVnrL._AC_UL320_.jpg",
@@ -455,14 +455,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Dried Flowers, Resiners 100Pcs Pressed Flowers for Craft Purple Real Natural Dried Flowers Dry Leaves Kit for DIY Making Crafts Resin Soap...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "An option worth comparing for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81kS-zJhUaL._AC_UL320_.jpg",
@@ -475,14 +475,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Elmer&#x27;s Disappearing Purple School Glue Sticks, Washable, 7 Grams, 30 Count - Posters, Back to School, Bulk Pack for Classrooms, #1 Te...",
     "category": "Crafts",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A routine-focused option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/610GhfDymuL._AC_UL320_.jpg",
@@ -495,14 +495,14 @@ const seeds: GeneratedSeed[] = [
     "name": "iBayam 3-Pack 8\" Heavy Duty Scissors with Ultra Sharp Blades and Comfort Grip Handles - For Office, Home, School, Sewing, and Crafts",
     "category": "Court Gear",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A sensible option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61iVyRt2AfL._AC_UL320_.jpg",
@@ -515,14 +515,14 @@ const seeds: GeneratedSeed[] = [
     "name": "A&R CO. 3000+ Pcs Arts and Crafts Supplies & Materials for Kids - Ultimate Bulk Craft Kit for Boys & Girls with 99 Activities Book for Ages...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A practical option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/91VbBwjvd4L._AC_UL320_.jpg",
@@ -535,14 +535,14 @@ const seeds: GeneratedSeed[] = [
     "name": "42pcs Felt Fabric Sheet 4\"x4\" Assorted Color DIY Craft Squares Nonwoven 1mm Thick",
     "category": "Crafts",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "A useful option for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71XL8mnP3NL._AC_UL320_.jpg",
@@ -555,14 +555,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Elmer&#x27;s All Purpose School Glue Sticks, Acid-Free and Washable, Clear, 7 Grams, 30 Count - Craft Projects, Poster, Classroom Supplies,...",
     "category": "Crafts",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
+    "description": "An option worth comparing for crafts shoppers who want easier starting, cleaner storage, better cutting, or a project kit that does not require a second cart.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Crafts shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Craft Current lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Craft Current focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age suitability, blade safety, glue warnings, mess level, and what is included before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61qmiizujcL._AC_UL320_.jpg",

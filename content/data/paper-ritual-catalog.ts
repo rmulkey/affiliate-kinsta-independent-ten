@@ -1,4 +1,5 @@
 import { appendAmazonAffiliateTag } from "@/lib/amazon";
+import { getWeeklyAffiliateBatchProducts } from "@/content/data/weekly-affiliate-batch-2026-06-15";
 import { type ProductCardContent } from "@/lib/types";
 
 type WaveOneSeed = Omit<
@@ -461,14 +462,124 @@ const seeds: WaveOneSeed[] = [
   }
 ];
 
+const juneteenthBookSeeds: WaveOneSeed[] = [
+  {
+    name: "The Juneteenth Story: Celebrating the End of Slavery in the United States (Holiday Celebration)",
+    category: "Juneteenth Books",
+    priceHint: "$ Budget-friendly",
+    description:
+      "A strong family-reading starting point that explains Juneteenth with kid-friendly history, bright art, and enough context to spark a real conversation after the last page.",
+    highlights: ["History-forward", "Picture-book format", "Family discussion starter"],
+    bestFor: "Families building a first Juneteenth bookshelf",
+    whyPicked:
+      "This is the clearest education-first Juneteenth book in the current Amazon lane, which makes it a better Paper Ritual fit than novelty merch or slogan-heavy seasonal products.",
+    trustNote:
+      "Verified from a real Amazon product page with an Amazon-hosted cover image tied to the exact book listing.",
+    image: {
+      src: "https://m.media-amazon.com/images/I/51cUWC4xmhL._SX342_SY445_ML2_.jpg",
+      alt: "Cover of The Juneteenth Story: Celebrating the End of Slavery in the United States",
+      kind: "product"
+    },
+    amazonUrl: "https://www.amazon.com/dp/0760375143"
+  },
+  {
+    name: "Juneteenth: A Children's Story",
+    category: "Juneteenth Books",
+    priceHint: "$ Budget-friendly",
+    description:
+      "Opal Lee's child-friendly introduction gives the category a direct link to one of the most recognized public voices associated with Juneteenth.",
+    highlights: ["Opal Lee title", "Accessible format", "Short family read"],
+    bestFor: "Quick, approachable Juneteenth reading with younger kids",
+    whyPicked:
+      "This is a high-trust entry point because it introduces the holiday plainly and keeps the shopping angle rooted in reading and learning rather than themed impulse buys.",
+    trustNote:
+      "Verified from a real Amazon product page with an Amazon-hosted cover image tied to the exact book listing.",
+    image: {
+      src: "https://m.media-amazon.com/images/I/51+3qUwenNS._SX342_SY445_.jpg",
+      alt: "Cover of Juneteenth: A Children's Story by Opal Lee",
+      kind: "product"
+    },
+    amazonUrl: "https://www.amazon.com/dp/1513684906"
+  },
+  {
+    name: "Juneteenth (Celebrate the World)",
+    category: "Juneteenth Books",
+    priceHint: "$ Budget-friendly",
+    description:
+      "A board-book option for very young readers that keeps the tone celebratory while still naming the holiday's history and traditions.",
+    highlights: ["Board book", "Toddler-friendly", "New 2026 release"],
+    bestFor: "Very young kids and giftable family shelf adds",
+    whyPicked:
+      "This one works because it broadens the age range without slipping into throwaway novelty. It is a clean fit for a reading-routine site with family-book angles already available.",
+    trustNote:
+      "Verified from a real Amazon product page with an Amazon-hosted cover image tied to the exact book listing.",
+    image: {
+      src: "https://m.media-amazon.com/images/I/51a0dotvt7L._SX342_SY445_ML2_.jpg",
+      alt: "Cover of Juneteenth (Celebrate the World)",
+      kind: "product"
+    },
+    amazonUrl: "https://www.amazon.com/dp/1665990341"
+  },
+  {
+    name: "The Story of Juneteenth",
+    category: "Juneteenth Books",
+    priceHint: "$ Budget-friendly",
+    description:
+      "A compact board book for preschool-age readers that gives caregivers a simple way to introduce the holiday before school-age history books feel right.",
+    highlights: ["Board book", "Preschool fit", "Conversation starter"],
+    bestFor: "Caregivers introducing Juneteenth to younger readers",
+    whyPicked:
+      "The early-reader angle makes this useful for families who want an age-appropriate shelf instead of jumping straight to older-kid history titles.",
+    trustNote:
+      "Verified from a real Amazon product page with an Amazon-hosted cover image tied to the exact book listing.",
+    image: {
+      src: "https://m.media-amazon.com/images/I/51+68N+SQoL._SX342_SY445_ML2_.jpg",
+      alt: "Cover of The Story of Juneteenth",
+      kind: "product"
+    },
+    amazonUrl: "https://www.amazon.com/dp/1546002162"
+  },
+  {
+    name: "The Juneteenth Cookbook: Recipes and Activities for Kids and Families to Celebrate (Holiday Celebration)",
+    category: "Juneteenth Books",
+    priceHint: "$ Budget-friendly",
+    description:
+      "Part cookbook, part activity book, and part family-history bridge for readers who want the holiday to feel lived-in instead of purely abstract.",
+    highlights: ["Recipes and activities", "Family-friendly", "Cookout connection"],
+    bestFor: "Families pairing reading with food traditions and activities",
+    whyPicked:
+      "This is the best crossover pick for Paper Ritual because it connects reading, reflection, and hands-on family participation without turning the holiday into a generic product roundup.",
+    trustNote:
+      "Verified from a real Amazon product page with an Amazon-hosted cover image tied to the exact book listing.",
+    image: {
+      src: "https://m.media-amazon.com/images/I/51XvCh6U-nL._SX342_SY445_ML2_.jpg",
+      alt: "Cover of The Juneteenth Cookbook: Recipes and Activities for Kids and Families to Celebrate",
+      kind: "product"
+    },
+    amazonUrl: "https://www.amazon.com/dp/0760385793"
+  }
+];
+
 export function getPaperRitualCatalog(affiliateTag: string): ProductCardContent[] {
-  return seeds.map(({ amazonUrl, ...product }) => ({
-    ...product,
-    affiliateUrl: appendAmazonAffiliateTag(amazonUrl, affiliateTag),
-    ctaLabel,
-    commerce: {
-      merchant: "amazon",
-      linkKind: "amazon-product-page"
-    }
-  }));
+  return [
+    ...seeds.map(({ amazonUrl, ...product }) => ({
+      ...product,
+      affiliateUrl: appendAmazonAffiliateTag(amazonUrl, affiliateTag),
+      ctaLabel,
+      commerce: {
+        merchant: "amazon" as const,
+        linkKind: "amazon-product-page" as const
+      }
+    })),
+    ...juneteenthBookSeeds.map(({ amazonUrl, ...product }) => ({
+      ...product,
+      affiliateUrl: appendAmazonAffiliateTag(amazonUrl, affiliateTag),
+      ctaLabel,
+      commerce: {
+        merchant: "amazon" as const,
+        linkKind: "amazon-product-page" as const
+      }
+    })),
+    ...getWeeklyAffiliateBatchProducts("paper-ritual", affiliateTag)
+  ];
 }

@@ -1,4 +1,4 @@
-import { buildAmazonSearchUrl } from "@/lib/amazon";
+import { appendAmazonAffiliateTag } from "@/lib/amazon";
 import { type ProductCardContent } from "@/lib/types";
 
 type SleepFilterSeed = Omit<
@@ -6,6 +6,7 @@ type SleepFilterSeed = Omit<
   "affiliateUrl" | "ctaLabel" | "commerce"
 > & {
   query: string;
+  amazonUrl: string;
 };
 
 const ctaLabel = "Find on Amazon";
@@ -28,7 +29,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Levoit Core Mini-P Air Purifier product image",
       kind: "product"
     },
-    query: "Levoit Core Mini-P Air Purifier"
+    query: "Levoit Core Mini-P Air Purifier",
+    amazonUrl: "https://www.amazon.com/dp/B0CW693J7Y"
   },
   {
     name: "Levoit Core 300-P Air Purifier",
@@ -47,7 +49,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Levoit Core 300-P Air Purifier product image",
       kind: "product"
     },
-    query: "Levoit Core 300-P Air Purifier"
+    query: "Levoit Core 300-P Air Purifier",
+    amazonUrl: "https://www.amazon.com/dp/B07RSZSYNC"
   },
   {
     name: "Blueair Blue Pure 511 Air Purifier",
@@ -66,7 +69,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Blueair Blue Pure 511 Air Purifier product image",
       kind: "product"
     },
-    query: "Blueair Blue Pure 511 Air Purifier"
+    query: "Blueair Blue Pure 511 Air Purifier",
+    amazonUrl: "https://www.amazon.com/dp/B0CMWMLLT7"
   },
   {
     name: "Coway Airmega Mighty AP-1512HH Air Purifier",
@@ -85,7 +89,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Coway Airmega Mighty AP-1512HH Air Purifier product image",
       kind: "product"
     },
-    query: "Coway Airmega Mighty AP-1512HH Air Purifier"
+    query: "Coway Airmega Mighty AP-1512HH Air Purifier",
+    amazonUrl: "https://www.amazon.com/dp/B07Z5Z57R1"
   },
   {
     name: "Coway Airmega 150 Air Purifier",
@@ -104,7 +109,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Coway Airmega 150 Air Purifier product image",
       kind: "product"
     },
-    query: "Coway Airmega 150 Air Purifier"
+    query: "Coway Airmega 150 Air Purifier",
+    amazonUrl: "https://www.amazon.com/dp/B0899GYD96"
   },
   {
     name: "Winix C535 Air Purifier",
@@ -123,7 +129,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Winix C535 Air Purifier product image",
       kind: "product"
     },
-    query: "Winix C535 Air Purifier"
+    query: "Winix C535 Air Purifier",
+    amazonUrl: "https://www.amazon.com/dp/B0GVLNG9DZ"
   },
   {
     name: "Medify MA-14 Air Purifier",
@@ -142,7 +149,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Medify MA-14 white Air Purifier product image",
       kind: "product"
     },
-    query: "Medify MA-14 Air Purifier"
+    query: "Medify MA-14 Air Purifier",
+    amazonUrl: "https://www.amazon.com/dp/B07TMMCRGL"
   },
   {
     name: "Medify MA-14 Black Air Purifier",
@@ -161,7 +169,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Medify MA-14 black Air Purifier product image",
       kind: "product"
     },
-    query: "Medify MA-14 black air purifier"
+    query: "Medify MA-14 black air purifier",
+    amazonUrl: "https://www.amazon.com/dp/B0887WZV3J"
   },
   {
     name: "Airthings Wave Mini Air Quality Monitor",
@@ -180,7 +189,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Airthings Wave Mini Air Quality Monitor product image",
       kind: "product"
     },
-    query: "Airthings Wave Mini Air Quality Monitor"
+    query: "Airthings Wave Mini Air Quality Monitor",
+    amazonUrl: "https://www.amazon.com/dp/B07S1Y7559"
   },
   {
     name: "Levoit Core 300 Replacement Filter 2-Pack",
@@ -199,7 +209,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Levoit Core 300 Replacement Filter 2-Pack product image",
       kind: "product"
     },
-    query: "Levoit Core 300 Replacement Filter 2-Pack"
+    query: "Levoit Core 300 Replacement Filter 2-Pack",
+    amazonUrl: "https://www.amazon.com/dp/B08CXFL9RK"
   },
   {
     name: "Blueair Blue Pure 511 Particle + Carbon Filter",
@@ -218,7 +229,8 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Blueair Blue Pure 511 Particle + Carbon Filter product image",
       kind: "product"
     },
-    query: "Blueair Blue Pure 511 Particle Carbon Filter"
+    query: "Blueair Blue Pure 511 Particle Carbon Filter",
+    amazonUrl: "https://www.amazon.com/dp/B0CMWMLLT7"
   },
   {
     name: "Winix Filter H 116130 Replacement Filter",
@@ -237,18 +249,19 @@ const sleepFilterSeeds: SleepFilterSeed[] = [
       alt: "Winix Filter H 116130 Replacement Filter product image",
       kind: "product"
     },
-    query: "Winix Filter H 116130 Replacement Filter"
+    query: "Winix Filter H 116130 Replacement Filter",
+    amazonUrl: "https://www.amazon.com/dp/B01JLT1OR8"
   }
 ];
 
 export function getSleepFilterLabCatalog(affiliateTag: string) {
   return sleepFilterSeeds.map<ProductCardContent>((product) => ({
     ...product,
-    affiliateUrl: buildAmazonSearchUrl(product.query, affiliateTag),
+    affiliateUrl: appendAmazonAffiliateTag(product.amazonUrl, affiliateTag),
     ctaLabel,
     commerce: {
       merchant: "amazon",
-      linkKind: "amazon-search"
+      linkKind: "amazon-product-page"
     }
   }));
 }

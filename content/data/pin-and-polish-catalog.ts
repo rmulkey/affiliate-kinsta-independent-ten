@@ -15,14 +15,14 @@ const seeds: GeneratedSeed[] = [
     "name": "NEWITIN 69 Pieces Gold Jewelry Set for Women Fashion Costume Jewelry Gold Plated Necklace Bracelet Earrings Set for Women",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A practical option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/818BnYh9Q8L._AC_UL320_.jpg",
@@ -35,14 +35,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Gokeey Gold Bracelets Set for Women Non Tarnish, Waterproof 14K Gold Plated Sterling Silver Chunky Cuff Bracelet Stackable...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A useful option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81+MhJFPyFL._AC_UL320_.jpg",
@@ -55,14 +55,14 @@ const seeds: GeneratedSeed[] = [
     "name": "WomenGifts Layered Gold Necklaces for Women, 14K Gold Sterling Silver Plated Dainty Pendant Necklace Set Non Tarnish, Chun...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "An option worth comparing for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/615sXIJbXsL._AC_UL320_.jpg",
@@ -75,14 +75,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Fesciory Leopard Bracelet for Women, Boho Leather Wrap Multi-Layer Pearl Crystal Bracelet Bangle Jewelry",
     "category": "Accessories",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A routine-focused option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71mp0QCxg8L._AC_UL320_.jpg",
@@ -95,14 +95,14 @@ const seeds: GeneratedSeed[] = [
     "name": "FAXHION 68 Pcs Gold Jewelry Set for Women with 7 Necklace, 17 Bracelet, 5 Hoop Earrings, 15 Stud Earrings, 24 Knuckle Ring...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A sensible option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81sSfHk-VyL._AC_UL320_.jpg",
@@ -115,14 +115,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Sriomu Natural Healing Stone Fishhoop Dangle Drop Earrings Statement Gold silver earrings",
     "category": "Accessories",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A practical option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61-P2SIA9LL._AC_UL320_.jpg",
@@ -135,14 +135,14 @@ const seeds: GeneratedSeed[] = [
     "name": "4pcs Cubic Zirconia Wedding Jewelry Sets for Bride Bridesmaid Cubic Zirconia Pendant Necklace Earrings Link Tennis Bracele...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A useful option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/91fcC78hZCL._AC_UL320_.jpg",
@@ -155,14 +155,14 @@ const seeds: GeneratedSeed[] = [
     "name": "17 MILE 78 Pieces Gold Jewelry Set for Women, 9 Necklace, 24 Bracelet, 22 Earrings, 23 Knuckle Rings Gold Plated Jewerly s...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "An option worth comparing for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/91krpHS1OUL._AC_UL320_.jpg",
@@ -175,14 +175,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Gold Statement Earrings For Women 18K Gold Plated Sectored Flower Leaf Shell Angel Wing Earring Large Stud Earrings Hypoal...",
     "category": "Accessories",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A routine-focused option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81JxZsqaJML._AC_UL320_.jpg",
@@ -195,14 +195,14 @@ const seeds: GeneratedSeed[] = [
     "name": "YEEZII 56 Pcs Gold Jewelry Set for Women with 5Pcs Layered Necklace, 5Pcs Layered Necklace, 12 Bracelets, 4 Hoop Earrings,...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A sensible option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81GZwmGF3XL._AC_UL320_.jpg",
@@ -215,14 +215,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Caiyao 4Pcs Bohemia Multilayer Stackable Beaded Bracelets Set Colorful Crystal Stone Gold Beaded Stretch Bracelets Hawaii ...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A practical option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/714eqh3mP5L._AC_UL320_.jpg",
@@ -235,14 +235,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Sixexey Rhinestone Earrings Sparkly Bracelet Earring Party Prom Earrings Jewelry for Women",
     "category": "Accessories",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A useful option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61cMcwgdmQL._AC_UL320_.jpg",
@@ -255,14 +255,14 @@ const seeds: GeneratedSeed[] = [
     "name": "42 Pairs Gold Hoop Earrings Set for Women, Hypoallergenic Multipack Small to Chunky Hoops, Pearl & Twisted Trendy Earrings...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "An option worth comparing for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/91xxcsSsuwL._AC_UL320_.jpg",
@@ -275,14 +275,14 @@ const seeds: GeneratedSeed[] = [
     "name": "AIPPK 18K Gold Plated Clover Lucky Bracelet for Women White/Black/Red/Green Flower Four Leaf Link Bracelets Trendy Jewelry...",
     "category": "Accessories",
     "priceHint": "$$ Mid-range",
-    "description": "A clean routine helper for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A routine-focused option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61yKzac-YFL._AC_UL320_.jpg",
@@ -295,14 +295,14 @@ const seeds: GeneratedSeed[] = [
     "name": "iF YOU 25 Pcs Gold Stackable Ring Set for Women, Chunky Knuckle Finger Midi Rings, Silver Simple Stacking Cute Rings Pack ...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A solid shortlist item for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A sensible option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51LjCWKkBwL._AC_UL320_.jpg",
@@ -315,14 +315,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Kendra Scott Elisa Pendant Necklace for Women, Fashion Jewelry, 14k Gold-Plated",
     "category": "Accessories",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A practical option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51dSKjL6BxL._AC_UL320_.jpg",
@@ -335,14 +335,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Poxtex Layered Gold Necklaces for Women, Stackable Dainty 14K Gold Silver Plated Trendy Simple Heart Diamond Cross Bow Cir...",
     "category": "Accessories",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A useful option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61dk3JqBMiL._AC_UL320_.jpg",
@@ -355,14 +355,14 @@ const seeds: GeneratedSeed[] = [
     "name": "4 Pcs Dainty Gold Silver Bracelets Set for Women 14K Plated Link Cubic Zirconia Paperclip Stake Layering Chain Adjustable ...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "An option worth comparing for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71TwmPg75KL._AC_UL320_.jpg",
@@ -375,14 +375,14 @@ const seeds: GeneratedSeed[] = [
     "name": "YOOESTORES82 Gold Disc Pendant Necklace Earrings Set Leather Cord Black Circle Statement Necklaces Geometric Textured Meda...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A routine-focused option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/41FQmrJvFQL._AC_UL320_.jpg",
@@ -395,14 +395,14 @@ const seeds: GeneratedSeed[] = [
     "name": "AICase 18K Gold Plated Clover Bracelet Dupes Gold/White/Black Bracelet Set for Women Flower Leaf Lucky Clover Bracelets Tr...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A sensible option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71wVBEPyOzL._AC_UL320_.jpg",
@@ -415,14 +415,14 @@ const seeds: GeneratedSeed[] = [
     "name": "SILANER Crystal Charms Multilayer Bracelets - 3PCS Gold/Silver/Rose Gold Corn Chain Bracelet for Women, Tree of Life Heart...",
     "category": "Accessories",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A practical option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71+KDcD2SaL._AC_UL320_.jpg",
@@ -435,14 +435,14 @@ const seeds: GeneratedSeed[] = [
     "name": "73 Pcs Gold Jewelry Set with 6Pcs Layered Necklace, 11 Pcs anklet and 7Pcs Earring Ear Cuff,12Hoop Earrings ,15pcs Rings,2...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A useful option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71J9ynr6mEL._AC_UL320_.jpg",
@@ -455,14 +455,14 @@ const seeds: GeneratedSeed[] = [
     "name": "SELSHE Dangle Earrings for Women,14k Gold Plated Triple Huggie Stud Earrings Cute Statement Chain Earring Dainty Drop Earr...",
     "category": "Accessories",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "An option worth comparing for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51WDk+QvNnL._AC_UL320_.jpg",
@@ -475,14 +475,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Obidos 14K Gold Plated Illusion Stud Earrings for Women | Triple Huggie Hoop Earrings for One Hole| Trendy Simple Hypoalle...",
     "category": "Accessories",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A routine-focused option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61H2JxOnZDL._AC_UL320_.jpg",
@@ -495,14 +495,14 @@ const seeds: GeneratedSeed[] = [
     "name": "DEARMAY Gold Bracelets for Women Waterproof, 14K Gold Plated Stackable Jewelry Sets Non Tarnish Trendy Thin Dainty Cuban L...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A sensible option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/814Xi+KEYJL._AC_UL320_.jpg",
@@ -515,14 +515,14 @@ const seeds: GeneratedSeed[] = [
     "name": "GIGB PBDK Chunky Gold Choker Necklace for Women,Trendy Silver Statement Necklace Long Snake Chain Drop Necklace,Charm Prom...",
     "category": "Accessories",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A practical option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/513UiaE375L._AC_UL320_.jpg",
@@ -535,14 +535,14 @@ const seeds: GeneratedSeed[] = [
     "name": "IFKM Gold Plated Jewelry Set for Women,14k Gold Plated Multi Layer Necklaces Stackable Bangle Bracelets Stackable Knuckle ...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "A useful option for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81YUtidOP5L._AC_UL320_.jpg",
@@ -555,14 +555,14 @@ const seeds: GeneratedSeed[] = [
     "name": "NEWITIN 49 Pieces Gold Jewelry Set for Women Fashion Costume Jewelry Gold Plated Necklace Bracelet Ring Earrings Set for W...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
+    "description": "An option worth comparing for accessories shoppers who want a sharper outfit finish, easier storage, or a small accessory with real styling range.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Accessories shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Pin & Polish lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Pin & Polish focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check metal details, sizing, clasp style, and return policies if you have sensitive skin.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71yZCKlOAVL._AC_UL320_.jpg",

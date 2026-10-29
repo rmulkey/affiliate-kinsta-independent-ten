@@ -1,4 +1,5 @@
 import { appendAmazonAffiliateTag } from "@/lib/amazon";
+import { getVercelProductExpansion } from "@/content/data/vercel-product-expansions.generated";
 import { type ProductCardContent } from "@/lib/types";
 
 type HomeFitnessSeed = Omit<
@@ -392,7 +393,7 @@ const homeFitnessSeeds: HomeFitnessSeed[] = [
 ];
 
 export function getHomeFitnessCatalog(affiliateTag: string): ProductCardContent[] {
-  return homeFitnessSeeds.map((product) => ({
+  return homeFitnessSeeds.map<ProductCardContent>((product) => ({
     ...product,
     affiliateUrl: appendAmazonAffiliateTag(product.amazonUrl, affiliateTag),
     ctaLabel,
@@ -400,5 +401,5 @@ export function getHomeFitnessCatalog(affiliateTag: string): ProductCardContent[
       merchant: "amazon",
       linkKind: "amazon-product-page"
     }
-  }));
+  })).concat(getVercelProductExpansion("form-mode-edit"));
 }

@@ -15,14 +15,14 @@ const seeds: GeneratedSeed[] = [
     "name": "4 Pack Laundry Pods Container, Clear Laundry Room Organization Containers Essentials, Large Detergent Powder Storage Containers Black Woode...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A practical option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/810CLBSpAWL._AC_UL320_.jpg",
@@ -35,14 +35,14 @@ const seeds: GeneratedSeed[] = [
     "name": "ROMOON Laundry Hamper Sorter Cart: 4-Section Organizer with Heavy-Duty Lockable Wheels and Removable Bags | 180L Rolling Laundry Basket for...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A useful option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81n1wTh2cRL._AC_UL320_.jpg",
@@ -55,14 +55,14 @@ const seeds: GeneratedSeed[] = [
     "name": "OUTNILI Mop and Broom Holder Wall Mount - Wood Broom Mop Hanger - Wall Mounted Garden Tool Rack Organizer for Closet Garage Laundry Room, R...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "An option worth comparing for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71xmVD7a2aL._AC_UL320_.jpg",
@@ -75,14 +75,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Vivihomety Utility Slim Storage Cart with Wheels, 4-Tier Narrow Rolling Organizer Shelf with Wood Top, Metal Storage Rack and Space-Saving...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A routine-focused option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/818WL7hvDOL._AC_UL320_.jpg",
@@ -95,14 +95,14 @@ const seeds: GeneratedSeed[] = [
     "name": "HomePekite Laundry Pods Storage Container, Clear Laundry Room Organization and Storage ,Detergent Powder Container,with Wooden Lids & Label...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A sensible option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81MDPLjs4AL._AC_UL320_.jpg",
@@ -115,14 +115,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Laundry Room Long Mat Area Rug Non-Slip Floor Mat Waterproof Farmhouse Carpet for Kitchen 40\" x 20\"(Black-2)",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A practical option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81zcyhiBHJL._AC_UL320_.jpg",
@@ -135,14 +135,14 @@ const seeds: GeneratedSeed[] = [
     "name": "VASAGLE Laundry Hamper, Laundry Basket, Laundry Sorter with 3 Pull-Out and Removable Bags, Shelf, Metal Frame, 3 x 10.6 Gallons (40 L), 36....",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A useful option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/91zkvXmAIwL._AC_UL320_.jpg",
@@ -155,14 +155,14 @@ const seeds: GeneratedSeed[] = [
     "name": "(2 Pack) Laundry Detergent Cup Holder Drip Catcher Organizer Clip Tight on Laundry Bottle Spouts, No More Leaks or Mess with Detergent and...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "An option worth comparing for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61SvuEvM9BL._AC_UL320_.jpg",
@@ -175,14 +175,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Galasily 3 Pack Laundry Detergent Dispenser Container with Tray, 54OZ Liquid Laundry Soap Dispenser with 12 Labels, Black Laundry Room Orga...",
     "category": "Laundry",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A routine-focused option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81aRY1eKaDL._AC_UL320_.jpg",
@@ -195,14 +195,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Herture Laundry Hamper with Shelf, Laundry Basket 4 Section, Laundry Sorter with Pull-Out Removable Large 4 Color Bags and Movable Wheels,...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A sensible option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81CnqsyLajL._AC_UL320_.jpg",
@@ -215,14 +215,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Front Load Washer Door Prop and Stopper - Magnetic Washing Machine Door Holder with 2.6-Inch Magnet Base, Removable Washer Door Stopper Kee...",
     "category": "Gear",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A practical option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61uuO5zRauL._AC_UL320_.jpg",
@@ -235,14 +235,14 @@ const seeds: GeneratedSeed[] = [
     "name": "iDesign Laundry Detergent Holder, Liquid Detergent Stand for Laundry Room Organization, Clear",
     "category": "Laundry",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A useful option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/615z3cQzBGL._AC_UL320_.jpg",
@@ -255,14 +255,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Lifewit 2 Pack Laundry Basket 80L Each, Collapsible Clothes Hamper with Reinforced Handles, Freestanding Waterproof Design for Bedroom and...",
     "category": "Laundry",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "An option worth comparing for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71QBskj6jRL._AC_UL320_.jpg",
@@ -275,14 +275,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Command Broom Grippers, 2 Hangers and 4 Strips, Damage-Free Mop and Broom Holder Wall Mount, Household Cleaning Tool Organizer for Kitchen,...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A clean routine helper for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A routine-focused option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71wyqZY2CKL._AC_UL320_.jpg",
@@ -295,14 +295,14 @@ const seeds: GeneratedSeed[] = [
     "name": "SNSLXH 5 Pack Stackable Closet Storage Basket, Multifunctional & Foldable Closet Organizer for Bathroom Kitchen Laundry Room Wardrobe Stora...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A solid shortlist item for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A sensible option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/718gPdLAncL._AC_UL320_.jpg",
@@ -315,14 +315,14 @@ const seeds: GeneratedSeed[] = [
     "name": "SAMMART 42L (11 gallon) Collapsible Plastic Laundry Basket - Foldable Pop Up Storage Container/Organizer - Space Saving Hamper/Basket (1, W...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A practical option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/514Z9TAWHDL._AC_UL320_.jpg",
@@ -335,14 +335,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Sakugi Storage Shelves - 5 Tier Shelf Organizer, Heavy Duty Garage Shelving Unit with Leveling Feet, Stable Metal Shelves Organizer for Pan...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A useful option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71on9WAB0KL._AC_UL320_.jpg",
@@ -355,14 +355,14 @@ const seeds: GeneratedSeed[] = [
     "name": "3-Tier Hanging Laundry Basket Organizer：Foldable Wire Shelf Laundry Room Organizer with 360°Rotating Hooks Small Space Solutions Closet Han...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "An option worth comparing for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/819X4zg8fIL._AC_UL320_.jpg",
@@ -375,14 +375,14 @@ const seeds: GeneratedSeed[] = [
     "name": "OKZEST Utility Slim Storage Cart, 4 Tier Small Rolling Kitchen Laundry Room Cart with Wood Top, Metal Narrow Bathroom Storage Cabinet Mobil...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A routine-focused option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/8117aMio9OL._AC_UL320_.jpg",
@@ -395,14 +395,14 @@ const seeds: GeneratedSeed[] = [
     "name": "BAKON Over The Door Hanger Folding Clothes Drying Rack, Folding Hanging Coat Rack for Indoor Laundry Room Compact Small Space Foldable Port...",
     "category": "Laundry",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A sensible option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61LaAdx9nVL._AC_UL320_.jpg",
@@ -415,14 +415,14 @@ const seeds: GeneratedSeed[] = [
     "name": "HomeHacks 2 Pack Large Laundry Baskets, Waterproof, Freestanding Laundry Hampers, Collapsible Clothes Hamper with Reinforced Handles in Lau...",
     "category": "Laundry",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A practical option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81rYQCVHPlL._AC_UL320_.jpg",
@@ -435,14 +435,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Sakugi Storage Shelves - 3 Tier Shelf Organizer, Sturdy Metal Garage Shelving with Adjustable Leveling Feet, Space-Saving Shelves Organizer...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A useful option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71QZPKDurRL._AC_UL320_.jpg",
@@ -455,14 +455,14 @@ const seeds: GeneratedSeed[] = [
     "name": "4+1 Pack Laundry Room Organization Containers,Clear Laundry Pods Container,Large Laundry Detergent Powder Storage Containers with Wooden Li...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "An option worth comparing for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81gVpwik0CL._AC_UL320_.jpg",
@@ -475,14 +475,14 @@ const seeds: GeneratedSeed[] = [
     "name": "SPACEKEEPER Slim Rolling Storage Cart, 3 Tier Bathroom Storage Organizer Laundry Room Utility Cart Mobile Shelving Unit, Multi-Purpose for...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A routine-focused option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71vaxagxXrL._AC_UL320_.jpg",
@@ -495,14 +495,14 @@ const seeds: GeneratedSeed[] = [
     "name": "ClearSpace Clear Plastic Storage Bins – Pantry Organizers & Storage Containers, Cabinet Organizer - Home Organization Must Haves for Kitche...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A sensible option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71b5YosDyVL._AC_UL320_.jpg",
@@ -515,14 +515,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Glass Laundry Detergent Dispenser, 128 oz / 3.5L Fabric Softener Dispenser for Laundry Room Organization, Detergent Holder with Plastic Spi...",
     "category": "Laundry",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A practical option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61m3FqXfwEL._AC_UL320_.jpg",
@@ -535,14 +535,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Herture Laundry Basket, 3 Section Laundry Hamper with 4 Tiers Shelf, Pull-Out and Removable Laundry Bags, Large 3 x 15.87 Gallons, for Laun...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "A useful option for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71yJGONJOHL._AC_UL320_.jpg",
@@ -555,14 +555,14 @@ const seeds: GeneratedSeed[] = [
     "name": "POLRAI 4 Pack Magnetic Shelves for Washing Machine Magnetic Shelf for Fridge Powerful Magnetic Shelves and Magnetic Hook for Laundry Room K...",
     "category": "Gear",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
+    "description": "An option worth comparing for laundry shoppers who want better sorting, faster drying, cleaner storage, or fewer mystery piles.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Laundry shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Laundry Lane lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Laundry Lane focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dimensions, material care, washer and dryer compatibility, and fabric instructions before use.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81kS3Nx4nuL._AC_UL320_.jpg",

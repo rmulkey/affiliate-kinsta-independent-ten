@@ -1,4 +1,4 @@
-import { appendAmazonAffiliateTag } from "@/lib/amazon";
+import { appendAmazonAffiliateTag, normalizeAmazonImageUrl } from "@/lib/amazon";
 import { type ProductCardContent } from "@/lib/types";
 
 type GeneratedSeed = Omit<
@@ -15,14 +15,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Bento Box Adult Lunch Box, Containers for Adults Men Women with 4 Compartments, Lunchable Food Container with Utensils, Sauce Jar, Muffin L...",
     "category": "Lunch And Snacks",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A practical option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71GpXNB86HL._AC_UL320_.jpg",
@@ -35,14 +35,14 @@ const seeds: GeneratedSeed[] = [
     "name": "buluker 4 Pack Bento Lunch Box Set 3 Compartment Food Storage Containers Wheat Straw Meal Prep Lunch Box Plastic Food Storage Containers, M...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A useful option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81iKdcZkEOL._AC_UL320_.jpg",
@@ -55,14 +55,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Bentgo Classic - Adult Bento Box, Stackable 3-Compartment Lunch Box with Removable Utensil Set and Sealing Strap, BPA-Free, Food Container...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "An option worth comparing for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71fuW8+KfrL._AC_UL320_.jpg",
@@ -75,14 +75,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Rubbermaid Brilliance Tritan Plastic Food Storage Containers BPA Free Airtight Lids Ideal for Lunch Meal Prep & Leftovers Set of 5 (3.2 Cup)",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A routine-focused option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81Ap89R-ajL._AC_UL320_.jpg",
@@ -95,14 +95,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Sinnsally Bento Box Adult Lunch Box with Compartments for Women & Men,(47oz)Stackable Japanese Bento Lunchbox,Rectangle Lunchable Food Cont...",
     "category": "Lunch And Snacks",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A sensible option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/717xnEUIamL._AC_UL320_.jpg",
@@ -115,14 +115,14 @@ const seeds: GeneratedSeed[] = [
     "name": "KEMETHY Adults Bento Lunch Box Set with Thermo Bag, 74oz Stackable Leak-proof 3-tiers Bento Box, Built-in Utensil and Sauce Container for W...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A practical option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/8102TsTB1CL._AC_UL320_.jpg",
@@ -135,14 +135,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Vtopmart 8 Pack Glass Food Storage Containers with Airtight Lids, Glass Meal Prep Containers, Lunch Office Meal for Microwave, Oven, Freeze...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A useful option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71xlXpdVSUL._AC_UL320_.jpg",
@@ -155,14 +155,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Dealusy 50 Pack (100-Piece) 24 oz Meal Prep Containers Reusable with Lids, Sturdy Leakproof & Food Safe, Microwave, Freezer, Dishwasher Saf...",
     "category": "Lunch And Snacks",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "An option worth comparing for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71oB3+94jBL._AC_UL320_.jpg",
@@ -175,14 +175,14 @@ const seeds: GeneratedSeed[] = [
     "name": "50 Pack (100-Piece) 32 oz Meal Prep Containers Reusable with Easy Open Lids, Sturdy Leakproof Food Safe, Microwave Freezer Dishwasher Safe,...",
     "category": "Lunch And Snacks",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A routine-focused option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71j8KwQFGVL._AC_UL320_.jpg",
@@ -195,14 +195,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Rubbermaid Brilliance Meal Prep Containers, 2-Compartment Food Storage Containers, 2.85 Cup, 5-Pack, BPA-Free, Clear/Grey",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A sensible option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81MWNSp7WwL._AC_UL320_.jpg",
@@ -215,14 +215,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Ello 2-Pack Lunch Stack Plastic Food Storage Container Bento Box with Airtight, Leak-Proof Locking Plastic Lids and Silicone Base, BPA-Free...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A practical option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71ePufo2ZBL._AC_UL320_.jpg",
@@ -235,14 +235,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Bento Box for Adults,4 Compartments Lunch Box, Snack Containers Reusable Lunch Containers Drop-Proof, Dishwasher Safe & Made with BPA-Free...",
     "category": "Lunch And Snacks",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A useful option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71lDgCCVHuL._AC_UL320_.jpg",
@@ -255,14 +255,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Bentgo Prep - 20-Piece 1-Compartment Reusable Meal Prep Containers with Lids, PFAS & BPA Free Materials, Durable, Microwave, Freezer, & Dis...",
     "category": "Lunch And Snacks",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "An option worth comparing for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81oVaOv3bEL._AC_UL320_.jpg",
@@ -275,14 +275,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Rubbermaid Brilliance Glass Food Storage Containers, 3.2 Cup, Set of 4, BPA-Free, Leak-Proof, Clear",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A clean routine helper for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A routine-focused option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81T0-lmYxPL._AC_UL320_.jpg",
@@ -295,14 +295,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Bentgo Salad Container - 54 oz Bowl with 4-Compartment Toppings Tray, Leak-Proof Dressing Container, Reusable Fork, BPA-Free Lunch Box for...",
     "category": "Lunch And Snacks",
     "priceHint": "$$$ Premium",
-    "description": "A solid shortlist item for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A sensible option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71k7mEDHD6L._AC_UL320_.jpg",
@@ -315,14 +315,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Bentgo Classic - Adult Bento Box, Stackable 3-Compartment Lunch Box with Removable Utensil Set and Sealing Strap, BPA-Free, Food Container...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A practical option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71m8NtVWQ4L._AC_UL320_.jpg",
@@ -335,14 +335,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Mfacoy 3 Pack Bento Boxes for Adults/Kids, 1100 ML Bento Lunch Box With Spoon & Fork, Lunch Box Containers, Bento Box for Dining Out, Work,...",
     "category": "Lunch And Snacks",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A useful option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71D5Fb16S6L._AC_UL320_.jpg",
@@ -355,14 +355,14 @@ const seeds: GeneratedSeed[] = [
     "name": "EASYFUN Bento Box Adult, Lunch Box, 4-Compartment Lunch Containers, Drop-Proof, Dishwasher Safe & Made with BPA-Free Materials(Khaki)",
     "category": "Lunch And Snacks",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "An option worth comparing for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81ypLvbXmzL._AC_UL320_.jpg",
@@ -375,14 +375,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Bento Box Adult Lunch Box - 4 Pack, 5 - Compartment Meal Prep Container for Kids, Reusable Food Storage Snack Containers - Stackable for Sc...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A routine-focused option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71X9BKBFvCL._AC_UL320_.jpg",
@@ -395,14 +395,14 @@ const seeds: GeneratedSeed[] = [
     "name": "TOUWMX Bento Box For Kids, 4 Pack 3 Compartments Meal Prep Containers Reusable Lunch Containers, Food Storage Containers With Lids, Stackab...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A sensible option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/811aeU7ckdL._AC_UL320_.jpg",
@@ -415,14 +415,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Adults Bento Box with Insulated Lunch Bag, 74oz Capacity 3 Stackable Leak-Proof Bento Box Built-In Utensil and Sauce, PFAS & BPA-Free, Micr...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A practical option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81yO3BqHh5L._AC_UL320_.jpg",
@@ -435,14 +435,14 @@ const seeds: GeneratedSeed[] = [
     "name": "[10-Pack] Glass Meal Prep Containers with Lids, MCIRCO Food Storage Containers with Snap Locking Lids, Airtight Lunch Containers, Microwave...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A useful option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71VKuXwIKOL._AC_UL320_.jpg",
@@ -455,14 +455,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Vtopmart 5Pack 22oz Glass Storage Containers with Lids, Glass Meal Prep Food Container Sets with Snap Airtight Lids for Microwave, Oven, Fr...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "An option worth comparing for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81yZcHBqjaL._AC_UL320_.jpg",
@@ -475,14 +475,14 @@ const seeds: GeneratedSeed[] = [
     "name": "KOMUEE 10 Packs 30 oz Glass Meal Prep Containers,Glass Food Storage Containers with Lids,Airtight Lunch Bento Boxes,Microwave,Freezer and D...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A routine-focused option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71FEUOgXhfS._AC_UL320_.jpg",
@@ -495,14 +495,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Caperci Large Salad Container Bowl for Lunch - Better Adult Bento Lunch Box 68 oz, 5-Compartment Tray, 2pcs 3-oz Sauce Cups, Stackable, BPA...",
     "category": "Lunch And Snacks",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A sensible option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71IUu7qs+NL._AC_UL320_.jpg",
@@ -515,14 +515,14 @@ const seeds: GeneratedSeed[] = [
     "name": "C CREST [10 Pack] Glass Meal Prep Containers, Food Storage Containers with Lids Airtight, Glass Lunch Boxes, Microwave, Oven, Freezer and D...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A practical option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81HfSfzlqUL._AC_UL320_.jpg",
@@ -535,14 +535,14 @@ const seeds: GeneratedSeed[] = [
     "name": "M MCIRCO [8-Pack,30 oz] Glass Meal Prep Containers,Glass Food Storage Containers,Airtight lunch Containers with Lids, Microwave, Oven, Free...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "A useful option for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/713Zfdsgi4L._AC_UL320_.jpg",
@@ -555,14 +555,14 @@ const seeds: GeneratedSeed[] = [
     "name": "50-Pack Reusable Meal Prep Containers Microwave Safe Food Storage Containers with Lids, 28 oz - 1 Compartment Take Out Disposable Plastic B...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
+    "description": "An option worth comparing for lunch and snacks shoppers who want cleaner packing, fewer leaks, easier portions, or lunch gear that actually fits the bag.",
     "highlights": [
       "Cuts clutter",
       "Easy to place",
       "Setup-friendly"
     ],
     "bestFor": "Lunch And Snacks shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Snack Pack lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Snack Pack focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check dishwasher, microwave, freezer, leakproof, and age-suitability details before buying.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/815JjiBlrBL._AC_UL320_.jpg",
@@ -578,6 +578,10 @@ export function getSnackPackCatalog(
 ): ProductCardContent[] {
   return seeds.map((product) => ({
     ...product,
+    image: {
+      ...product.image,
+      src: normalizeAmazonImageUrl(product.image.src)
+    },
     affiliateUrl: appendAmazonAffiliateTag(product.amazonUrl, affiliateTag),
     ctaLabel,
     commerce: {

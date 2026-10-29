@@ -1,4 +1,5 @@
 import { appendAmazonAffiliateTag } from "@/lib/amazon";
+import { getVercelProductExpansion } from "@/content/data/vercel-product-expansions.generated";
 import { type ProductCardContent } from "@/lib/types";
 
 type HomeOrganizationSeed = Omit<
@@ -440,7 +441,7 @@ export function getHomeOrganizationCatalog(affiliateTag: string) {
       merchant: "amazon",
       linkKind: "amazon-product-page"
     }
-  }));
+  })).concat(getVercelProductExpansion("shelf-theory-edit"));
 }
 
 export function getHomeOrganizationDrawerCatalog(affiliateTag: string) {

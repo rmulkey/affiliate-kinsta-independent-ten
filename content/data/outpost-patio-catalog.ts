@@ -1,4 +1,5 @@
 import { appendAmazonAffiliateTag } from "@/lib/amazon";
+import { getWeeklyAffiliateBatchProducts } from "@/content/data/weekly-affiliate-batch-2026-06-15";
 import { type ProductCardContent } from "@/lib/types";
 
 type WaveOneSeed = Omit<
@@ -430,13 +431,16 @@ const seeds: WaveOneSeed[] = [
 ];
 
 export function getOutpostPatioCatalog(affiliateTag: string): ProductCardContent[] {
-  return seeds.map(({ amazonUrl, ...product }) => ({
-    ...product,
-    affiliateUrl: appendAmazonAffiliateTag(amazonUrl, affiliateTag),
-    ctaLabel,
-    commerce: {
-      merchant: "amazon",
-      linkKind: "amazon-product-page"
-    }
-  }));
+  return [
+    ...seeds.map(({ amazonUrl, ...product }) => ({
+      ...product,
+      affiliateUrl: appendAmazonAffiliateTag(amazonUrl, affiliateTag),
+      ctaLabel,
+      commerce: {
+        merchant: "amazon" as const,
+        linkKind: "amazon-product-page" as const
+      }
+    })),
+    ...getWeeklyAffiliateBatchProducts("outpost-patio", affiliateTag)
+  ];
 }

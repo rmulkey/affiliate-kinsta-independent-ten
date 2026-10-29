@@ -15,14 +15,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Denim",
     "category": "Water Bottles",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A practical option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61Gvw0-b0eL._AC_UL320_.jpg",
@@ -35,14 +35,14 @@ const seeds: GeneratedSeed[] = [
     "name": "DYSANKY Insulated Water Bottle | Thickened Stainless Steel Vacuum Metal | Portable Sports Half Gallon Large Water Jug for Gym and Hiking wi...",
     "category": "Water Bottles",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A useful option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71bQt+V4flL._AC_UL320_.jpg",
@@ -55,14 +55,14 @@ const seeds: GeneratedSeed[] = [
     "name": "17 oz Ceramic Lined Water Bottle, No Metallic Taste Insulated Coffee Travel Mug, Double Wall Vacuum Stainless Steel Tumbler with Leak-Proof...",
     "category": "Decor",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "An option worth comparing for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61q8UwyIXcL._AC_UL320_.jpg",
@@ -75,14 +75,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Very, Very Dark",
     "category": "Water Bottles",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A routine-focused option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/718RbhzhVbL._AC_UL320_.jpg",
@@ -95,14 +95,14 @@ const seeds: GeneratedSeed[] = [
     "name": "POWCAN 26 oz Insulated Water Bottle with 2-in-1 Straw and Spout Lid, Keep Cold 24H, Leak-Proof, Fits in Car Cup Holder, Stainless Steel Wat...",
     "category": "Water Bottles",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A sensible option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/515ELeeh4OL._AC_UL320_.jpg",
@@ -115,14 +115,14 @@ const seeds: GeneratedSeed[] = [
     "name": "CIVAGO 32 oz Insulated Water Bottle With Straw, Stainless Steel Sports Water Cup Flask with 3 Lids (Straw, Spout and Handle Lid), Wide Mout...",
     "category": "Water Bottles",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A practical option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61XntLH2loL._AC_UL320_.jpg",
@@ -135,14 +135,14 @@ const seeds: GeneratedSeed[] = [
     "name": "12oz Pink Florals Insulated Water Bottle with Straw & Handle – Stainless Steel Kids Bottle for School, Leak-Proof, Double-Wall Vacuum Insul...",
     "category": "Decor",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A useful option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51wOHXPpeNL._AC_UL320_.jpg",
@@ -155,14 +155,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Half Gallon Water Bottle Insulated with Straw & 3 Lids, Coolflask 64 oz Water Jug Large Metal Stainless Steel Wide Mouth for Sports, Gym or...",
     "category": "Water Bottles",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "An option worth comparing for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81GSkqiWHzL._AC_UL320_.jpg",
@@ -175,14 +175,14 @@ const seeds: GeneratedSeed[] = [
     "name": "POWCAN 26 oz Insulated Water Bottle with 2-in-1 Straw and Spout Lid, Keep Cold 24H, Leak-Proof, Fits in Car Cup Holder, Stainless Steel Wat...",
     "category": "Water Bottles",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A routine-focused option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51rRzUbgDOL._AC_UL320_.jpg",
@@ -195,14 +195,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for Travel, School, an...",
     "category": "Water Bottles",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A sensible option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51GiCw2F1RL._AC_UL320_.jpg",
@@ -215,14 +215,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for Travel, School, an...",
     "category": "Water Bottles",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A practical option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61ezSdimm-L._AC_UL320_.jpg",
@@ -235,14 +235,14 @@ const seeds: GeneratedSeed[] = [
     "name": "IRON °FLASK Camping & Hiking Hydration Flask with Straw, Wide Mouth Insulated Stainless Steel Sports Water Bottle - 40 oz Midnight Black",
     "category": "Water Bottles",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A useful option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61HJZ677AgL._AC_UL320_.jpg",
@@ -255,14 +255,14 @@ const seeds: GeneratedSeed[] = [
     "name": "CamelBak Chute Mag Vacuum Insulated Stainless Steel Water Bottle, Magnetic Leak‑Resistant Cap for Everyday Hydration",
     "category": "Water Bottles",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "An option worth comparing for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71s1GX6XXvL._AC_UL320_.jpg",
@@ -275,14 +275,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hydro Flask Water Bottle - Insulated Stainless Steel - Non Spill, Leakproof in 24 Oz White",
     "category": "Water Bottles",
     "priceHint": "$$ Mid-range",
-    "description": "A clean routine helper for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A routine-focused option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61xdGYKzurL._AC_UL320_.jpg",
@@ -295,14 +295,14 @@ const seeds: GeneratedSeed[] = [
     "name": "RAYMYLO Insulated Water Bottle 40 oz, Triple Wall Vacuum Stainless Steel (Cold for 36Hrs, Hot for 18Hrs), Leak Proof & Non-BPA, Modern Wate...",
     "category": "Decor",
     "priceHint": "$$$ Premium",
-    "description": "A solid shortlist item for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A sensible option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71LfdDBFZNL._AC_UL320_.jpg",
@@ -315,14 +315,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Stanley IceFlow 2.0 Flip Straw Tumbler with Handle 30 oz | Twist On Lid and Flip Up Straw | Leak Resistant Water Bottle | Insulated Stainle...",
     "category": "Water Bottles",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A practical option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61-niRLVOcL._AC_UL320_.jpg",
@@ -335,14 +335,14 @@ const seeds: GeneratedSeed[] = [
     "name": "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusable Insulated Stainless S...",
     "category": "Water Bottles",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A useful option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/41Dz7KzIs6L._AC_UL320_.jpg",
@@ -355,14 +355,14 @@ const seeds: GeneratedSeed[] = [
     "name": "YETI Rambler 26 oz Bottle, Vacuum Insulated, Stainless Steel with Chug Cap, Black",
     "category": "Water Bottles",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "An option worth comparing for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51S0d-FOcbL._AC_UL320_.jpg",
@@ -375,14 +375,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Fijinhom 24 oz Insulated Water Bottle with Handle, 304 Stainless Steel Water Bottles with Wide Mouth, Double Wall Vacuum Sports Water Bottl...",
     "category": "Decor",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A routine-focused option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61m9TPSjEqL._AC_UL320_.jpg",
@@ -395,14 +395,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hydro Flask Water Bottle - Insulated Stainless Steel - Wide Mouth Flex Lid, Non Spill, Leakproof and Refillable in 32 Oz White",
     "category": "Water Bottles",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A sensible option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61JEB+cGneL._AC_UL320_.jpg",
@@ -415,14 +415,14 @@ const seeds: GeneratedSeed[] = [
     "name": "YETI Rambler 36 oz Bottle, Vacuum Insulated, Leakproof, Stainless Steel with Chug Cap | Vacuum Insulated",
     "category": "Water Bottles",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A practical option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61BogStpCRL._AC_UL320_.jpg",
@@ -435,14 +435,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Fanhaw 20 oz Insulated Stainless Steel Water Bottle with Anti-Dust Chug Lid, Leakproof Vacuum Metal Everyday Use Bottle for Kids, Teens & A...",
     "category": "Water Bottles",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A useful option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61gWGWkLAQL._AC_UL320_.jpg",
@@ -455,14 +455,14 @@ const seeds: GeneratedSeed[] = [
     "name": "CamelBak Podium Chill Insulated Bike Squeeze Water Bottle, Cold Retention for Cycling, 24oz, White/Black",
     "category": "Water Bottles",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "An option worth comparing for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/613V1KMO+vL._AC_UL320_.jpg",
@@ -475,14 +475,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hydro Flask Water Bottle - Insulated Stainless Steel - Wide Mouth Flex Lid, Non Spill, Leakproof and Refillable in 32 Oz Indigo Blue",
     "category": "Water Bottles",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A routine-focused option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61AxCk7BhlL._AC_UL320_.jpg",
@@ -495,14 +495,14 @@ const seeds: GeneratedSeed[] = [
     "name": "YETI Rambler 64 oz Bottle, Vacuum Insulated, Leakproof, Stainless Steel with Chug Cap, Black",
     "category": "Water Bottles",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A sensible option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61p21aBxx+L._AC_UL320_.jpg",
@@ -515,14 +515,14 @@ const seeds: GeneratedSeed[] = [
     "name": "TOURIT 32 oz Insulated Water Bottle, Stainless Steel Water Bottles With Handle, Double-Wall Vacuum Sports Water Bottle, BPA Free Leakproof...",
     "category": "Decor",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A practical option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71uIjjSa+jL._AC_UL320_.jpg",
@@ -535,14 +535,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hydro Flask Water Bottle - Insulated Stainless Steel - Wide Straw Lid, Non Spill, Leakproof in 32 Oz Indigo Blue",
     "category": "Water Bottles",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "A useful option for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/610WOfiDvWL._AC_UL320_.jpg",
@@ -555,14 +555,14 @@ const seeds: GeneratedSeed[] = [
     "name": "STANLEY Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainle...",
     "category": "Water Bottles",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
+    "description": "An option worth comparing for water bottles shoppers who want better hydration routines, fewer spills, easier cleaning, or a bottle that fits the bag and the day.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Water Bottles shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Hydrate Desk lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Hydrate Desk focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check capacity, lid style, cup-holder fit, dishwasher instructions, and whether replacement parts are easy to find.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51-U5dEbEBL._AC_UL320_.jpg",

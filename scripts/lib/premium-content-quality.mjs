@@ -170,6 +170,29 @@ function productSeed(site, product, extra = "") {
   return `${site.slug}:${product.asin || product.name}:${extra}`;
 }
 
+function productLabel(product) {
+  const decoded = String(product.name || "This option")
+    .replace(/&#x27;|&#39;|&apos;/gi, "'")
+    .replace(/&amp;/gi, "&")
+    .replace(/\s*[|–—-]\s*Must[- ]Have Accessories\s*[|–—-]\s*/gi, " with ")
+    .replace(/\bMust[- ]Have\b/gi, "")
+    .replace(/\s+/g, " ")
+    .replace(/\.{3,}$/, "")
+    .trim();
+  const firstPhrase = decoded.split(/\s[-–—]\s|,/)[0]?.trim();
+  const candidate = firstPhrase && firstPhrase.length >= 12 ? firstPhrase : decoded;
+  if (candidate.length <= 72) return candidate;
+
+  const words = candidate.split(" ");
+  let shortened = "";
+  for (const word of words) {
+    const next = shortened ? `${shortened} ${word}` : word;
+    if (next.length > 69) break;
+    shortened = next;
+  }
+  return `${shortened || candidate.slice(0, 69).trim()}…`;
+}
+
 function meaningfulDescription(product) {
   const description = String(product.description || "").trim();
   if (!description || GENERIC_DESCRIPTION_RE.test(description)) return "";
@@ -423,88 +446,110 @@ export function productDescription(product, site, fallbackIndex = 0) {
   const bucket = classifyBucket(text);
   const guide = bestGuideMatch(site, product, fallbackIndex);
   const guideName = guide ? guideLabel(guide[1]).toLowerCase() : site.category.toLowerCase();
+  const productName = productLabel(product);
+  const voice = siteVoice(site);
   const bucketCopy = {
     power: [
-      "Worth opening if port mix, charging speed, cable length, or battery size will decide the cart.",
-      "Useful when the live listing details on output, recharge time, and packability matter more than marketing copy."
+      `With ${productName}, confirm the port mix, stated output, cable requirements, and physical size against the devices already in your setup.`,
+      `${productName} is only useful if its charging format, capacity, and packability match the way you handle ${guideName}.`,
+      `Before giving ${productName} an outlet or bag pocket, check compatibility, included cables, and whether the power claims fit your actual devices.`
     ],
     starter: [
-      "A sensible fit if you would rather compare one bundled setup than piece the whole thing together item by item.",
-      "Useful for shoppers who want a ready-to-go bundle and need the live listing to confirm what is actually included."
+      `The value of ${productName} depends on the bundle: compare every included piece with what you already own before paying for duplicates.`,
+      `Treat ${productName} as a kit, not a shortcut. The listing for ${productName} should make the contents, sizes, and missing essentials obvious.`,
+      `If ${productName} replaces several separate purchases, check that the useful pieces—not the sheer piece count—justify the bundle.`
     ],
     cleaning: [
-      "Worth a look when low-fuss cleanup, washable materials, and repeat-use convenience matter.",
-      "Makes more sense when the real question is how easy this is to clean, store, and use again next week."
+      `For ${productName}, the unglamorous questions matter most: what gets dirty, what can be washed, and where it dries or stores afterward.`,
+      `${productName} earns repeat use only if cleanup is simpler than the mess it is meant to solve.`,
+      `Check the care instructions and replaceable parts on ${productName}; those details usually matter more than the first-use photo.`
     ],
     carry: [
-      "Helpful when compact carry, protection, and quick access matter more than extra features.",
-      "Useful if the cart is about grab-and-go packing, basic protection, and less bag clutter."
+      `Judge ${productName} by what it holds, how quickly you can reach it, and whether it creates less bag clutter than the setup you have now.`,
+      `${productName} makes a stronger case when protection and quick access matter more than extra pockets you will never use.`,
+      `Before choosing ${productName}, picture the exact items going inside and where the bag, case, or pouch will live between uses.`
     ],
     mounting: [
-      "A better fit when clamp style, viewing angle, and day-to-day stability are the details that matter.",
-      "Worth opening when the mount itself needs to work in a real setup, not just look tidy in photos."
+      `The decision on ${productName} comes down to clamp or base fit, viewing angle, load limits, and whether it stays put during normal use.`,
+      `Check the contact points and adjustment range on ${productName}; a tidy product photo says little about wobble or awkward placement.`,
+      `${productName} belongs only if its mounting method works with the desk, counter, wall, or device already in the room.`
     ],
     hydration: [
-      "Useful when capacity, leak control, and how easy it is to carry all matter at the same time.",
-      "Worth checking when you care about daily carry comfort, sealing, and how this fits into a repeat routine."
+      `With ${productName}, compare capacity, lid or seal design, cleaning access, and how it feels to carry when full.`,
+      `${productName} needs to fit the cup holder, bag, desk, or route where you will actually use it—not an imaginary all-day routine.`,
+      `Check whether ${productName} is easy to refill and clean; those two details usually decide whether hydration gear stays in rotation.`
     ],
     hosting: [
-      "A better match for carts where setup speed, serving ease, and cleanup friction are the real comparison points.",
-      "Useful when you want the table to come together faster and break down with less annoyance afterward."
+      `Picture ${productName} at the busiest point of the gathering: serving, refilling, table space, and cleanup are the useful comparison points.`,
+      `${productName} is a better hosting buy when it shortens setup or cleanup instead of adding one more decorative task.`,
+      `Before buying ${productName}, check capacity, storage, washability, and whether guests can understand how to use it without a demo.`
     ],
     hair: [
-      "Worth checking if storage, routine speed, and how the tool behaves day after day are the real decision points.",
-      "A better fit when the live listing details on heat range, storage, and accessories will make or break the buy."
+      `For ${productName}, check heat or power details, attachments, cord storage, and the amount of counter space the routine really needs.`,
+      `${productName} has to work on an ordinary morning, so setup time and storage matter as much as the finished-look promise.`,
+      `Compare ${productName} with the tools already in the drawer; the best case for it is replacing a frustrating step, not adding another one.`
     ],
     nail: [
-      "Useful when tabletop footprint, cleanup, and repeat-use convenience matter more than trend packaging.",
-      "Worth opening when your real comparison is table space, storage, and how easy the setup is to repeat."
+      `The practical test for ${productName} is table space, cleanup, storage, and whether the routine is easy enough to repeat.`,
+      `Look past the kit photo on ${productName} and check cure or removal steps, included pieces, and the space needed to keep everything organized.`,
+      `${productName} makes sense when it simplifies the manicure setup; it is a weaker buy if it creates a drawer full of one-use pieces.`
     ],
     camp: [
-      "Useful when packed size, setup time, and how often it earns space in the car are the real questions.",
-      "Worth comparing for camp setups where storage footprint and real-world usefulness matter more than novelty."
+      `For ${productName}, packed size, setup time, weather limits, and the trip type matter more than how rugged the listing sounds.`,
+      `${productName} has to earn space in the car or pack, so check weight, dimensions, included parts, and the conditions it is built for.`,
+      `Compare ${productName} with the trips you actually take; backyard, car-camping, and trail use do not ask the same thing from gear.`
     ],
     road: [
-      "Helpful when quick access, trunk discipline, and how this behaves in a real car matter more than gimmicks.",
-      "A better fit for carts where cabin clutter, fast reach, and everyday drivability are the real comparison points."
+      `Place ${productName} in the actual car before deciding: reach, mounting, heat exposure, storage, and driver distraction all matter.`,
+      `${productName} is useful only if it reduces cabin or trunk friction without getting in the way of normal driving.`,
+      `Check vehicle fit and where ${productName} lives when it is not in use; loose car gear quickly becomes its own problem.`
     ],
     desk: [
-      "Worth opening when footprint, cable control, clamp fit, or desktop compatibility will decide the purchase.",
-      "Useful for setups where the boring details like reach, routing, and mount fit matter more than the render."
+      `Measure the spot for ${productName} and check cable routing, clamp or base fit, reach, and what it blocks once the desk is in use.`,
+      `${productName} belongs on the shortlist when it removes a daily desk annoyance without consuming the space it is meant to improve.`,
+      `The useful details on ${productName} are footprint, compatibility, adjustment range, and whether the setup still works after the cables are connected.`
     ],
     phone: [
-      "Helpful when reach, mount stability, and charging convenience are what you actually care about.",
-      "Worth checking if the live listing will answer the real questions about grip, angle, and charging fit."
+      `With ${productName}, check device compatibility, case fit, grip, viewing angle, and what happens when a charging cable is attached.`,
+      `${productName} is worth considering if it makes the phone easier to place or carry without adding a fiddly setup every time.`,
+      `Before choosing ${productName}, confirm the dimensions and mounting method against the phone, case, desk, car, or bag you already use.`
     ],
     outdoor: [
-      "A better match when weather tolerance, setup friction, and storage between uses matter.",
-      "Useful for outdoor setups where the live listing details on materials and footprint will decide the buy."
+      `For ${productName}, check weather exposure, setup effort, footprint, and where it will be stored when the season changes.`,
+      `${productName} earns outdoor space when the materials and maintenance fit the conditions, not simply because the listing shows it on a patio.`,
+      `Measure the area for ${productName} and look closely at anchoring, drainage, fading, or cover requirements before ordering.`
     ],
     beauty: [
-      "Worth checking when counter footprint, storage habits, and routine convenience matter more than hype.",
-      "Useful for routines where the real comparison is texture, storage, and how this fits into the daily setup."
+      `Fit ${productName} into the routine on paper first: order of use, storage, cleanup, and compatibility matter more than trend language.`,
+      `${productName} is a stronger candidate when it replaces a frustrating step rather than extending the routine for no clear reason.`,
+      `Check the size, ingredients or materials, care directions, and return terms for ${productName} before treating it as a routine staple.`
     ],
     organization: [
-      `Worth opening if ${guideName} is the job and you want the live listing for dimensions, included pieces, and recent photos.`,
-      `Useful when you are comparing ${guideName} and need a quicker read on footprint, access, and setup fit.`
+      `Measure the space for ${productName}, then check access, assembly, and what happens when the organizer is full rather than staged.`,
+      `${productName} should make ${guideName} easier to maintain, not just make the first setup photo look tidier.`,
+      `Before ordering ${productName}, compare the inside and outside dimensions with the objects it actually needs to hold.`
     ],
     lighting: [
-      `Worth opening if ${guideName} is the job and you still need the live listing for size, setup, and recent photos.`,
-      `Useful for ${guideName} shoppers who want the real listing details before committing space on the shelf, desk, or cart.`
+      `For ${productName}, compare brightness or light direction, power, controls, placement, and the amount of visible hardware the setup requires.`,
+      `${productName} needs to suit the actual room and task; attractive listing photos cannot show glare, cord reach, or awkward controls.`,
+      `Check the dimensions, mounting method, bulb or power requirements, and control options on ${productName} before choosing a spot for it.`
     ]
   };
   const guideCopy = [
-    `Worth opening if ${guideName} is the shopping job and you want the live listing for dimensions, included pieces, and recent photos.`,
-    `Useful for ${guideName} shoppers who still need Amazon to confirm the size, materials, and latest listing details.`,
-    `A practical compare-now option for ${guideName}, especially if you want the live listing to answer the final fit questions.`
+    `Use the listing for ${productName} to check dimensions, included pieces, materials, and the details that determine whether it fits ${guideName}.`,
+    `${productName} deserves a second look only if its setup and upkeep make sense for the way you handle ${guideName}.`,
+    `Before ordering ${productName}, decide where it will live, how often it will be used, and which current listing details could change the answer.`
   ];
   const leadSentence = chooseVariant(productSeed(site, product, `lead-${bucket || "guide"}`), [
-    `${product.name} makes the most sense when ${guideName} is the part of the cart you want to get right first.`,
-    `This product fits best when ${guideName} is the job and you still want the live listing to settle the details.`,
-    `A plausible pick for ${guideName}, especially when footprint, included pieces, or everyday ease matter more than novelty.`
+    `${productName} makes the most sense here when ${guideName} is the exact gap in your setup.`,
+    `Put ${productName} on the maybe list only if it solves your ${guideName} problem without creating a storage or setup problem of its own.`,
+    `For ${site.brand}, ${productName} is a ${guideName} candidate—not an automatic add to cart.`,
+    `The case for ${productName} starts with one question: does it improve the way you handle ${guideName}?`,
+    `${productName} belongs in this comparison because it maps to ${guideName}; fit and repeat use decide whether it stays.`,
+    `If ${guideName} is what brought you to ${site.brand}, check ${productName} against the space and routine you already have.`
   ]);
   const secondSentence = chooseVariant(
-    productSeed(site, product, `desc-${bucket || "guide"}`),
+    productSeed(site, product, `desc-${bucket || "guide"}-${voice.scene}`),
     bucketCopy[bucket] || guideCopy
   );
   return `${leadSentence} ${secondSentence}`;

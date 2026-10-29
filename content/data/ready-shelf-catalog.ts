@@ -15,14 +15,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Ready America 72 Hour Deluxe Emergency Kit, 4-Person 3-Day Backpack, First Aid Kit, Survival Blanket, Power Station, Emergency Food, Portab...",
     "category": "Comfort",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A practical option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81TDLG1okjL._AC_UL320_.jpg",
@@ -35,14 +35,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Ready America 70280 72 Hour Emergency Kit, 2-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Portable Preparedness Go-Bag...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A useful option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71agZ5gOUNL._AC_UL320_.jpg",
@@ -55,14 +55,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Ready America 72 Hour Deluxe Emergency Kit, 2-Person 3-Day Backpack, First Aid Kit, Survival Blanket, Power Station, Emergency Food, Portab...",
     "category": "Comfort",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "An option worth comparing for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81pJqthpXgL._AC_UL320_.jpg",
@@ -75,14 +75,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Survival Kit, 262Pcs Survival Gear and Supplies with First Aid Kit Pouch and Crossbody Bag, Emergency Kit with Tent, Camping Axe Hammer, Su...",
     "category": "Storage",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A routine-focused option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81t6wxt8GXL._AC_UL320_.jpg",
@@ -95,14 +95,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Survival Kit, 250Pcs Survival Gear First Aid Kit with Molle System Compatible Bag and Emergency Tent, Emergency Kit for Earthquake, Outdoor...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A sensible option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81uW763CAPL._AC_UL320_.jpg",
@@ -115,14 +115,14 @@ const seeds: GeneratedSeed[] = [
     "name": "FosPower NOAA Emergency Weather Radio A1 7400mWh Portable Power Bank, AM/FM, USB/Solar/Hand Crank Charging, Battery Operated, SOS Alarm & F...",
     "category": "Emergency Prep",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A practical option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71B9hiytZnL._AC_UL320_.jpg",
@@ -135,14 +135,14 @@ const seeds: GeneratedSeed[] = [
     "name": "LifeStraw Personal Water Filter for Hiking, Camping, Travel, and Emergency Preparedness",
     "category": "Emergency Prep",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A useful option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/610MT9qiRyL._AC_UL320_.jpg",
@@ -155,14 +155,14 @@ const seeds: GeneratedSeed[] = [
     "name": "TacPreps 72 Hour Survival Kit, 45L Bug Out Bag with Emergency Food, Water Filter, First Aid Kit, Shelter and Survival Tools",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "An option worth comparing for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81wlzcSbZgL._AC_UL320_.jpg",
@@ -175,14 +175,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Emergency Blanket 4-Pack Space Mylar Blankets Survival Gear and Supplies Reusable Thermal Camping Hunting Essentials First Aid Car Backpack...",
     "category": "Comfort",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A routine-focused option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71eCGdR7nfL._AC_UL320_.jpg",
@@ -195,14 +195,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Ready America 70180 72 Hour Emergency Kit, 1-Person, 3-Day Backpack, Includes First Aid Kit, Survival Blanket, Emergency Food Portable Disa...",
     "category": "Comfort",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A sensible option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71ob1a7HpoL._AC_UL320_.jpg",
@@ -215,14 +215,14 @@ const seeds: GeneratedSeed[] = [
     "name": "SurviveX Large First Aid Kit for Car, Travel & Home - Emergency Kit for Hiking, Camping, Backpacking and Outdoors - Includes Zip Stitch Wou...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A practical option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81BS0vr0HnL._AC_UL320_.jpg",
@@ -235,14 +235,14 @@ const seeds: GeneratedSeed[] = [
     "name": "72 Hour Survival Kit with Food, Solar Power Bank, Water Purifier, First Aid & Tools - All Emergency Survival Gear and Supplies in This Bug...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A useful option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51bkfnSMyIL._AC_UL320_.jpg",
@@ -255,14 +255,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Everlit Survival Car Emergency Kit, Roadside Safety Tool Kit with Gloves,Digital Auto Air Compressor Tire Inflator, First Aid Kit, 12 Feet...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "An option worth comparing for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71p9FLhJlEL._AC_UL320_.jpg",
@@ -275,14 +275,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Ready America Backpack",
     "category": "Emergency Prep",
     "priceHint": "$$ Mid-range",
-    "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A routine-focused option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81UxgQfvCsL._AC_UL320_.jpg",
@@ -295,14 +295,14 @@ const seeds: GeneratedSeed[] = [
     "name": "238Pcs Emergency Survival Kit and First Aid Kit, Professional Survival Gear Tool with Tactical Molle Pouch and Emergency Tent for Earthquak...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A solid shortlist item for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A sensible option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81QBUrO2e7L._AC_UL320_.jpg",
@@ -315,14 +315,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Mini First Aid Kit - 150 Piece Small Waterproof Hard Shell Medical Kit for Home, Car, Travel, Camping, Truck, Hiking, Sports, Office, Vehic...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A practical option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71g347mQv2L._AC_UL320_.jpg",
@@ -335,14 +335,14 @@ const seeds: GeneratedSeed[] = [
     "name": "EVERLIT Complete 72 Hours Earthquake Bug Out Bag Emergency Survival Kit for Family. Be Prepared for Hurricanes, Floods, Tsunami, Other Disa...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A useful option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81i-nPa+ZRL._AC_UL320_.jpg",
@@ -355,14 +355,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Survival Kit, Survival Gear and Equipment 258 PCS with Water Filter, Emergency Tent, LED Lantern, First Aid Kit Supplies, 25L Backpack for...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "An option worth comparing for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/818TlfA4EqL._AC_UL320_.jpg",
@@ -375,14 +375,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Ready Hour 120 Serving Entree Bucket-Freeze Dried Emergency Food Supply-Survival Meals with Long Shelf Life-Prepper Essentials for Disaster...",
     "category": "Emergency Prep",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A routine-focused option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71Lrs1cD2WL._AC_UL320_.jpg",
@@ -395,14 +395,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Datrex Emergency Water Packet 4.227 oz - 3 Day/72 Hour Supply (18 Packs) , White",
     "category": "Emergency Prep",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A sensible option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71DjEglpHyL._AC_UL320_.jpg",
@@ -415,14 +415,14 @@ const seeds: GeneratedSeed[] = [
     "name": "ReadyWise Emergency Food Supply - 120 Servings Favorites Sample Bucket, Survival Food Kit, Freeze Dried Prepper Food & Dehydrated Meals for...",
     "category": "Starter Kit",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A practical option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71Ty29hxQeL._AC_UL320_.jpg",
@@ -435,14 +435,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Blue Seventy-Two - Pro Series - Red Deluxe 72 Hour Emergency Backpack Survival Kit for 1 Person | Survival Kits for Emergencies (Includes W...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A useful option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81oW43+wUqL._AC_UL320_.jpg",
@@ -455,14 +455,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Eoxsmile Emergency Radio with NOAA Weather Alert, 5000mAh Solar Hand Crank Portable AM/FM Shortwave Radio, Rechargeable Battery Powered, US...",
     "category": "Emergency Prep",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "An option worth comparing for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71FkdWjXQSL._AC_UL320_.jpg",
@@ -475,14 +475,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Essentials Complete Deluxe Survival Kit 2 & 4 Person | Bug-Out-Bag | Emergency Go Bag Kit for Wildfires, Hurricanes, and Other Natural Disa...",
     "category": "Storage",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A routine-focused option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71Fh1Rj42FL._AC_UL320_.jpg",
@@ -495,14 +495,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Survival Kit, Gifts for Men Women Teen Boys, 252 pcs Survival Gear and Equipment Mini First Aid Kit for Car Home, Emergency Kit with Molle...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A sensible option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81LY6P7WPAL._AC_UL320_.jpg",
@@ -515,14 +515,14 @@ const seeds: GeneratedSeed[] = [
     "name": "First My Family All-in-One 4 Person, 72 Hour Emergency Survival Kit for Fires, Earthquakes, Hurricanes, Floods, Tsunami and Other Disasters...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A practical option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81raRfnfOiL._AC_UL320_.jpg",
@@ -535,14 +535,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Ready America 72 Hour Deluxe Emergency Kit, 1-Person 3-Day Backpack, First Aid Kit, Survival Blanket, Power Station, Emergency Food, Portab...",
     "category": "Comfort",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "A useful option for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71gp6xJP0XL._AC_UL320_.jpg",
@@ -555,14 +555,14 @@ const seeds: GeneratedSeed[] = [
     "name": "ReadyWise Emergency Food Supply - 72 Hour Survival Kit, 30 Servings of Protein Meals, Freeze Dried Food for Backpacking, Camping Essentials...",
     "category": "Starter Kit",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
+    "description": "An option worth comparing for emergency prep shoppers who want better backup lighting, cleaner emergency storage, easier first aid, or a less chaotic outage plan.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Emergency Prep shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Ready Shelf lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Ready Shelf focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Preparedness products are not guarantees. Follow official guidance, replace expired items, and learn how to use safety gear.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71ZU04GylpL._AC_UL320_.jpg",

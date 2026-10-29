@@ -1,6 +1,5 @@
 import {
-  appendAmazonAffiliateTag,
-  buildAmazonSearchUrl
+  appendAmazonAffiliateTag
 } from "@/lib/amazon";
 import { type ProductCardContent } from "@/lib/types";
 
@@ -16,7 +15,7 @@ type RawProduct = {
     | "Litter & Potty";
   priceHint: string;
   imageSrc: string;
-  amazonUrl?: string;
+  amazonUrl: string;
 };
 
 function normalizeProductImageUrl(imageSrc: string) {
@@ -214,336 +213,384 @@ const rawProducts: RawProduct[] = [
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/068d2fa2-cafc-7202-8000-53eb322303e7.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/068d2fa2-cafc-7202-8000-53eb322303e7.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B073PZLDN3"
   },
   {
     name: "Arlee Home & Pet by Arlee Orthopedic Chew Resistant Eco-Friendly Memory Foam Bolster Dog & Cat Bed, Large",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/canine-creations-by-arlee-orthopedic-chew-resistant-eco-friendly-memory-foam-bolster-dog-cat-bed-large/img-289876.jpg"
+      "https://image.chewy.com/catalog/general/images/canine-creations-by-arlee-orthopedic-chew-resistant-eco-friendly-memory-foam-bolster-dog-cat-bed-large/img-289876.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0FWJJTPH5"
   },
   {
     name: "JOEJOY Orthopedic Waterproof Dog Bed with Removable Cover, Beige, X-Large",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/0686e46a-f1b9-74fe-8000-e562a551c2d7.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/0686e46a-f1b9-74fe-8000-e562a551c2d7.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0CC1YM6SJ"
   },
   {
     name: "FurHaven Velvet Waves Perfect Comfort Orthopedic Sofa Cat & Dog Bed with Removable Cover, Granite Gray, Large",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/furhaven-velvet-waves-perfect-comfort-orthopedic-sofa-cat-dog-bed-with-removable-cover-granite-gray-large/img-487883.jpg"
+      "https://image.chewy.com/catalog/general/images/furhaven-velvet-waves-perfect-comfort-orthopedic-sofa-cat-dog-bed-with-removable-cover-granite-gray-large/img-487883.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B08B6D7TB3"
   },
   {
     name: "Bedsure ComfyFleece Orthopedic Waterproof Dog Sofa Bed with Corduroy Removable Cover, Grey, Large",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/069f0b22-a831-72b4-8000-04a829717937.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/069f0b22-a831-72b4-8000-04a829717937.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DTH4195V"
   },
   {
     name: "Invenho Orthopedic Egg Crate Foam Dog Bed Mat with Removable Washable Cover, X-Large: 41 x 27 x 3.5-in, Brown",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/069b0755-c5ae-7359-8000-d82626a09cd8.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/069b0755-c5ae-7359-8000-d82626a09cd8.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0D5B5ZYWG"
   },
   {
     name: "Noah & Paw Machine Washable Orthopedic Classic Dog Bed, Dark Green, Large",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/068a8cd5-f764-78f7-8000-862bda07fcce.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/068a8cd5-f764-78f7-8000-862bda07fcce.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DS6DJ1LC"
   },
   {
     name: "Best Pet Supplies Cute Orthopedic Bolster Dog & Cat Mat Bed, Gray, X-Large",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/best-pet-supplies-cute-orthopedic-bolster-dog-cat-mat-bed-gray-x-large/img-364465.jpg"
+      "https://image.chewy.com/catalog/general/images/best-pet-supplies-cute-orthopedic-bolster-dog-cat-mat-bed-gray-x-large/img-364465.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0CLFBMKDS"
   },
   {
     name: "FurHaven NAP Ultra Plush Orthopedic Deluxe Cat & Dog Bed with Removable Cover, Gray, Jumbo",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06924b7e-560c-72ce-8000-55e0acf01b49.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06924b7e-560c-72ce-8000-55e0acf01b49.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B07PYYJV11"
   },
   {
     name: "KOPEKS Orthopedic Pillow Dog Bed with Removable Cover, Brown, X-Large",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/069b291b-08e4-7894-8000-36fd579fbab5.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/069b291b-08e4-7894-8000-36fd579fbab5.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B07LHKFMFH"
   },
   {
     name: "FunnyFuzzy Scratch-Resistant Orthopedic Pillow Dog Cushion Bed, Grey, XX-Large",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/069bc0c1-04e4-7810-8000-19072ae07627.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/069bc0c1-04e4-7810-8000-19072ae07627.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0GXVXK33R"
   },
   {
     name: "Bedsure Orthopedic Waterproof Dog & Cat Bed, Dark Grey, Large",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/0688a34c-dfae-7022-8000-41ab7fd5f90b.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/0688a34c-dfae-7022-8000-41ab7fd5f90b.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0C7C6WFR1"
   },
   {
     name: "EHEYCIGA Memory Foam Orthopedic Furniture Style Sofa Dog Bed with Removable Cover, 36 x 27-in",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/069f5000-1588-7053-8000-6e53501d12a9.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/069f5000-1588-7053-8000-6e53501d12a9.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0BZYHWJFK"
   },
   {
     name: "FEANDREA Orthopedic Dog Sofa Bed with Waterproof Liner, Light Gray, Medium: 30 x 20 x 7-in",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06967f10-c1a2-790f-8000-710ad1d94a73.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06967f10-c1a2-790f-8000-710ad1d94a73.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DQW1YXG5"
   },
   {
     name: "FurHaven Velvet Waves Perfect Comfort Cooling Gel Bolster Cat & Dog Bed with Removable Cover, Celadon Green, Jumbo",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/0691e23f-1fb6-74d7-8000-09e5ecf104af.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/0691e23f-1fb6-74d7-8000-09e5ecf104af.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B08FF9Q7FB"
   },
   {
     name: "Bedsure ComfyFleece Orthopedic Bolster Dog Bed with Removable Cover, Cream, Medium",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/068ed115-0f29-7bb0-8000-ec80f3987d0b.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/068ed115-0f29-7bb0-8000-ec80f3987d0b.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DH2MZ52G"
   },
   {
     name: "Invenho Waterproof Orthopedic Couch Dog Bed with Washable Removable Cover, Brown, 48 x 35 x 6.5-in",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06998b7d-3c04-76e5-8000-b44e365e6a16.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06998b7d-3c04-76e5-8000-b44e365e6a16.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0D5B5ZYWG"
   },
   {
     name: "Noah & Paw Machine Washable Orthopedic Sofa Dog Bed, Navy Blue, X-Large",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/068a8cba-8fd6-7e80-8000-04d696f86d14.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/068a8cba-8fd6-7e80-8000-04d696f86d14.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DS6DJ1LC"
   },
   {
     name: "Frisco Plush Orthopedic Pillowtop Dog Bed w/Removable Cover, Gray, X-Large",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/068c3f77-1ade-741a-8000-be8ad4833a9e.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/068c3f77-1ade-741a-8000-be8ad4833a9e.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B09JDWVD2V"
   },
   {
     name: "FurHaven Deluxe Oxford Orthopedic Indoor/Outdoor Dog & Cat Bed with Removable Cover, Large, Deep Lagoon",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/furhaven-deluxe-oxford-orthopedic-indooroutdoor-dog-cat-bed-with-removable-cover-large-deep-lagoon/img-178843.jpg"
+      "https://image.chewy.com/catalog/general/images/furhaven-deluxe-oxford-orthopedic-indooroutdoor-dog-cat-bed-with-removable-cover-large-deep-lagoon/img-178843.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B08B45DZYW"
   },
   {
     name: "LFC PETS Water-resistant Orthopedic Bolster Dog & Cat Sofa Bed with Removable Cover, Grey, X-Large",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/069738b1-6675-7b23-8000-a1f1a897b306.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/069738b1-6675-7b23-8000-a1f1a897b306.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0C7C6WFR1"
   },
   {
     name: "Arlee Home & Pet Orthopedic Pillow Topper Dog Bed, Charcoal, X-Large",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/canine-creations-orthopedic-pillow-topper-dog-bed-charcoal-x-large/img-524149.jpg"
+      "https://image.chewy.com/catalog/general/images/canine-creations-orthopedic-pillow-topper-dog-bed-charcoal-x-large/img-524149.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0CG9LCN8B"
   },
   {
     name: "JOEJOY High Sided Fish Scale Orthopedic Bolster Dog Sofa Bed with Removable Cover, Grey, X-Large Plus: 48 x 35 x 11-in",
     category: "Orthopedic Beds",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/069b98dc-3c9e-74e3-8000-e7e3f943c0a6.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/069b98dc-3c9e-74e3-8000-e7e3f943c0a6.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0GH2PLDKZ"
   },
   {
     name: "Frisco Orthopedic Pillow Cat & Dog Bed with Removable Cover, Gray, Large",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/068eff0a-062a-73c8-8000-d8b89f937ef0.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/068eff0a-062a-73c8-8000-d8b89f937ef0.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0F8BW6M9W"
   },
   {
     name: "EHEYCIGA Waterproof Memory Foam Orthopedic Furniture Style Sofa Dog Bed with Removable Cover, 44 x 32-in, Grey",
     category: "Orthopedic Beds",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06972834-3e06-7221-8000-1565897e4320.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06972834-3e06-7221-8000-1565897e4320.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0BZYDN8SJ"
   },
   {
     name: "TSCOMON 55-in Plush Cat Tree with Hammock, Toy & Sisal Scratching Post, Green",
     category: "Cat Trees & Condos",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06862b30-f6ad-7fc7-8000-4c3d9eb6baae.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06862b30-f6ad-7fc7-8000-4c3d9eb6baae.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0GLFJVZJB"
   },
   {
     name: "FEANDREA Plush Cat Tree & Condo, 61-in, Beige",
     category: "Cat Trees & Condos",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/0690514a-52f9-71b5-8000-e6fc00ac3c6b.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/0690514a-52f9-71b5-8000-e6fc00ac3c6b.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0CSMDBXMV"
   },
   {
     name: "Yaheetech 63-in Multi-Level Sisal Cat Tree, Dark Gray",
     category: "Cat Trees & Condos",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/yaheetech-multi-level-sisal-cat-tree-62-2in-dark-gray/img-546885.jpg"
+      "https://image.chewy.com/catalog/general/images/yaheetech-multi-level-sisal-cat-tree-62-2in-dark-gray/img-546885.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B09BCXFRHJ"
   },
   {
     name: "Yaheetech 63.5-in Plush Cat Tree & Condo, Beige",
     category: "Cat Trees & Condos",
     priceHint: "$ Budget-friendly",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/yaheetech-63-5in-plush-cat-tree-condo-beige/img-460778.jpg"
+      "https://image.chewy.com/catalog/general/images/yaheetech-63-5in-plush-cat-tree-condo-beige/img-460778.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B07TSBMKKF"
   },
   {
     name: "FUKUMARU 118-in Jute Rope Floor-to-Ceiling Cat Tree & Condo with Hammock, Brown",
     category: "Cat Trees & Condos",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06889f9a-30cb-7622-8000-54b68b928d8f.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06889f9a-30cb-7622-8000-54b68b928d8f.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0G5YMRRWS"
   },
   {
     name: "Yaheetech 48.5-in Oasis-Themed Cat Tree, Green/Yellow",
     category: "Cat Trees & Condos",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/yaheetech-48-5in-oasis-themed-cat-tree-greenyellow/img-307516.jpg"
+      "https://image.chewy.com/catalog/general/images/yaheetech-48-5in-oasis-themed-cat-tree-greenyellow/img-307516.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0C4312VZZ"
   },
   {
     name: "Frisco 48-in Faux Fur Cat Tree & Condo, Gray",
     category: "Cat Trees & Condos",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/068138ef-6351-70d9-8000-05494e305375.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/068138ef-6351-70d9-8000-05494e305375.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0FJFMPNZ3"
   },
   {
     name: "PAWZ Road 45.7-in Large Hammock Polyester Cat Tree & Condo, Medium, Gray",
     category: "Cat Trees & Condos",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06822159-60b1-7a86-8000-9bac8a7b01ff.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06822159-60b1-7a86-8000-9bac8a7b01ff.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0BZP1J9NQ"
   },
   {
     name: "NonoPets 2-in-1 Double Layer 17.5-in Polyester Cat Scratcher Lounge Bed & Condo with Play Balls, Beige",
     category: "Cat Trees & Condos",
     priceHint: "$ Budget-friendly",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06a16db5-18be-7845-8000-ae68cadb7709.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06a16db5-18be-7845-8000-ae68cadb7709.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0F3C6XBZN"
   },
   {
     name: "Frisco 40-in Faux Fur Cat Tree & Condo, Cream",
     category: "Cat Trees & Condos",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/frisco-40in-faux-fur-cat-tree-condo-cream/img-296136.jpg"
+      "https://image.chewy.com/catalog/general/images/frisco-40in-faux-fur-cat-tree-condo-cream/img-296136.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DPV8NPQD"
   },
   {
     name: "Globlazer 69-in Sturdy Indoor Cat Tree Tower, Dark Gray",
     category: "Cat Trees & Condos",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/0695f701-95b1-716c-8000-640790e77365.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/0695f701-95b1-716c-8000-640790e77365.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0G91SGXKV"
   },
   {
     name: "TSCOMON Multi-Level 55-in Plush Cat Tree & Condo with Scratching Post, Light Gray",
     category: "Cat Trees & Condos",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/068a3971-d335-7cbf-8000-8683bd1773f9.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/068a3971-d335-7cbf-8000-8683bd1773f9.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0FVSJMNZ5"
   },
   {
     name: "FEANDREA 65-in Multi-Level Cat Tree, Almond Yellow",
     category: "Cat Trees & Condos",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/0690514a-cf23-7b59-8000-837208873e13.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/0690514a-cf23-7b59-8000-837208873e13.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DPQ6CJGK"
   },
   {
     name: "Yaheetech Multi-Level Cat Tree, 64.5-in, Dark Gray",
     category: "Cat Trees & Condos",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/yaheetech-multi-level-cat-tree-64-5in-dark-gray/img-573388.jpg"
+      "https://image.chewy.com/catalog/general/images/yaheetech-multi-level-cat-tree-64-5in-dark-gray/img-573388.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B099RV6MY7"
   },
   {
     name: "Yaheetech 35.5-in Cat Tree with Space Capsule & Two Scratching Post for Kittens, Indigo/Beige",
     category: "Cat Trees & Condos",
     priceHint: "$ Budget-friendly",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/yaheetech-35-5in-cat-tree-with-space-capsule-small-indigobeige/img-533521.jpg"
+      "https://image.chewy.com/catalog/general/images/yaheetech-35-5in-cat-tree-with-space-capsule-small-indigobeige/img-533521.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0D4LJLH24"
   },
   {
     name: "Gooby Escape Free Easy Fit Dog Harness, Turquoise, Small: 16 to 19.25-in chest",
     category: "Walking Harnesses",
     priceHint: "$ Budget-friendly",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/gooby-escape-free-easy-fit-dog-harness-turquoise-small-16-to-19-25in-chest/img-288236.jpg"
+      "https://image.chewy.com/catalog/general/images/gooby-escape-free-easy-fit-dog-harness-turquoise-small-16-to-19-25in-chest/img-288236.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B01H8IK3SK"
   },
   {
     name: "Best Pet Supplies Voyager Dual Attachment Outdoor Dog Harness & Leash Bundle, Turquoise, Medium",
     category: "Walking Harnesses",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/best-pet-supplies-voyager-dual-attachment-outdoor-dog-harness-leash-bundle-turquoise-medium/img-741087.jpg"
+      "https://image.chewy.com/catalog/general/images/best-pet-supplies-voyager-dual-attachment-outdoor-dog-harness-leash-bundle-turquoise-medium/img-741087.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B09BZ56SF6"
   },
   {
     name: "Frisco Step In Back Clip Dog Harness, Blue, Large: 26 to 38-in chest",
     category: "Walking Harnesses",
     priceHint: "$ Budget-friendly",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/frisco-step-in-back-clip-dog-harness-blue-large-26-to-38in-chest/img-166133.jpg"
+      "https://image.chewy.com/catalog/general/images/frisco-step-in-back-clip-dog-harness-blue-large-26-to-38in-chest/img-166133.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B00UKHIQ9K"
   },
   {
     name: "Ruffwear Flagline Front-Clip Dog Harness, Basalt Gray, Medium: 27 to 32-in chest",
     category: "Walking Harnesses",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/ruffwear-flagline-front-clip-dog-harness-basalt-gray-medium-27-to-32in-chest/img-298067.jpg"
+      "https://image.chewy.com/catalog/general/images/ruffwear-flagline-front-clip-dog-harness-basalt-gray-medium-27-to-32in-chest/img-298067.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0CLB4GFL9"
   },
   {
     name: "OneTigris AIRE Nylon Mesh No Pull Dog Harness, Black, Large: 27 to 36-in chest",
     category: "Walking Harnesses",
     priceHint: "$$$ Premium",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/onetigris-aire-nylon-mesh-no-pull-dog-harness-black-large-27-to-36in-chest/img-510194.jpg"
+      "https://image.chewy.com/catalog/general/images/onetigris-aire-nylon-mesh-no-pull-dog-harness-black-large-27-to-36in-chest/img-510194.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B09ZPJ8YGH"
   },
   {
     name: "Best Pet Supplies Voyager Fully Adjustable Step-in Mesh Dog Harness, Royal Blue, Medium",
     category: "Walking Harnesses",
     priceHint: "$ Budget-friendly",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/best-pet-supplies-voyager-fully-adjustable-step-in-mesh-dog-harness-royal-blue-medium/img-456968.jpg"
+      "https://image.chewy.com/catalog/general/images/best-pet-supplies-voyager-fully-adjustable-step-in-mesh-dog-harness-royal-blue-medium/img-456968.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B089WGFR7K"
   },
   {
     name: "BARKBAY Air Reflective No-Pull Dog Harness with ID Tag Pocket, Sapphire Blue & Blue, Small: 19.5 to 26-in chest",
     category: "Walking Harnesses",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06981c35-3d75-7636-8000-fa9413952289.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06981c35-3d75-7636-8000-fa9413952289.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DPPF6PP2"
   },
   {
     name: "PetSafe Easy Walk Comfort Reflective No Pull Dog Harness, Pink, Medium: 24 to 34-in chest",
     category: "Walking Harnesses",
     priceHint: "$$ Mid-range",
     imageSrc:
-      "https://image.chewy.com/catalog/general/images/moe/06774162-d18a-7e2c-8000-11b6871289f1.jpg"
+      "https://image.chewy.com/catalog/general/images/moe/06774162-d18a-7e2c-8000-11b6871289f1.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DPS3DS64"
   }
 ];
 
@@ -562,9 +609,7 @@ export function buildPetProductsCatalog(
       bestFor: copy.bestFor,
       whyPicked: copy.whyPicked,
       trustNote: copy.trustNote,
-      affiliateUrl: product.amazonUrl
-        ? appendAmazonAffiliateTag(product.amazonUrl, affiliateTag)
-        : buildAmazonSearchUrl(product.name, affiliateTag),
+      affiliateUrl: appendAmazonAffiliateTag(product.amazonUrl, affiliateTag),
       ctaLabel: "Check price on Amazon",
       image: {
         src: normalizeProductImageUrl(product.imageSrc),
@@ -573,7 +618,7 @@ export function buildPetProductsCatalog(
       },
       commerce: {
         merchant: "amazon",
-        linkKind: product.amazonUrl ? "amazon-product-page" : "amazon-search"
+        linkKind: "amazon-product-page"
       }
     };
   });

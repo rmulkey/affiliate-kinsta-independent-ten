@@ -1,4 +1,4 @@
-import { buildAmazonSearchUrl } from "@/lib/amazon";
+import { appendAmazonAffiliateTag } from "@/lib/amazon";
 import { type ProductCardContent } from "@/lib/types";
 
 type CountertopIceSeed = Omit<
@@ -6,6 +6,7 @@ type CountertopIceSeed = Omit<
   "affiliateUrl" | "ctaLabel" | "commerce"
 > & {
   query: string;
+  amazonUrl: string;
 };
 
 const ctaLabel = "Find on Amazon";
@@ -28,7 +29,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "GE Profile Opal 2.0 Ultra Nugget Ice Maker product image",
       kind: "product"
     },
-    query: "GE Profile Opal 2.0 Ultra Nugget Ice Maker"
+    query: "GE Profile Opal 2.0 Ultra Nugget Ice Maker",
+    amazonUrl: "https://www.amazon.com/dp/B0F1Z3T3DS"
   },
   {
     name: "Newair 44 lb Countertop Nugget Ice Maker",
@@ -47,7 +49,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Newair 44 lb Countertop Nugget Ice Maker product image",
       kind: "product"
     },
-    query: "Newair 44 lb Countertop Nugget Ice Maker"
+    query: "Newair 44 lb Countertop Nugget Ice Maker",
+    amazonUrl: "https://www.amazon.com/dp/B0DY4FM5X9"
   },
   {
     name: "Newair 26 lb Countertop Nugget Ice Maker",
@@ -66,7 +69,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Newair 26 lb Countertop Nugget Ice Maker product image",
       kind: "product"
     },
-    query: "Newair 26 lb Countertop Nugget Ice Maker"
+    query: "Newair 26 lb Countertop Nugget Ice Maker",
+    amazonUrl: "https://www.amazon.com/dp/B0C3G4X3SM"
   },
   {
     name: "Luma 44 lb Countertop Nugget Ice Maker",
@@ -85,7 +89,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Luma 44 lb Countertop Nugget Ice Maker product image",
       kind: "product"
     },
-    query: "Luma 44 lb Countertop Nugget Ice Maker"
+    query: "Luma 44 lb Countertop Nugget Ice Maker",
+    amazonUrl: "https://www.amazon.com/dp/B0CWBG3YGK"
   },
   {
     name: "Newair 45 lb Countertop Clear Ice Maker",
@@ -104,7 +109,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Newair 45 lb Countertop Clear Ice Maker product image",
       kind: "product"
     },
-    query: "Newair 45 lb Countertop Clear Ice Maker"
+    query: "Newair 45 lb Countertop Clear Ice Maker",
+    amazonUrl: "https://www.amazon.com/dp/B09XBPXFVB"
   },
   {
     name: "Newair Countertop Whiskey Ice Ball Maker",
@@ -123,7 +129,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Newair Countertop Whiskey Ice Ball Maker product image",
       kind: "product"
     },
-    query: "Newair Countertop Whiskey Ice Ball Maker"
+    query: "Newair Countertop Whiskey Ice Ball Maker",
+    amazonUrl: "https://www.amazon.com/dp/B0GCN4W5WJ"
   },
   {
     name: "Luma Countertop Clear Ice Maker 28 lb",
@@ -142,7 +149,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Luma Countertop Clear Ice Maker 28 lb product image",
       kind: "product"
     },
-    query: "Luma Countertop Clear Ice Maker 28 lb"
+    query: "Luma Countertop Clear Ice Maker 28 lb",
+    amazonUrl: "https://www.amazon.com/dp/B00DYJNNWQ"
   },
   {
     name: "Newair Countertop Clear Ice Maker 40 lb",
@@ -161,7 +169,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Newair Countertop Clear Ice Maker 40 lb product image",
       kind: "product"
     },
-    query: "Newair Countertop Clear Ice Maker 40 lb"
+    query: "Newair Countertop Clear Ice Maker 40 lb",
+    amazonUrl: "https://www.amazon.com/dp/B07YN8QFDG"
   },
   {
     name: "Newair 28 lb Countertop Bullet Ice Maker",
@@ -180,7 +189,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Newair 28 lb Countertop Bullet Ice Maker product image",
       kind: "product"
     },
-    query: "Newair 28 lb Countertop Bullet Ice Maker"
+    query: "Newair 28 lb Countertop Bullet Ice Maker",
+    amazonUrl: "https://www.amazon.com/dp/B0017Y3GGI"
   },
   {
     name: "Newair 26 lb Countertop Bullet Ice Maker",
@@ -199,7 +209,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Newair 26 lb Countertop Bullet Ice Maker product image",
       kind: "product"
     },
-    query: "Newair 26 lb Countertop Bullet Ice Maker"
+    query: "Newair 26 lb Countertop Bullet Ice Maker",
+    amazonUrl: "https://www.amazon.com/dp/B07J1YVSNQ"
   },
   {
     name: "Newair 33 lb Countertop Bullet Ice Maker",
@@ -218,7 +229,8 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Newair 33 lb Countertop Bullet Ice Maker product image",
       kind: "product"
     },
-    query: "Newair 33 lb Countertop Bullet Ice Maker"
+    query: "Newair 33 lb Countertop Bullet Ice Maker",
+    amazonUrl: "https://www.amazon.com/dp/B0017Y3GGI"
   },
   {
     name: "Newair 50 lb Countertop Bullet Ice Maker",
@@ -237,18 +249,19 @@ const countertopIceSeeds: CountertopIceSeed[] = [
       alt: "Newair 50 lb Countertop Bullet Ice Maker product image",
       kind: "product"
     },
-    query: "Newair 50 lb Countertop Bullet Ice Maker"
+    query: "Newair 50 lb Countertop Bullet Ice Maker",
+    amazonUrl: "https://www.amazon.com/dp/B0017Y3GGI"
   }
 ];
 
 export function getCountertopIceLabCatalog(affiliateTag: string) {
   return countertopIceSeeds.map<ProductCardContent>((product) => ({
     ...product,
-    affiliateUrl: buildAmazonSearchUrl(product.query, affiliateTag),
+    affiliateUrl: appendAmazonAffiliateTag(product.amazonUrl, affiliateTag),
     ctaLabel,
     commerce: {
       merchant: "amazon",
-      linkKind: "amazon-search"
+      linkKind: "amazon-product-page"
     }
   }));
 }

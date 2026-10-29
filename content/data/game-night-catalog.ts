@@ -1,4 +1,4 @@
-import { appendAmazonAffiliateTag } from "@/lib/amazon";
+import { appendAmazonAffiliateTag, normalizeAmazonImageUrl } from "@/lib/amazon";
 import { type ProductCardContent } from "@/lib/types";
 
 type GeneratedSeed = Omit<
@@ -15,14 +15,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Sorry! Board Game for Kids Ages 6 and Up; Classic Hasbro Board Game; Each Player Gets 4 Pawns; Family Game",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A practical option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81CA3GV9sXL._AC_UL320_.jpg",
@@ -35,14 +35,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hasbro Gaming Trouble Board Game for Kids Ages 5 and Up 2-4 Players",
     "category": "Board Games",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A useful option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81-oNwrbbnL._AC_UL320_.jpg",
@@ -55,14 +55,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Official Hasbro Games Jenga Game | Digital Die for 6 More Ways to Play | Original Wood Block Game | Stacking Tower | Ages 6+ | 1+ Players |...",
     "category": "Board Games",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "An option worth comparing for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81xyPFZTrfL._AC_UL320_.jpg",
@@ -75,14 +75,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Mattel Games UNO Card Game for Kid, Adult & Family Nights & Parties, Travel & Vacations, Color Blind Accessible & Customizable Deck (Amazon...",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A routine-focused option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
       "Portable",
       "Easy to pack",
       "Routine-friendly"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81tVL-E4lkL._AC_UL320_.jpg",
@@ -95,14 +95,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hasbro Gaming Candy Land Kingdom of Sweet Adventures Board Game for Kids, Easter Gifts for Boys and Girls, Ages 3 & Up (Amazon Exclusive)",
     "category": "Board Games",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A sensible option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71ZnGyItfoL._AC_UL320_.jpg",
@@ -115,14 +115,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Monopoly Game, Family Board Games for 2 to 6 Players & Kids Ages 8 and Up, Includes 8 Tokens (Token Vote Edition)",
     "category": "Board Games",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A practical option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/816dE7TY9xL._AC_UL320_.jpg",
@@ -135,14 +135,14 @@ const seeds: GeneratedSeed[] = [
     "name": "USAOPOLY The Original TAPPLE, The Fast-Paced Family Board Game,Choose a Category & Race Against The Timer to be The Last Player,Learning Wo...",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A useful option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81dTQBmNewL._AC_UL320_.jpg",
@@ -155,14 +155,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Do You Really Know Your Family? A Fun Family Game Filled with Conversation Starters and Challenges - Great for Kids, Teens and Adults",
     "category": "Board Games",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "An option worth comparing for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71HhBMdgrLL._AC_UL320_.jpg",
@@ -175,14 +175,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hasbro Gaming Connect 4 Classic Grid, 4 in a Row Game, Strategy Board Games for Kids, 2 Players for Family and Kids, Easter Gifts for Boys...",
     "category": "Board Games",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A routine-focused option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81fEiLrmZ8L._AC_UL320_.jpg",
@@ -195,14 +195,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hasbro Gaming Yahtzee Game, Fast-Playing Dice Games for Kids, Teens, and Adults, Strategy Games, Family Games for Kids, 2 or More Players,...",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A sensible option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81wCUGo+2NL._AC_UL320_.jpg",
@@ -215,14 +215,14 @@ const seeds: GeneratedSeed[] = [
     "name": "CATAN Board Game (6th Edition) Trade, Build & Settle in the Classic Strategy Game for Family, Kids & Adults, Ages 10+, 3-4 Players, 60-90 M...",
     "category": "Starter Kit",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A practical option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
       "Starter-friendly",
       "Bundle value",
       "Easy first buy"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71AbDpYEkgL._AC_UL320_.jpg",
@@ -235,14 +235,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Spin Master Games, Hedbanz 2023 Edition with New Cards, Picture Guessing Board Game, for Family & Kids, 2-6 Players, for Ages 6 & Up",
     "category": "Board Games",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A useful option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81SYDKizNoL._AC_UL320_.jpg",
@@ -255,14 +255,14 @@ const seeds: GeneratedSeed[] = [
     "name": "HUES and CUES - Vibrant Color Guessing Board Game for 3-10 Players Ages 8+, Connect Clues and Guess from 480 Color Squares",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "An option worth comparing for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81WUD2cZo5L._AC_UL320_.jpg",
@@ -275,14 +275,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hasbro Twister Party Classic Board Game for 2 or More Players,Indoor and Outdoor Game for Kids 6 and Up,Packaging May Vary",
     "category": "Board Games",
     "priceHint": "$$ Mid-range",
-    "description": "A clean routine helper for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A routine-focused option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/714LbaV4HQL._AC_UL320_.jpg",
@@ -295,14 +295,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hasbro Gaming Scrabble Board Game, Classic Word Games for Kids Ages 8 and Up, Fun Family Game for 2-4 Players, The Classic Crossword Game",
     "category": "Board Games",
     "priceHint": "$$$ Premium",
-    "description": "A solid shortlist item for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A sensible option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51O+I4BU2PL._AC_UL320_.jpg",
@@ -315,14 +315,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Taco Cat Goat Cheese Pizza Wildly Entertaining Card Game for Family and Group Game Night | Easy to Learn and Play with 10-15 Minute Rounds...",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A practical first-click pick for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A practical option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61L3JcwfsDL._AC_UL320_.jpg",
@@ -335,14 +335,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hasbro Gaming Guess Who? Board Game, with People and Pets Cards, The Original Guessing Game for Kids, Ages 6 and Up, Easter Gifts for Boys...",
     "category": "Board Games",
     "priceHint": "$$ Mid-range",
-    "description": "A useful little upgrade for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A useful option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81mFyh0CKQL._AC_UL320_.jpg",
@@ -355,14 +355,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Hasbro Gaming Battleship Classic Board Game | Strategy Games for Kids and Adults | Ages 7+ | 2 Players | Fun Kids Games | Family Games",
     "category": "Board Games",
     "priceHint": "$$$ Premium",
-    "description": "A strong add-to-cart candidate for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "An option worth comparing for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81PXMzof4NL._AC_UL320_.jpg",
@@ -375,14 +375,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Nex Playground - The Active Play System for Kids & Families Where Indoor Physical Activity Meets Interactive Family Fun and is Great for Ga...",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A clean routine helper for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A routine-focused option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/61Pg7ofgYHL._AC_UL320_.jpg",
@@ -395,14 +395,14 @@ const seeds: GeneratedSeed[] = [
     "name": "WHAT DO YOU MEME? Family Edition by Relatable, Now with Refreshed Content - Kids Games 8+, Family Games for Kids and Adults, The TikTok Vir...",
     "category": "Board Games",
     "priceHint": "$$ Mid-range",
-    "description": "A solid shortlist item for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A sensible option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81UKbciqMdL._AC_UL320_.jpg",
@@ -415,14 +415,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Tic Tac Toe Board Game,Tic Tac Toe Family Game, Classic Board Game, Classical Family Board Game,Children&#x27;s Tic Tac Toe Game, Plastic t...",
     "category": "Board Games",
     "priceHint": "$$$ Premium",
-    "description": "A practical first-click pick for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A practical option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51nN1UbsrUL._AC_UL320_.jpg",
@@ -435,14 +435,14 @@ const seeds: GeneratedSeed[] = [
     "name": "The Game of Life Board Game, Family Games for Kids Ages 8 and Up, Pegs Come in 6 Colors, Family Board Games for 2 to 4 Players",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A useful little upgrade for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A useful option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81A0K5YsuxL._AC_UL320_.jpg",
@@ -455,14 +455,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Regal Games Card Games for Kids - Go Fish, Crazy 8&#x27;s, Old Maid, Slap Jack, Garbage Monster, War - Simple & Fun Classic Family Table Ga...",
     "category": "Storage",
     "priceHint": "$$ Mid-range",
-    "description": "A strong add-to-cart candidate for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "An option worth comparing for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/91yBiXWLpYL._AC_UL320_.jpg",
@@ -475,14 +475,14 @@ const seeds: GeneratedSeed[] = [
     "name": "USAOPOLY BLANK SLATE, Where Great Minds Think Alike, Fun Family-Friendly Board Game, Word Association Party Game, Easy to Learn, Fun to Pla...",
     "category": "Board Games",
     "priceHint": "$$$ Premium",
-    "description": "A clean routine helper for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A routine-focused option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/81pHNmMFaAL._AC_UL320_.jpg",
@@ -495,14 +495,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Guess The Gibberish Card Game for Families by Relatable, From The Creators of Incohereant, Fun Kids Games for Kids 12+, Game Night With Fri...",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A solid shortlist item for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A sensible option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/716w66P24uL._AC_UL320_.jpg",
@@ -515,14 +515,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Lucky Egg Official Grab The Mic – Family Karaoke Board Game w/Foam Mic, 8+ Ages, 2-10 Players - Games for Bad Singers w/ 230 Lyrics (115 Ca...",
     "category": "Board Games",
     "priceHint": "$$ Mid-range",
-    "description": "A practical first-click pick for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A practical option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71Wr4UI2SaL._AC_UL320_.jpg",
@@ -535,14 +535,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Herd Mentality: Udderly Funny Family Board Game | Easy & Fun for Big Groups of 4-20 Players | Includes 20 Extra Exclusive Questions",
     "category": "Board Games",
     "priceHint": "$$$ Premium",
-    "description": "A useful little upgrade for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "A useful option for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/51u-cJ3s+VL._AC_UL320_.jpg",
@@ -555,14 +555,14 @@ const seeds: GeneratedSeed[] = [
     "name": "Pressman Rummikub - The Original Rummy Tile Game | Exciting Family Game of Strategy and Luck | Promotes STEM Skills | For Kids, Teens, Adul...",
     "category": "Board Games",
     "priceHint": "$ Budget-friendly",
-    "description": "A strong add-to-cart candidate for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
+    "description": "An option worth comparing for board games shoppers who want easier group fun, faster setup, better family nights, or games that do not require a rulebook seminar.",
     "highlights": [
-      "Real Amazon listing",
-      "Product-photo verified",
-      "Direct product-page link"
+      "Check the current model",
+      "Review size and fit",
+      "Compare current options"
     ],
     "bestFor": "Board Games shoppers who want a cleaner first shortlist",
-    "whyPicked": "It made this edit because it fits the Game Night lane: real Amazon availability, clear product imagery, and a use case that is easy to understand before clicking.",
+    "whyPicked": "It fits the Game Night focus because the use case is clear and the final size, compatibility, or care details can be checked before buying.",
     "trustNote": "Check age range, player count, game length, language needs, and whether the humor or difficulty fits your group.",
     "image": {
       "src": "https://m.media-amazon.com/images/I/71rH-drhKZL._AC_UL320_.jpg",
@@ -578,6 +578,10 @@ export function getGameNightCatalog(
 ): ProductCardContent[] {
   return seeds.map((product) => ({
     ...product,
+    image: {
+      ...product.image,
+      src: normalizeAmazonImageUrl(product.image.src)
+    },
     affiliateUrl: appendAmazonAffiliateTag(product.amazonUrl, affiliateTag),
     ctaLabel,
     commerce: {
